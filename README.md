@@ -20,9 +20,9 @@ En los ciclos de educación primaria se puede realizar una acercamiento trabajan
 
 Con Scratch podemos programar nuestras propias historias interactivas, juegos y utilidades y compartir nuestras creaciones en una comunidad virtual. Scratch es una buena herramienta pedagógica, ya que ayuda a los jóvenes a pensar creativamente, a razonar sistemáticamente y a trabajar colaborativamente, habilidades esenciales para su desarrollo vital.
 
-Makey-Makey es una placas electrónica que nos facilitan enormemente la interacción con el múndo físico pudiendo programarse fácilmente con[Scratch ](https://scratch.mit.edu/) es un software creado por el MIT (Massachusetts Institute Technology) con el fin de enseñar a programar de un modo visual especialmente a niños y jóvenes.
+Makey-Makey es una placas electrónica que nos facilitan enormemente la interacción con el múndo físico pudiendo programarse fácilmente con [Scratch ](https://scratch.mit.edu/) es un software creado por el MIT (Massachusetts Institute Technology) con el fin de enseñar a programar de un modo visual especialmente a niños y jóvenes.
 
-![Scratch](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Scratch_2.0_Screen_Hello_World.png/640px-Scratch_2.0_Screen_Hello_World.png)
+![Scratch 3.0](./images/scratch-3.0-696x346.jpg)
 
 Los programas se realizan uniendo los diferentes bloques encajables en un entorno integrado que incluye a la vez todo lo necesario para completar el programa.
 
