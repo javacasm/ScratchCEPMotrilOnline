@@ -1,5 +1,18 @@
-# Sesión 1
+# Calendario
+
 ## Introducción
+
+Presentación
+
+Planificación
+
+El curso está planificado para 2 sesiones por semana 
+
+
+
+# Sesión 1
+
+## Introducción a la programación
 ¿Qué es programar?
 ¿Por qué programar?
 ¿Por qué enseñar a programar?
@@ -9,6 +22,13 @@ Code.org
 * Bloques
 * Operaciones
 * Apps y otros
+
+### Tarea 1
+Presentación y ¿hasta donde has llegado en code.org?
+¿Quieres mostrarnos alguna App?
+
+# Sesión 2
+
 ## Scratch
 ¿Qué es Scratch?
 ¿Qué es un proyecto Scratch?
@@ -20,17 +40,20 @@ Ejemplo: revisar y modificar "Pasapalabra"
 * Compartir
 * Estudio: grupo de proyectos
 
-Hemos creado un estudio llamado ["Proyectos Scratch CEP de Jaén #RobCEPJaen"](https://scratch.mit.edu/studios/25853008/) donde iremos añadiendo todos los proyectos en los que trabajemos
+Hemos creado un estudio llamado ["Proyectos CEP de Motril 2020 #SratchCEPMotril"](https://scratch.mit.edu/studios/26524823/) donde iremos añadiendo todos los proyectos en los que trabajemos.
 
-## Dentro de un programa Scratch
-* Personajes/bjetos
-## Tarea
+### Tarea 2
+Crea tu cuenta en scratch
+Crea una copia de "Pasapalabra" y modifica las preguntas
+
 * Modificar ejemplo "Pasapalabra" para nuestro tema
 * Pensar cómo usarlo en **nuestra clase**
 
 [Proyecto modificado "Pasapalabra"](https://scratch.mit.edu/projects/371362279/)
 
-# Sesión 2
+# Sesión 3
+
+Crear proyecto
 
 ¿Qué son los recursos?
 * Imágenes
@@ -47,17 +70,29 @@ Añadir audios
 Fondos: Añadir imágenes
 * Editarlas
 
-Diálogo entre personajes
-Ejemplo: [diálogos](https://scratch.mit.edu/projects/373453276/)
-
-Movimiento
 Cambio de apariencia: 
 * Disfraces
 * Cambio tamaño
 
+Diálogo entre personajes
+
 Sincronización con **mensajes**
 
 Extensiones: Text2Speech
+
+
+### Tarea 3
+
+
+Crear un diálogo/historia entre personajes apropiado a tu contexto
+
+Ejemplo: [diálogos](https://scratch.mit.edu/projects/373453276/)
+
+
+# Sesión 4
+
+Movimiento
+
 
 Ejemplo: Movimientos/Geometría/matemáticas
 Extensiones: Dibujo
@@ -74,7 +109,9 @@ Reutilizamos bloques usando la **mochila**
 
 Ejemplo: [Dibujar Polígonos](https://scratch.mit.edu/projects/373492852/)
 
-# Sesión 3
+### Tarea 4
+
+# Sesión 5
 
 Interacción: Preguntar/responder
 
@@ -84,3 +121,10 @@ Makey-Makey
 
 Ejemplo: Alhambra Mágica
 
+### Tarea 5
+
+# Sesión 6
+
+Pensamiento computacional desconectado
+
+### Tarea 6

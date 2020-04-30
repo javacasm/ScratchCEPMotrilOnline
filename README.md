@@ -38,7 +38,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 * Conocer herramientas de iniciación a la programación
 * Realizar programas sencillos con Scratch
 * Aprender a interacción con el mundo físico usando la placa Makey-makey
-* Pensamiento computacional offline
+* Pensamiento computacional desconectado
 
 ## Contenidos
 
@@ -57,3 +57,4 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 
 ## [OpenSource](./opensource.md)
 
+## [Calendario](./Calendario.md)
