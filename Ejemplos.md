@@ -3,6 +3,21 @@
 Todos los ejemplos están en [este estudio](https://scratch.mit.edu/studios/25477130)
 
 
+## Primer ejemplo
+
+Gato dice Miau y suena
+
+
+
+## Cancion pirata
+
+
+
+## Charla entre personajes
+
+
+
+
 ## Movimientos básicos y ¡¡sonidos!!
 
 Aprendemos ...:
