@@ -10,21 +10,17 @@ Planificación
 
 ¿Qué es programar?
 
-Presentacion con https://github.com/javacasm/ScratchCEPMotrilOnline/blob/master/contexto.md 
-
-La programación como actividad transversal
+- La programación como actividad transversal https://docs.google.com/presentation/d/1NSo8zgZebFYp2paKrupxYQnJI55FqqyEsgVzG4dK_3Q/edit?usp=sharing
 
 
 - Usando Code.org
     - Uso como docentes 
 
-Apps de programación y bloques
-
-Presentación con https://github.com/javacasm/ScratchCEPMotrilOnline/blob/master/IniciacionProgramacion.md
+- Apps de programación y bloques https://docs.google.com/presentation/d/1VPjpZB5izt89QtBiWuQEy7NU_Boi-tGnfXmLtRP2AA4/edit?usp=sharing
 
 ## Sesión 2
 
-¿Qué es Scratch?
+- ¿Qué es Scratch?  https://docs.google.com/presentation/d/1ctR9NmMIATX9ujAJedJEsbBvJ2clGDwemtkO-OpbeyE/edit?usp=sharing
 
 IDE de scrach
 
