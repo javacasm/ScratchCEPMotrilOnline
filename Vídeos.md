@@ -10,11 +10,16 @@ Planificación
 
 ¿Qué es programar?
 
+Presentacion con https://github.com/javacasm/ScratchCEPMotrilOnline/blob/master/contexto.md 
+
 La programación como actividad transversal
+
 
 Usando Code.org
 
-Apps de programación
+Apps de programación y bloques
+
+Presentación con https://github.com/javacasm/ScratchCEPMotrilOnline/blob/master/IniciacionProgramacion.md
 
 ## Sesión 2
 
@@ -22,20 +27,51 @@ Apps de programación
 
 IDE de scrach
 
-Trabajar offline
+- Trabajar offline
 
-Guardar proyecto
+- Guardar proyecto
 
+- Crear una cuenta
+
+- Descripción de la cuenta
+
+- Cuenta de profesores
+
+- Buscar aplicaciones
+
+    - Modificarla
+    - Compartirla
+
+- Ejemplo Pasapalabra
+
+- Ideas, Ejemplos y tutoriales  
+
+- Primer ejemplo
 
 ## Sesión 3
 
-Añadir personajes/objetos
-* Disfraces
-Añadir audios
-* Editarlos
-Fondos: Añadir imágenes
+- Ejemplo Cancion Pirata
+
+
+- Recursos
+
+* Añadir personajes/objetos
+    * Disfraces
+* Editar Disfraces
+* Añadir audios
+* Editar Sonidos
+
+* Fondos: 
+Añadir imágenes
+
 
 Licencias
+
+Extensiones
+
+Texto a voz
+
+Traductor
 
 ## Sesión 4
 
