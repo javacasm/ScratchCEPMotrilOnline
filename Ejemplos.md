@@ -68,3 +68,17 @@ Aprendemos ...:
 ![](./images/DibujandoPoligono.png)
 
 [Proyecto](https://scratch.mit.edu/projects/348625727/)
+
+## Movimiento controlado de personajes: interaccion con teclas
+
+Coronavirus
+
+Creamos personaje desde imagen transparente
+
+Fondo desde imagen
+Redimensionamos fondo
+
+Eventos con teclas
+
+
+Usamos la makey/makey para controlarlo sin tener que hacer nada

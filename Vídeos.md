@@ -15,7 +15,8 @@ Presentacion con https://github.com/javacasm/ScratchCEPMotrilOnline/blob/master/
 La programación como actividad transversal
 
 
-Usando Code.org
+- Usando Code.org
+    - Uso como docentes 
 
 Apps de programación y bloques
 
