@@ -58,3 +58,6 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 ## [OpenSource](./opensource.md)
 
 ## [Calendario](./Calendario.md)
+
+
+Proyectos con #ScratchCEPMotril
