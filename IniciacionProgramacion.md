@@ -57,7 +57,25 @@ Code.org
 
 ## [Scratch](./Scratch.md)
 
-![interface](./images/scratch-interfaz.png)
+![Scratch 3.0](./images/scratch-3.0-696x346.jpg)
+
+
+## [Scratch con micro:bit](./Microbit.md)
+
+![Scratch & micro:bit](./images/scratch-microbit-kit-example-01.gif)
+
+
+## Scratch y Lego
+
+![Scratch y Lego](./images/ScratchLego.jpg)
+
+![Scratch y Lego avanzado](./images/maxresdefault.jpg)
+
+## [mBlock](./mBlocks.md)
+
+![mBlock & mbot](./images/mblock.jpg)
+
+![mBot](./images/spc-makeblock-mbot-rosa-90107-3.jpg)
 
 ## [AppInventor](./AppInventor.md)
 
@@ -65,7 +83,5 @@ Code.org
 
 ## [Videojuegos](https://arcade.makecode.com/)
 
+![Makecode](./images/MakeCode-Arcade_Site_08_2019_1400x788.png)
 
-## Ejemplos
-
-[Retos para secundaria](http://www.aprendeprogramando.es/challenges)
