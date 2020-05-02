@@ -1,5 +1,7 @@
 # Calendario
 
+ENLACE EN BITLY
+
 ## Introducción
 
 Presentación
@@ -18,6 +20,20 @@ El curso está planificado para 2 sesiones por semana
 ¿Por qué enseñar a programar?
 ¿Sabré hacerlo?
 Trabajar en proyectos
+* Hacer distintas versiones
+    * Varios niveles de complejidad
+    * Nunca quedarnos cortos
+    * Dejarles que usen su imaginación
+* Elaborar contenidos:
+    * buscar informacion en libros y en internet
+    * redactar textos
+    * leer 
+    * grabar audios y vídeos (TIC)
+    * Escribir documentación
+    * Traducir
+    * Pedir información: correspondencia
+
+
 Code.org
 * Bloques
 * Operaciones
@@ -32,6 +48,7 @@ Presentación y ¿hasta donde has llegado en code.org?
 ## Scratch
 ¿Qué es Scratch?
 ¿Qué es un proyecto Scratch?
+
 Comunidad
 Ejemplo: buscar algo que nos interese
 Ejemplo: revisar y modificar "Pasapalabra"
@@ -42,8 +59,13 @@ Ejemplo: revisar y modificar "Pasapalabra"
 
 Hemos creado un estudio llamado ["Proyectos CEP de Motril 2020 #SratchCEPMotril"](https://scratch.mit.edu/studios/26524823/) donde iremos añadiendo todos los proyectos en los que trabajemos.
 
-### Tarea 2
+
+
+### Tarea 2.1
 Crea tu cuenta en scratch
+Entra en la cuenta de la clase del curso
+
+### Tarea 2.2
 Crea una copia de "Pasapalabra" y modifica las preguntas
 
 * Modificar ejemplo "Pasapalabra" para nuestro tema
@@ -73,6 +95,13 @@ Fondos: Añadir imágenes
 Cambio de apariencia: 
 * Disfraces
 * Cambio tamaño
+
+
+Varios personajes
+
+Cambiamos tamaño de personajes
+
+Modificaciones sencillas disfraces
 
 Diálogo entre personajes
 
