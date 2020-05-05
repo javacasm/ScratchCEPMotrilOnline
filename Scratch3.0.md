@@ -1,11 +1,17 @@
 ## Módulo 3: Introducción a Scratch 3.0
 
-Scratch es un entorno de programación creado en el **MIT** por [Mitchel Resnick](https://www.media.mit.edu/people/mres)
+Scratch es un entorno de programación de bloques creado en el **MIT Media Lab** por [Mitchel Resnick](https://www.media.mit.edu/people/mres) en 2007.
 
-Podemos entender su filosofía leyendo este artículo de su creador y de David Siegel [A Different Approach to Coding](https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.734u3gfm8 y en [su mágnifica charla TED](https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code?language=es)
+Podemos entender su filosofía leyendo este artículo de su creador y de David Siegel [A Different Approach to Coding](https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.734u3gfm8 y en [su charla TED "Enseñemos a los niños a programar"](https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code?language=es)
 
+Aunque puede parecer que Scratch está hecho sólo para niños, a poco que investiguemos podemos ver que es mucho más potente.
+
+Para muestra este [Simulador de propagación de epidemias](https://www.media.mit.edu/posts/scratch-epidemic-simulator/) hecho por el propio Mitchel Resnick.
+
+### Uso de Scratch 3.0
 
 Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y como [aplicación de escritorio en Windows y MacOs](https://scratch.mit.edu/scratch2download/).
+
 Personalmente recomiendo la primera opción, además de porque podemos compartir nuestros contenidos, porque podemos acceder directamente a toda la documentación y a todos los proyectos que los demás usuarios han compartido.
 
 Además dispone de un sistema de **extensiones** que nos permite además de complentar nuestros porgramas con nuevas opciones (como síntesis de voz o traducción automática entre idiomas) y conectar nuestros programas Scratch con hardware de otros fabricantes, como Lego, micro:bit o los robots de MakeBlock.
@@ -29,18 +35,18 @@ Para trabajar con hardware externo a nuestro PC, necesitamos instalar **Scratch 
 ### La comunidad de Scratch y la documentación
 
 
-cratch es mucho más que un entorno de programación. 
+Scratch es mucho más que un entorno de programación. 
 
 Por eso considero que es mucho mejor trabajar con su versión online [https://scratch.mit.edu/](https://scratch.mit.edu/)
 
 Vamos a ver todo lo que rodea a la web de la versión 3.0 de Scratch:
-* La enorme comunidad que comparte sus proyectos y nos facilita el aprendizaje
-*  La sección de ideas para ver qué podemos hacer
-* Los tutoriales para saber cómo hacer cada cosa. 
-* Las fichas de actividades para que los usuarios aprendan paso a paso
+* La [enorme comunidad](https://scratch.mit.edu/explore/projects/all) que comparte sus proyectos y nos facilita el aprendizaje
+* La sección de [ideas](https://scratch.mit.edu/ideas) para ver qué podemos hacer
+* Los [tutoriales](https://scratch.mit.edu/projects/editor/?tutorial=all) para saber cómo hacer cada cosa. 
+* Las fichas de actividades para que los usuarios aprendan paso a paso.
 * Las guías docentes para que los profesores planifiquen sus actividades
 
-Veremos también las opciones que tenemos para trabajar desconectado con la aplicación de escritorio que podemos descargar de https://scratch.mit.edu download . 
+Veremos también las opciones que tenemos para trabajar desconectado con la aplicación de escritorio que podemos descargar de https://scratch.mit.edu/download. 
 
 Ahora mismo la versión de escritorio 3.0 sólo está disponible para Windows y MacOs.
 
@@ -56,7 +62,6 @@ y la [versión 1.4](https://scratch.mit.edu/scratch_1.4)
 
 
 ## Crear una cuenta en Scratch 3.0
-
 
 Crear una cuenta en Scratch 3.0 nos a permitir participar de la gran comunidad existente. 
 
