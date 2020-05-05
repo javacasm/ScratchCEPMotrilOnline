@@ -1,6 +1,7 @@
 # Vídeos y cambios pendientes
 mezclar los contenidos antiguos
 
+Dividir vídeo "Programacion en docencia" en 3: hasta 7:21 hasta 14 y lo de Diego
 
 ## Qué es scratch
 Fecha de creación de Scratch, creo que 2007
