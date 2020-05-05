@@ -4,9 +4,13 @@
 
 ## Sesión 0: Bienvenida
 
+[![Bienvenida al curso de Scratch 3.0](https://img.youtube.com/vi/PeQsRkHcUOM/0.jpg)](https://youtu.be/PeQsRkHcUOM)
+
 [Vídeo: Presentación del curso](https://youtu.be/PeQsRkHcUOM)
 
 El curso, en principio, está planificado para 2 sesiones por semana de 1.5 horas de revisión de documentación, más unas horas de trabajo personal
+
+[![Planificacion del curso](https://img.youtube.com/vi/Mwzw9LCAkWA/0.jpg)](https://youtu.be/Mwzw9LCAkWA)
 
 [Vídeo: Planificación (más o menos) del curso](https://youtu.be/Mwzw9LCAkWA)
 
@@ -15,6 +19,8 @@ El curso, en principio, está planificado para 2 sesiones por semana de 1.5 hora
 ## Sesión 1: Programación en la educación
 
 ¿Qué es programar?
+
+[![¿Qué es programar?](https://img.youtube.com/vi/-b_Dh9OJLNs/0.jpg)](https://youtu.be/-b_Dh9OJLNs)
 
 [Vídeo: ¿Qué es programar?](https://youtu.be/-b_Dh9OJLNs) 
 
@@ -38,6 +44,9 @@ Personalmente creo que sí y en este vídeo os explico mis motivos. Entiendo un 
 
 ¿Podemos explicar la historia con un programa hecho en Scratch?
 ¿y el Arte?
+
+[![La programación como una herramienta transversal en la educación](https://img.youtube.com/vi/4x4QIk8TYog/0.jpg)](https://youtu.be/4x4QIk8TYog)
+
 
 [Vídeo: La programación como una herramienta transversal en la educación](https://youtu.be/4x4QIk8TYog)
 
@@ -68,6 +77,9 @@ La ventaja de que los primeros (Blockly y Scratch) fueran OpenSource han  permit
 
 En este vídeo vamos a ver algunos y lo que podemos hacer con ellos.
 
+[![Entornos y aplicaciones para aprender a programar utilizando bloques](https://img.youtube.com/vi/YpARH-1AqmY/0.jpg)](https://youtu.be/YpARH-1AqmY)
+
+
 [Vídeo: Entornos y aplicaciones para aprender a programar utilizando bloques](https://youtu.be/YpARH-1AqmY)
 
 [Presentación: Apps y webs de programación y bloques](https://docs.google.com/presentation/d/1VPjpZB5izt89QtBiWuQEy7NU_Boi-tGnfXmLtRP2AA4/edit?usp=sharing)
@@ -78,6 +90,9 @@ En este vídeo vamos a ver algunos y lo que podemos hacer con ellos.
 Vamos a ver uno de los entornos de bloques de los que hemos hablado anteriormente: [Code.org](https://Code.org).
 
 Podemos decir que Code.org es la mejor herramienta para empezar a aprender a programar, sobre todo para los más pequeños.
+
+[![Code.org: la herramienta para empezar a aprender a programar](https://img.youtube.com/vi/7HmUL28cxTw/0.jpg)](https://youtu.be/7HmUL28cxTw)
+
 
 [Vídeo:  Code.org: la herramienta para empezar a aprender a programar](https://youtu.be/7HmUL28cxTw)
 
@@ -90,6 +105,7 @@ Además de ser una de las herramientas más usadas para enseñar a los más pequ
 * Personalizar los cursos que ve cada clases
 * Hacer seguimiento de los avances de cada alumno
 
+[![Code.org y sus herramientas para docentes](https://img.youtube.com/vi/atmbbAqsEQU/0.jpg)](https://youtu.be/atmbbAqsEQU)
 
 [Vídeo: Code.org y sus herramientas para docentes](https://youtu.be/atmbbAqsEQU)
 
@@ -119,6 +135,8 @@ Para trabajar con hardware externo a nuestro PC, necesitamos instalar **Scratch 
 * Lego Wedo
 * micro:bit
 * Sensores Vernier
+
+[![Vídeo: ¿Qué es Scratch?](https://img.youtube.com/vi/QYuLE1PCTlQ/0.jpg)](https://youtu.be/QYuLE1PCTlQ)
 
 [Vídeo: ¿Qué es Scratch?](https://youtu.be/QYuLE1PCTlQ)
 
@@ -166,7 +184,10 @@ Para crear une cuenta entraremos en el siguiente enlace https://scratch.mit.edu/
 
 Se nos enviará un email para que verifiquemos la cuenta. Hasta que no lo hayamos hecho nos aparecerá un aviso y no podremos compartir nuestros proyectos.
 
-[ Creación de una cuenta en Scratch 3.0 y su utilidad](https://youtu.be/Xzc31ESCreI)
+[![Creación de una cuenta en Scratch 3.0 y su utilidad](https://img.youtube.com/vi/Xzc31ESCreI/0.jpg)](https://youtu.be/Xzc31ESCreI)
+
+
+[Vídeo: Creación de una cuenta en Scratch 3.0 y su utilidad](https://youtu.be/Xzc31ESCreI)
 
 ### Tarea 2.1: Crea una cuenta en Scratch
 
@@ -185,8 +206,10 @@ Para poder incluir a los alumnos en nuestras clases, éstos tienen que crear su 
 
 Desde aquí los docentes pueden supervisar la actividad de sus alumnos.
 
-[Vídeo: Ventajas de usar una cuenta de docente en Scratch 3.0
-Guardado como borrador](https://youtu.be/GL9kbEV3h5M)
+[![Vídeo: Ventajas de usar una cuenta de docente en Scratch 3.0 Guardado como borrador](https://img.youtube.com/vi/GL9kbEV3h5M/0.jpg)](https://youtu.be/GL9kbEV3h5M)
+
+
+[Vídeo: Ventajas de usar una cuenta de docente en Scratch 3.0 Guardado como borrador](https://youtu.be/GL9kbEV3h5M)
 
 ## Reinventado aplicaciones
 - Buscar aplicaciones
@@ -198,14 +221,12 @@ Guardado como borrador](https://youtu.be/GL9kbEV3h5M)
 
 - Guardar proyecto
 
-[Vídeo: Buscar, reinventar y compartir proyectos en Scratch 3.0
-Guardado como borrador](https://youtu.be/fvpRQRcwJ7o)
+[![Vídeo: Buscar, reinventar y compartir proyectos en Scratch 3.0 Guardado como borrador](https://img.youtube.com/vi/fvpRQRcwJ7o/0.jpg)](https://youtu.be/fvpRQRcwJ7o)
+
+
+[Vídeo: Buscar, reinventar y compartir proyectos en Scratch 3.0 Guardado como borrador](https://youtu.be/fvpRQRcwJ7o)
 
 [Ejemplo 0: Pasapalabra remix STEAM](https://scratch.mit.edu/projects/391751565/)
-
-
-[Vídeo: Buscar, reinventar y compartir proyectos en Scratch 3.0](https://youtu.be/fvpRQRcwJ7o)
-
 
 Hemos creado un estudio llamado ["Proyectos CEP de Motril 2020 #SratchCEPMotril"](https://scratch.mit.edu/studios/26524823/) donde iremos añadiendo todos los proyectos en los que trabajemos.
 
@@ -223,6 +244,9 @@ Aprenderemos como añadir sonidos, textos y mostrar un fondo atractivo.
 Todo esto en nuestro [primer programa](https://scratch.mit.edu/projects/391761903/)
 
 ![Gatito dice miau](./images/GatitoMiau.png)
+
+[![Vídeo: Primer programa con un gatito](https://img.youtube.com/vi/wNLJSCMyPUU/0.jpg)](https://youtu.be/wNLJSCMyPUU)
+
 
 [Vídeo: Primer programa con un gatito](https://youtu.be/wNLJSCMyPUU)
 
