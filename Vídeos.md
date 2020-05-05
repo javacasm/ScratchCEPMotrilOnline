@@ -1,4 +1,5 @@
-# Vídeos pendientes
+# Vídeos y cambios pendientes
+mezclar los contenidos antiguos
 
 
 ## Qué es scratch
@@ -91,3 +92,4 @@ Ejemplo Unir preguntas y respuestas
 
 
 ## Proyecto final
+
