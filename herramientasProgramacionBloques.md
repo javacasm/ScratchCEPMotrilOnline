@@ -4,6 +4,17 @@ Existen multitud de entornos y aplicaciones que nos permiten aprender a programa
 
 La ventaja de que los primeros (Blockly y Scratch) fueran OpenSource han  permitido que desarrolladores y empresas generen otros más específicos, unos para distintas plataformas (App Inventor para programar Apps para dispositivos Android), otros para sus propios equipos (como el entorno mBlock para los robots de MakeBlock).
 
+A partir de Scratch y Blocky se crean otro entornos de programación:
+* Scratch
+    - Lego
+    - micro:bit
+    - mBlock
+* Blockly
+    - App inventor
+    - Code
+    - Makecode
+
+
 En este vídeo vamos a ver algunos y lo que podemos hacer con ellos.
 
 [![Entornos y aplicaciones para aprender a programar utilizando bloques](https://img.youtube.com/vi/YpARH-1AqmY/0.jpg)](https://youtu.be/YpARH-1AqmY)
