@@ -1,6 +1,10 @@
 ## Módulo 2: Entornos y aplicaciones para aprender a programar utilizando bloques
 
-Existen multitud de entornos y aplicaciones que nos permiten aprender a programar utilizando bloques. En este vídeo vamos a ver algunos de ellos.
+Existen multitud de entornos y aplicaciones que nos permiten aprender a programar utilizando bloques. En este vídeo vamos a ver algunos y lo que podemos hacer con ellos.
+
+Haremos un breve recorrido por las herramientas más usadas para aprender a programar.
+
+Todas son herramientas openSource y por tanto libres y gratuitas. La mayoría están disponibles para todas las plataformas, aunque las usaremos en su versión Web.
 
 La ventaja de que los primeros (Blockly y Scratch) fueran OpenSource han  permitido que desarrolladores y empresas generen otros más específicos, unos para distintas plataformas (App Inventor para programar Apps para dispositivos Android), otros para sus propios equipos (como el entorno mBlock para los robots de MakeBlock).
 
@@ -15,8 +19,7 @@ A partir de Scratch y Blocky se crean otro entornos de programación:
     - Makecode
 
 
-En este vídeo vamos a ver algunos y lo que podemos hacer con ellos.
-
+En este vídeo vamos a ver algunos 
 [![Entornos y aplicaciones para aprender a programar utilizando bloques](https://img.youtube.com/vi/YpARH-1AqmY/0.jpg)](https://youtu.be/YpARH-1AqmY)
 
 
@@ -50,5 +53,9 @@ Además de ser una de las herramientas más usadas para enseñar a los más pequ
 [Vídeo: Code.org y sus herramientas para docentes](https://youtu.be/atmbbAqsEQU)
 
 ### Tarea 1
-¿hasta donde has llegado en code.org?
-¿Quieres mostrarnos alguna App?
+
+Seguro que has estado un ratito "jugando" y aprendiendo a programar con Code.org ¿Hasta qué nivel has llegado?
+
+¿Has invitado a alguien a que lo pruebe?
+
+No dejes de contarnos si conoces alguna otra App o web donde aprender a programar
