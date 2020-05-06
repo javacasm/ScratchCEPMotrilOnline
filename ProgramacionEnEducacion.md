@@ -1,5 +1,11 @@
 ## Módulo 1: Programación en la educación
 
+Durante esta módulo vamos a ver cómo pueden ayudarnos la programación y la robótica en nuestro día a día en las aulas.
+
+Hablaremos de su uso transversal, como una herramienta más que podemos usar.
+
+Presentaremos un ejemplo el proyecto "Alhambra Mágica" del CEIP García Lorca de Güevejar
+
 ### ¿Qué es programar?
 
 [![¿Qué es programar?](https://img.youtube.com/vi/-b_Dh9OJLNs/0.jpg)](https://youtu.be/-b_Dh9OJLNs)
@@ -41,7 +47,7 @@ Programar es: Indicar **explícita** y **exhaustivamente** todos los pasos **ord
 
 
 
-### La programación como una herramienta transversal en la educación
+### La programación como herramienta transversal en la educación
 
 ¿Por qué programar?
 ¿Por qué enseñar a programar?
@@ -49,10 +55,10 @@ Programar es: Indicar **explícita** y **exhaustivamente** todos los pasos **ord
 
 Aunque no soy pedagogo ni experto en el tema, os doy mi opinión sobre cómo incluir la programación como una actividad transversal, ayudando en el aprendizaje de las restantes asignaturas
 
-A primera vista vemos que podemo utilizar Scratch para enseñar matemáticas o geometría, pero ...
+A primera vista vemos que podemos utilizar Scratch para enseñar matemáticas o geometría, pero ...
 ¿Podemos usar Scratch para aprender historia? ¿o arte? 
 
-¿Y si lo empleamos como un sustituo del PowerPoint?
+¿Y si lo empleamos como un sustituto del PowerPoint?
 
 ¿Tiene sentido utilizar la programación en la educación?
 Personalmente creo que sí y en este vídeo os explico mis motivos. Entiendo un uso transversal de la programación (y la robótica) en las aulas, fomentando el pensamiento STEAM y utilizando la tecnología en todo tipo de asignaturas
@@ -142,3 +148,9 @@ Hacer distintas versiones
     * Varios niveles de complejidad
     * Nunca quedarnos cortos
     * Dejarles que usen su imaginación
+
+## Referencias
+
+[Evidencias científicas de los beneficios de aprender a programar desde infantil](http://programamos.es/evidencias-cientificas-de-los-beneficios-de-aprender-a-programar-desde-infantil/)
+
+[Blog del proyecto Alhambra Mágica](https://alhambramagica.blogspot.com/)
