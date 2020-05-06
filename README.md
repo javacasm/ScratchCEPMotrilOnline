@@ -1,4 +1,4 @@
-# Curso de Scratch, Makey-Makey y Pensamiento computacional Offline
+# INICIACIÓN A LA ROBÓTICA PARA EDUCACIÓN PRIMARIA ([201812GE045](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/201812GE045/))
 
 ## CEP de Motril
 
@@ -19,37 +19,34 @@
 
 [Vídeo: Presentación del curso](https://youtu.be/PeQsRkHcUOM)
 
+## Objetivos
+- Desarrollo del pensamiento computacional sin ordenador
+- Conocer el entorno Scratch / Makey Makey y sus aplicaciones en educación
+- Realizar programas usando bloques
+- Construir una maqueta de juego automático
+- Potenciar la creatividad, la imaginación y el diseño.
 
-## Objetivos  
-
-El objetivo del curso es presentar estas herramientas sencillas y atractivas para los alumnos como [Code](http://Code.org) y Scratch  (según su edad y conocimientos)
-
-* Entender la importancia de enseñar a programar
-* Conocer herramientas de iniciación a la programación
-* Realizar programas sencillos con Scratch
-* Aprender a interacción con el mundo físico usando la placa Makey-makey
-* Pensamiento computacional desconectado
 
 ## Contenidos
 
-* [Presentación del curso](./presentacion.md)
-* [Programación en la educación](./programacionEnEducacion.md)
-* [Entornos y aplicaciones para aprender a programar utilizando bloques](./herramientasProgramacionBloques.md)
+## Presentación
+
+* [Presentación del curso](./Presentacion.md)
+
+###  Tema 1
+* [Programación en la educación](./ProgramacionEnEducacion.md)
+* [Entornos y aplicaciones para aprender a programar utilizando bloques](./HerramientasProgramacionBloques.md)
+
+### Tema 2
+
 * [Introducción a Scratch](./Scratch3.0.md)
 * [Primeros programas con Scratch 3.0](./PrimerosEjemplos.md)
-* [Programando con Scratch](./Scratch.md):
-  * [Dibujando con Scratch](./Scratch.md#vamos-a-dibujar)
-  * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
-  * [Sonidos y animaciones](./Scratch.md#sonido)
-* [Ejemplos de juegos con scratch](./Ejemplos.md)
-* [Ejemplos de proyectos con Makey-makey](./MakeyMakey/README.md)
-* Pensamiento computacional Offline
 
-## [Recursos](./Recursos.md)
+
+## [Referencias/Ampliación](./Referencias.md)
 
 ## [OpenSource](./opensource.md)
 
-## [Calendario](./Calendario.md)
 
 
-Proyectos con #ScratchCEPMotril
+

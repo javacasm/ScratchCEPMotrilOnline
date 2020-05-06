@@ -1,63 +1,40 @@
-# Recursos
+## Trabajando con recursos
+ 
+Llamamos recursos a todos aquellos materiales que usamos
+
+## Ejemplo 3.2: Cancion Pirata
+
+ Añadir personajes/objetos
+     Disfraces
+ Editar Disfraces
+
+Necesitamos un micro en  nuestro ordenaror o bien usar un móvil o tablet para grabarlo y luego pasarlo al ordenador
+
+ Añadir audios
+     Editar Sonidos
+
+3.2.1 Texto
 
 
-[Code](code.org)
+3.2.2 Musica
 
-[Novedades Scratch 3.0](https://medium.com/scratchteam-blog/introducing-scratch-3-0-expanding-the-creative-possibilities-of-coding-ad4cd9eda9ef)
+3.2.3 Animación de los personajes
 
-[Novedades Scratch 3.0](https://www.makeblock.com/official-blog/224782.html)
-
-[Novedades Scratch 3.0](https://programamos.es/bienvenido-scratch-3-0/)
-
-[Actividades Scratch 2.0](http://download.makeblock.com/Scratch2.0TheAdventuresofMike.pdf)
-
-## MOOCs
-
-[Scratch en UOC](https://mooc.scratch.uoc.edu)
-
-[MOOCBot educaLAB Cómo introducir la programación y la robótica en todas las materias ](http://mooc.educalab.es/courses/INTEF/INTEF159/2015_ED1/info)
-
-[Programación II](http://www.scolartic.com/es/web//programacion-ii.-creando-codigo-fuente)
+3.2.4 Grabamos nuestro audio
 
 
 
-## [5 Razones](http://blog.todoelectronica.com/2015/10/5-motivos-por-los-aficionar-los-ninos-y-tan-ninos-la-programacion-la-robotica/)
+## Ejemplo 3.3 
 
-* Es muy fácil empezar desde 0
-* Es divertido y engancha
-* Hace volar la imaginación
-* Fomenta la innovación
-* Es el futuro (casi el presente)
+Ejemplo 3.3: mostrar monumentos y enseñar nuestro patrimonio
+Nos puede servir para recrear momentos históricos
 
+Licencias
 
-## Referencias
+Extensiones
 
-[Programamos](http://programamos.es)
-
-[EducaLab](http://educalab.es/home)
+Texto a voz
 
 
-[cursos](http://paunin.blogspot.com.es/2015/11/quieres-aprender-scratch.html)
-
-[Curso UOC](https://mooc.scratch.uoc.edu/courses/course-v1:UOCx+UOC002+015_T1/info)
-
-[Curso Scratch](http://www.desarrollandojuntos.com/tecnologia-educativa/scratch/)
-
-[Educación 3.0](http://www.educaciontrespuntocero.com/recursos/el-proyecto-scratch-de-los-viernes-i-moviendo-el-gato/29934.html)
-
-[Ejemplos club de robotica de Granada](http://clubroboticagranada.esy.es/recursos/)
-
-
-## Eventos
-
-[Scratch Day](http://day.scratch.mit.edu/)
-
-![codeweek](https://github.com/javacasm/CodeWeek-programacion/raw/master/images/Codeweek.png)
-
-[Code Week](http://codeweek.eu) (Origen EU)
-
-[Hour of code](http://hourofcode.com) (Origen EEUU)
-
-## Open Source
-
-Muchas de estas iniciativas son posibles gracias al movimiento [Open Source](./OpenSource.md)
+Fondos: 
+  Añadir imágenes

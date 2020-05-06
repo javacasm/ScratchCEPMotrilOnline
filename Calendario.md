@@ -4,7 +4,6 @@
 
 # Sesión 1
 
-## Introducción a la programación
 
 # Sesión 2
 
