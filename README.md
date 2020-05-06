@@ -38,9 +38,9 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 * [Introducción a Scratch](./Scratch3.0.md)
 * [Primeros programas con Scratch 3.0](./PrimerosEjemplos.md)
 * [Programando con Scratch](./Scratch.md):
-  * [Dibujando con Scratch](./Scratch/Scratch.md#vamos-a-dibujar)
-  * [Personajes, disfraces, escenarios](./Scratch/Scratch.md#personaje)
-  * [Sonidos y animaciones](./Scratch/Scratch.md#sonido)
+  * [Dibujando con Scratch](./Scratch.md#vamos-a-dibujar)
+  * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
+  * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
 * [Ejemplos de proyectos con Makey-makey](./MakeyMakey/README.md)
 * Pensamiento computacional Offline
