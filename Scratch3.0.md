@@ -14,7 +14,7 @@ Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y com
 
 Personalmente recomiendo la primera opción, además de porque podemos compartir nuestros contenidos, porque podemos acceder directamente a toda la documentación y a todos los proyectos que los demás usuarios han compartido.
 
-Además dispone de un sistema de **extensiones** que nos permite además de complentar nuestros porgramas con nuevas opciones (como síntesis de voz o traducción automática entre idiomas) y conectar nuestros programas Scratch con hardware de otros fabricantes, como Lego, micro:bit o los robots de MakeBlock.
+Además dispone de un sistema de **extensiones** que nos permite además de completar nuestros programas con nuevas opciones (como síntesis de voz o traducción automática entre idiomas) y conectar nuestros programas Scratch con hardware de otros fabricantes, como Lego, micro:bit o los robots de MakeBlock.
 
 ### Extensiones
 
@@ -95,7 +95,9 @@ Para poder incluir a los alumnos en nuestras clases, éstos tienen que crear su 
 
 Desde aquí los docentes pueden supervisar la actividad de sus alumnos.
 
-[![Vídeo: Ventajas de usar una cuenta de docente en Scratch 3.0 Guardado como borrador](https://img.youtube.com/vi/GL9kbEV3h5M/0.jpg)](https://youtu.be/GL9kbEV3h5M)
+[![Vídeo: Ventajas de usar una cuenta de docente en Scratch 3.0](https://img.youtube.com/vi/GL9kbEV3h5M/0.jpg)](https://youtu.be/GL9kbEV3h5M)
 
 
-[Vídeo: Ventajas de usar una cuenta de docente en Scratch 3.0 Guardado como borrador](https://youtu.be/GL9kbEV3h5M)
+[Vídeo: Ventajas de usar una cuenta de docente en Scratch 3.0](https://youtu.be/GL9kbEV3h5M)
+
+Personalmente prefiero tener una cuenta personal y otra de docente, para separar los usos. Es muy fácil compartir proyectos entre ambas.
