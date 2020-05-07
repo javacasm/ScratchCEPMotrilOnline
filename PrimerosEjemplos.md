@@ -34,7 +34,7 @@ Hemos creado un estudio llamado ["Proyectos CEP de Motril 2020 #SratchCEPMotril"
 
 ## Ejemplo 4.1: Mi Gatito dice miau
 
-Vamos a hacer ahora nuestro pimer proyecto.
+Vamos a hacer ahora nuestro primer proyecto.
 
 Veremos cómo crear, guardar y compartir un sencillo ejemplo de Scratch en el que un simpático gatito hace "miau", nos dice "Hola" en una bonita ciudad nocturna.
 
