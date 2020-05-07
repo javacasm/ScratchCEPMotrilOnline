@@ -10,15 +10,15 @@ Una vez reinventemos un proyecto, se hará una copia en nuestra cuenta en el que
 
 Vamos a empezar aprovechando la gran cantidad de proyectos existentes y adaptando (reinventando) uno de ellos.
 
-Para ello vamos a ver algunas de las acciones que nos permite hacer nuestra cuenta de Scratch
+Para ello vamos a ver algunas de las acciones que nos permite hacer nuestra cuenta de Scratch:
 
-- Buscar aplicaciones con el buscador
-- Cuando encontremos algún proyecto que nos interese podemos probar cómo funciona pulsando la bandera verde
-- Si queremos ver la programación pulsaremos "Ver dentro"
-- Si nos interesa podemos reinventarlo y a partir de ahí trabajaremos con nuestra copia
+- Buscar aplicaciones con el buscador.
+- Cuando encontremos algún proyecto que nos interese podemos probar cómo funciona pulsando la bandera verde.
+- Si queremos ver la programación pulsaremos "Ver dentro".
+- Si nos interesa podemos reinventarlo y a partir de ahí trabajaremos con nuestra copia.
 - Podremos modificarla o adaptarla a lo que nos interesa.
-- No olvidemos que debemos guardar el proyecto, aunque normalmente se guarda automáticamente, a veces puede fallar y debemos hacerlo manualmente
--  Una vez estemos contentos con el resultado podemos compartirla
+- No olvidemos que debemos guardar el proyecto, aunque normalmente se guarda automáticamente, a veces puede fallar y debemos hacerlo manualmente.
+-  Una vez estemos contentos con el resultado podemos compartirla.
 
 
 [![Vídeo: Buscar, reinventar y compartir proyectos en Scratch 3.0 Guardado como borrador](https://img.youtube.com/vi/fvpRQRcwJ7o/0.jpg)](https://youtu.be/fvpRQRcwJ7o)
