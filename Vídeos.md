@@ -10,6 +10,10 @@ Explicar que mejor usar una cuenta para cada cosa
 
 Arreglar el lio de Piratas del Caribe
 
+Añadir a los proyectos "Posibles mejoras/ampliaciones"
+
+
+Vídeo 2.8.1 corte final y miniatura con mapa
 
 ## Sesión 3
 
