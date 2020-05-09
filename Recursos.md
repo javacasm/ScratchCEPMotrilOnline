@@ -5,7 +5,7 @@ Llamamos recursos a todos aquellos materiales que usamos dentro de nuestro progr
 * Imágenes, que buscaremos o que tendremos que crear, o fotografiar. Serán los fondos y los personajes de nuestro programa.
 * Sonidos, que tendremos que buscar.
 * Música, normalmente la descargaremos, cuidado con las licencias.
-* Grabaciones, que haremos nosotros mismos. Para ello necesitamos un micro en  nuestro ordenaror o bien usar un móvil o tablet para grabarlo y luego pasarlo al ordenador.
+* Grabaciones, que haremos nosotros mismos. Para ello necesitamos un micro en  nuestro ordenador o bien usar un móvil o tableta para grabarlo y luego pasarlo al ordenador.
 
 Muchas veces el preparar estos recursos es la parte más importante del proceso y donde nuestros alumnos trabajan más los contenidos.
 
@@ -53,7 +53,7 @@ Añadimos música de fondo a nuestra "Canción del Pirata"
 
 * Seleccionamos una música (cuidado con las licencias).
 * Subimos el fichero al proyecto como sonido (pueden ser mp3, au, wav, AIFF como indica en la documentación de [Scratch](https://en.scratch-wiki.info/wiki/What_sound_formats_can_I_import_into_Scratch%3F) ) Pero podemos convertir otros formatos con Audacity por ejemplo.
-* Usando el editor de Scratch 3.0 podemos recortar el sonido o cambiar su volumne si no lo necesitamos.
+* Usando el editor de Scratch 3.0 podemos recortar el sonido o cambiar su volumen si no lo necesitamos.
 * Seleccionamos el bloque de la paleta de sonido de "Iniciar sonido" (la alternativa sería "reproducir sonido" pero esperaría hasta terminar y no es lo que queremos).
 * Para dejar un poco de tiempo entre el comienzo de la música y que se muestren los textos podemos añadir un bloque "Esperar" desde la paleta "Control" con los segundos necesarios.
 
@@ -67,13 +67,13 @@ Si entráis en el proyecto https://scratch.mit.edu/projects/391768718/ sí que s
 
 [Vídeo: Añadimos música de fondo a nuestra "Canción Pirata"](https://youtu.be/WOX6ig3TkXI)
 
-### Mejoramos los movientos y animación del personaje
+### Mejoramos los movimientos y animación del personaje
 
-Vamos a modificar las imágenes de los disfraces de nuestro personaje para darle más movientos.
+Vamos a modificar las imágenes de los disfraces de nuestro personaje para darle más movimientos.
 
-* Entramos en la pestaña de los disfraces del personaje
-* Vemos los distintos fotogramas que tiene el personaje
-* Duplicamos el fotograma que queremos que sea la base para el nuevo
+* Entramos en la pestaña de los disfraces del personaje.
+* Vemos los distintos fotogramas que tiene el personaje.
+* Duplicamos el fotograma que queremos que sea la base para el nuevo.
 
 La mayoría de los disfraces son dibujos vectoriales, eso quiere decir que están creados a partir de formas y trazos. Es como si contuvieran las instrucciones para generarlos.
 
@@ -86,15 +86,15 @@ El editor de imágenes de los disfraces es un editor vectorial donde  podemos se
 
 Es conveniente renombrar los distintos fotogramas para que luego podamos usarlos fácilmente desde los bloques.
 
-[![Animación de los personajes de Canción del Pirata. Editando los Disfraces](https://img.youtube.com/vi/kfv99XMgIqI/0.jpg)](https://youtu.be/kfv99XMgIqI)
+[![Vídeo: Animación de los personajes de Canción del Pirata. Editando los Disfraces](https://img.youtube.com/vi/kfv99XMgIqI/0.jpg)](https://youtu.be/kfv99XMgIqI)
 
 
-[Animación de los personajes de Canción del Pirata. Editando los Disfraces](https://youtu.be/kfv99XMgIqI)
+[Vídeo: Animación de los personajes de Canción del Pirata. Editando los Disfraces](https://youtu.be/kfv99XMgIqI)
 
 
 ### Nos grabamos leyendo el poema
 
-Vamos a grabarnos leyendo la Canción del Pirata para mostrar los versos y oirlos a la vez.
+Vamos a grabarnos leyendo la Canción del Pirata para mostrar los versos y oírlos a la vez.
 
 * En la pestaña de sonidos, nos grabarnos leyendo los versos de uno en uno.
 * Podemos usar el editor de sonidos para arreglar las grabaciones, recortando los silencios iniciales o finales.
@@ -112,17 +112,15 @@ Vamos a grabarnos leyendo la Canción del Pirata para mostrar los versos y oirlo
 * Usar distintas voces para distintas partes
 * Jugar con los efectos
 
-## Ejemplo 3.3 
+## Ejemplo: Mostrando nuestro patrimonio andaluz
 
-Ejemplo 3.3: Mostrar monumentos y enseñar nuestro patrimonio
+Vamos a hacer una aplicación que nos permita mostrar un  recorrido por las provincias andaluzas, mostrando imágenes de diferentes monumentos y contándonos información sobre lo mostrado.
 
-Hablaremos de 
+Hablaremos de:
 * Licencias de contenidos
 * Movimiento d epersonajes
 * Fondos: Añadir imágenes como fondos
 * Extensiones: Texto a voz
-
-Vamos a hacer una aplicación que nos permita mostrar un  recorrido por las provincias andaluzas, mostrando imágenes de diferentes monumentos y contándonos información sobre lo mostrado.
 
 ![Recorrido Andalucia: Mapa](./images/RecorridoAndaluciaMapa.png)
 
@@ -130,7 +128,7 @@ Es importante que recordemos la importancia de usar fuentes de información con 
 
 ### Recorrido por Andalucía: el mapa
 
-Comenzamos seleccionando el personaje y buscando el mapa de Andalucía:
+Comenzamos seleccionando el personaje y buscando una imagen de un mapa de Andalucía:
 
 * Buscamos una imagen de un mapa de Andalucía con buena resolución y la licencia adecuada.
 * Cargamos la imagen como fondo.
@@ -144,9 +142,9 @@ Comenzamos seleccionando el personaje y buscando el mapa de Andalucía:
 
 ### Recorrido por Andalucía: movimiento y textos
 
-Vamos a hacer que nuestro personaje se mueva por el mapa y muestra la información sobre los monumentos
+Vamos a hacer que nuestro personaje se mueva por el mapa y muestra la información sobre los monumentos:
 
-* Nuestro personaje se presenta
+* Nuestro personaje se presenta.
 * Aprenderemos a situar al personaje en unas coordenadas adecuadas.
 * Buscaremos imágenes con licencia libre sobre el monumento que  queremos mostrar.
 * Crearemos fondos con las distintas imágenes.
@@ -154,15 +152,15 @@ Vamos a hacer que nuestro personaje se mueva por el mapa y muestra la informaci�
 
 El personaje irá recorriendo las distintas provincias, moviéndose por sobre el mapa y deteniéndose sobre cada provincia.
 
-* Aprenderemos a hacer que el personaje se desplace a una nueva posición 
-* Al llegar cambiaremos el fondo al de monumento a mostrar
+* Aprenderemos a hacer que el personaje se desplace a una nueva posición.
+* Al llegar cambiaremos el fondo al de monumento a mostrar.
 * El personaje nos mostrará los textos creados sobre el monumento en cuestión.
 
 [![Vídeo: Recorrido por Andalucía: movimiento y textos](https://img.youtube.com/vi/XX4XMdLFpgI/0.jpg)](https://youtu.be/XX4XMdLFpgI)
 
 [Vídeo: Recorrido por Andalucía: movimiento y textos](https://youtu.be/XX4XMdLFpgI)
 
-### 
+### Narrando textos de manera automática con la extensión "Texto a voz"
 
 Podíamos grabar los textos nosotros mismos, pero en esta caso vamos a explorar la posibilidad de usar una extensión que nos permite leer los textos, con diferentes voces, incluso en diferentes idiomas.
 
