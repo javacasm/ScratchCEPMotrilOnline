@@ -165,7 +165,7 @@ El personaje irá recorriendo las distintas provincias, moviéndose por sobre el
 Podíamos grabar los textos nosotros mismos, pero en esta caso vamos a explorar la posibilidad de usar una extensión que nos permite leer los textos, con diferentes voces, incluso en diferentes idiomas.
 
 * Añadimos la extensión Text to Speech, que necesita conexión a Internet (no funciona en modo desconectado)
-* Añadimos bloques de decir "texto"
+* Añadimos bloques de decir "texto".
 
 [![Vídeo: Recorrido por Andalucía: añadimos  Voz](https://img.youtube.com/vi/C2iAbpmEHOE/0.jpg)](https://youtu.be/C2iAbpmEHOE)
 
