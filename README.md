@@ -29,15 +29,15 @@
 
 ## Contenidos
 
-### Tema 0: Presentación
+### Sesión 0: Presentación
 
 * [Presentación del curso](./Presentacion.md)
 
-### Tema 1: Programción con bloques en educación
+### Sesión 1: Programción con bloques en educación
 * [Programación en la educación](./ProgramacionEnEducacion.md)
 * [Entornos y aplicaciones para aprender a programar utilizando bloques](./HerramientasProgramacionBloques.md)
 
-### Tema 2: Scratch 3.0 - Primeros ejemplos
+### Sesión 2: Scratch 3.0 - Primeros ejemplos
 
 * [Introducción a Scratch](./Scratch3.0.md)
 * [Primeros programas con Scratch 3.0](./PrimerosEjemplos.md)
