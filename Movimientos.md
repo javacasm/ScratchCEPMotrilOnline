@@ -73,7 +73,7 @@ Usa si quieres el [fondo de coordenadas](./images/CoordenadasScratch_sinGato.png
 
 3.2 movimientos relativos
 
-![Programa Movimientos Relativos](./images/MovimientosRelativos.png)
+![Programa Movimientos Relativos](./images/ProgramaMoimientosRelativos.png)
 
 [Programa Movimientos Relativos](https://scratch.mit.edu/projects/394215273/)
 
@@ -142,7 +142,7 @@ Vemos cómo copiar los bloques de un objeto a otro
 
 recuperar objetos borrado
 
-![Programa Spirograph](./images/Spirograph.png)
+![Programa Spirograph](./images/SpirographV2.png)
 [Programa Spirograph](https://scratch.mit.edu/projects/394219217)
 
 
