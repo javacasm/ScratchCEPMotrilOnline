@@ -1,6 +1,5 @@
 # Materiales pendientes de revisión
 
-* [Trabajando con recursos](./Recursos.md)
 * [Programando con Scratch](./Scratch.md):
   * [Dibujando con Scratch](./Scratch.md#vamos-a-dibujar)
   * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
