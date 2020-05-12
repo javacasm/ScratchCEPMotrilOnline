@@ -13,7 +13,17 @@
 
 ## Sesión 8: MakeyMakey
 
+
+Ejemplo: Preguntas y respuestas
+
+Makey-Makey
+
+
+Ejemplo  coronavirus: lo usamos con makey/makey para controlarlo sin tener que hacer ningún cambio
+
 [Ejemplos de proyectos con Makey-makey](./MakeyMakey/README.md)
+
+Ejemplo: Alhambra Mágica
 
 ## Sesión 9: Robótica en primaria
 
