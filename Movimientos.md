@@ -100,6 +100,16 @@ Usando la extensión **Dibujar**
 Usando la extensión "Dibujar" vamos a pintar cuadrados
 Aprendemos a cambiar el grosor y el color del lápiz y a bajar y subir el lápiz cuando queremos que nuestro personaje deje rastro al moverse
 
+
+Aprendemos ...:
+
+* A incluir más bloques con una extensión
+* A usar la extensión **Lápiz** para dibujar
+* A que hay que bajar el lápiz para dejar rastro
+* A borrar
+* A seleccionar color y groso del lápiz
+* A modificar el color del lápiz
+
 3.5 Pintando poligonos
 
 Conceptos: 
@@ -111,6 +121,7 @@ Vamos a generalizar el programa de dibujar cuadrados para que nos permita dibuja
 Creamos una variable NumeroLados.
 Calculamos el ángulo que tenemos que girar que será 360/NumeroLados.
 
+* A calcular usando los operadores algebráicos
 
 
 ![Programa Pintado Poligónos](./images/PintadoPoligonos.png)
