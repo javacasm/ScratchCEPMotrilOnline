@@ -33,17 +33,33 @@
 
 * [Presentación del curso](./Presentacion.md)
 
-### Sesión 1: Programción con bloques en educación
-* [Programación en la educación](./ProgramacionEnEducacion.md)
+### Sesión 1: Sesión 1: Programación y robótica en la educación
+
+[Programación en la educación](./ProgramacionEnEducacion.md)
+
+
+#### Recursos
+
+[Evidencias científicas de los beneficios de aprender a programar desde infantilURL](http://programamos.es/evidencias-cientificas-de-los-beneficios-de-aprender-a-programar-desde-infantil/)
+
+[Proyecto Alhambra Mágica](https://alhambramagica.blogspot.com/)
+
+### Sesión 2: Herramientas para aprender a programar usando bloques
+
 * [Entornos y aplicaciones para aprender a programar utilizando bloques](./HerramientasProgramacionBloques.md)
 
-### Sesión 2: Scratch 3.0 - Primeros ejemplos
+#### Recursos
+
+[Code.org](https://code.org)
+
+### Sesión 3: Scratch 3.0 - Primeros ejemplos
 
 * [Introducción a Scratch](./Scratch3.0.md)
 * [Primeros programas con Scratch 3.0](./PrimerosEjemplos.md)
+
+### Sesión 4: Trabajando con recursos
+
 * [Trabajando con recursos](./Recursos.md)
-
-
 
 ## [Referencias/Ampliación](./Referencias.md)
 
