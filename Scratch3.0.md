@@ -1,4 +1,4 @@
-## Módulo 3: Introducción a Scratch 3.0
+## Sesión 3: Introducción a Scratch 3.0
 
 Scratch es un entorno de programación de bloques creado en el **MIT Media Lab** por [Mitchel Resnick](https://www.media.mit.edu/people/mres) en 2007.
 
