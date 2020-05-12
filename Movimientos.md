@@ -56,18 +56,26 @@ Podemos fijar este tipo de rotación con este bloque
 
 3.0 Movimientos
 
-### Ejemplo: móvamonos en un cuadrado
+### Ejemplo: movámonos alrededor del escenario
 Vamos a mover nuestro personaje formando un rectángulo alrededor de toda la pantalla.
 Utilizaremos bloques con movimientos absolutos.
 Utilizamos un fondo para ayudarnos con las coordenadas.
+
+[![Vídeo: Movimiento de personajes](https://img.youtube.com/vi/4O_lxBaApnY/0.jpg)](https://youtu.be/4O_lxBaApnY)
+
+
+[Vídeo: Movimiento de personajes](https://youtu.be/4O_lxBaApnY)
 
 3.1 Movimientos absolutos
 
 Usa si quieres el [fondo de coordenadas](./images/CoordenadasScratch_sinGato.png)
 
-
 ![Programar Movimientos Absolutos](./images/MovimientosAbsolutos.png)
 
+[![Vídeo: Movimientos absolutos del personajes por el escenario](https://img.youtube.com/vi/dEVWnlP5EGk/0.jpg)](https://youtu.be/dEVWnlP5EGk)
+
+
+[Vídeo: Movimientos absolutos del personajes por el escenario](https://youtu.be/dEVWnlP5EGk)
 
 [Programar Movimientos Absolutos](https://scratch.mit.edu/projects/394209879/)
 
@@ -84,6 +92,8 @@ Ventaja de los
 Conceptos: 
 *  **bucle repetir**
 
+
+Sentencias de control: repetir N veces
 
 ![Programa Dibujando Cuadrados](./images/DibujandoCuadrados.png)
 
