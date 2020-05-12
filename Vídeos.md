@@ -8,47 +8,12 @@ Añadir a todos los proyectos "Posibles mejoras/ampliaciones"
 
 Vídeo 2.8.1 corte final 
 
-## Sesión 3
-
-
-![Coordenadas Scratch](./images/3_ejes.png)
-
-movimiento relativo
-Cambio de dirección
-Medidas
-
-Extensión: Dibujar
-dibujando
-
-## Sesión 4
-
-
-Ejemplo 3: Conversacion entre personajes
-
-eventos
-
-Ejemplo conversacion entre personajes
 
 
 
-
-Traductor
-
+MakeyMakey
 
 
-
-
-## Sesión 5
-
-Ejemplo X: coronavirus estelar
-
-moviento teclas
-
-Ejemplo X.1 tenemos que
-
-Interacción
-
-Semáforo sonoro
 
 batería
 
@@ -57,6 +22,11 @@ instrumentos
 Ejemplo de Quiz 1 pregunta
 
 Ejemplo Unir preguntas y respuestas
+
+
+Ejemplo de uso de Traductor y texto to speech
+
+Ejemplo Idiomas: Uso de traductor para trabajar los idiomas:
 
 
 ## Sesión 6
