@@ -4,6 +4,10 @@
 
 Comunicarnos con el usuario
 
+Interacción: Preguntar/responder
+
+Paleta: Sensores
+
 ### Preguntar
 
 Pedir información al usuario con **Preguntar** y usar el de **Respuesta**
