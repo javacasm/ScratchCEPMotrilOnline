@@ -1,61 +1,21 @@
 ## Conversaciones y narrando Historias
 
-¿Qué son los recursos?
+Vamos a aprender a darle un aspecto más realista a nuestro programas haciendo que el personaje se integre.
+
+Vamos a seguir trabajando con recursos, 
 * Imágenes
 * Sonidos
 * Textos
 * Narraciones
 
-Licencias
+Pero esta vez formarán parte de una historia que queremos contar
 
-Añadir personajes/objetos
-* Disfraces
-Añadir audios
-* Editarlos
-Fondos: Añadir imágenes
-* Editarlas
-
-Cambio de apariencia: 
-* Disfraces
-* Cambio tamaño
+Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a sus licencias .
 
 
-Varios personajes
+## Movimientos menos geométricos y en un escenario
 
-Cambiamos tamaño de personajes
-
-Modificaciones sencillas disfraces
-
-Diálogo entre personajes
-
-Sincronización con **mensajes**
-
-Extensiones: Text2Speech
-
-
-### Tarea X
-
-
-Crear un diálogo/historia entre personajes apropiado a tu contexto
-
-Ejemplo: [diálogos](https://scratch.mit.edu/projects/373453276/)
-
-Ejemplo 3: Conversacion entre personajes
-
-eventos
-
-Usamos la extensión **Texto a Vox** con distintas voces
-
-¿Cómo vamos a sincronizarlo?
-
-## Temporización 
-
-
-## Mensajes 
-
-
-## Movimientos menos geométricos
-
+Vamos a aprender a integrar un pesonaje por un escenario movíendolo, cambiando su tamaño, girándolo y haciendo que nos hable y produzca sonidos
 
 Aprendemos ...:
 * Ocultar al personaje con el bloque **Esconder**
@@ -75,3 +35,58 @@ Aprendemos ...:
 * Añadimos un fondo al escenario y ajustamos la coordenada **y**  para que Gatito se integre bien con el fondo
 
 [Proyecto](https://scratch.mit.edu/projects/348617555/)
+
+### Conversaciones e historias
+
+
+Añadir personajes/objetos
+* Disfraces
+Añadir audios
+* Editarlos
+Fondos: Añadir imágenes
+* Editarlas
+
+Cambio de apariencia: 
+* Disfraces
+* Cambio tamaño
+
+
+
+Varios personajes
+
+Varias voces 
+Extensiones: Text2Speech
+
+
+Cambiamos tamaño de personajes
+
+Modificaciones sencillas disfraces
+
+Diálogo entre personajes
+
+Sincronización con **mensajes**
+
+Ejemplo 3: Conversacion entre personajes
+
+eventos
+
+Usamos la extensión **Texto a Vox** con distintas voces
+
+¿Cómo vamos a sincronizarlo?
+
+## Temporización 
+
+
+## Mensajes 
+
+
+
+
+
+### Tarea X
+
+
+Crear un diálogo/historia entre personajes apropiado a tu contexto
+
+Ejemplo: [diálogos](https://scratch.mit.edu/projects/373453276/)
+
