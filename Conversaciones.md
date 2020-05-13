@@ -96,10 +96,10 @@ https://historia.nationalgeographic.com.es/a/cristobal-colon-y-capitulaciones-sa
 Decorado: castillo y escaleras
 
 Personajes:
-* Narradora: Singer
-* Colón: buscar imagen
-* Teléfono: [buscar imagen](https://www.google.com/search?q=red%20buttons%20phone&tbm=isch&hl=es&hl=es&tbs=ic%3Atrans%2Csur%3Afc&client=ubuntu&hs=BEY&ved=0CAIQpwVqFwoTCMiO7-LdsOkCFQAAAAAdAAAAABAC&biw=1905&bih=896#imgrc=ZoLNh72xMVUm4M&imgdii=Sv01PKTpVbePnM)
-* Reyes Católicos: [buscar imagen](https://www.google.com/search?q=reyes+catolicos+&tbm=isch&ved=2ahUKEwjGtYus4LDpAhUQ4BoKHRlYCjoQ2-cCegQIABAA&oq=reyes+catolicos+&gs_lcp=CgNpbWcQAzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADIECAAQQzICCAAyAggAUIBZWIBZYONcaABwAHgAgAFViAFVkgEBMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=QNy7XsaVDZDAa5mwqdAD&bih=896&biw=1905&client=ubuntu&hs=4os&tbs=sur%3Afc&hl=es#imgrc=2bb1iEcSJJROuM)
+* **Narradora**: Singer
+* **Colón**: buscar imagen
+* **Reyes Católicos**: buscar imagen
+* **Teléfono**: buscar imagen
 
 Podemos quitar el fondo de una imagen usando la web https://www.remove.bg/
 
@@ -107,25 +107,25 @@ Buscamos una música para el final [Biblioteca youtube](https://www.youtube.com/
 
 Sonido de teléfono
 
-Narradora: Hola, estamos en España en 1492.
+**Narradora**: Hola, estamos en España en 1492.
 
-Narradora: Los Reyes Católicos acaban de conquistar Granada.
+**Narradora**: Los Reyes Católicos acaban de conquistar Granada.
 
-Narradora: Colón era un reputado marino.
+**Narradora**: Colón era un reputado marino.
 
 Colón baja las escaleras pensando:
 
-Colón: He leído que la Tierra es redonda
-Colón: Si navego en la otra dirección...
-Colón: Puede haber un camino más corto hacía las Indias
+**Colón**: He leído que la Tierra es redonda
+**Colón**: Si navego en la otra dirección...
+**Colón**: Puede haber un camino más corto hacía las Indias
 
-Narradora: Colón pensó cómo podía financiar su viaje
+**Narradora**: Colón pensó cómo podía financiar su viaje
 
-Colón: Iré a Santa Fe en Granada, para hablar con los Reyes Católicos
+**Colón**: Iré a Santa Fe en Granada, para hablar con los Reyes Católicos
 
 Fondo con Reyes Católicos
 
-Colón: Majestades...
+**Colón**: Majestades...
 
 Fondo Carabelas
 
@@ -133,10 +133,10 @@ Suena el teléfono
 
 Colón se acerca 
 
-Colón: ¿Dígame?
+**Colón**: ¿Dígame?
 
-Teléfono: Sr Colón....
-Teléfono: Sólo llamo para felicitarle
+**Teléfono**: Sr Colón....
+**Teléfono**: Sólo llamo para felicitarle
 
 Suena la música final
 
