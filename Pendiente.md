@@ -42,8 +42,4 @@ Ejemplo: Alhambra Mágica
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
 
 
-
-
-## [Calendario](./Calendario.md)
-
 Proyectos con #ScratchCEPMotril
