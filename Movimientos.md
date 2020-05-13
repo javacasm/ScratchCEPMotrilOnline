@@ -71,49 +71,75 @@ Podemos fijar este tipo de rotación con este bloque
 ![Giro a -75º](./images/Giro_75.png)
 
 
-### Ejemplo: movámonos alrededor del escenario
-
-Vamos a mover nuestro personaje formando un rectángulo alrededor de toda la pantalla.
-Utilizaremos bloques con movimientos absolutos.
-Utilizamos un fondo para ayudarnos con las coordenadas.
 
 [![Vídeo: Movimiento de personajes](https://img.youtube.com/vi/4O_lxBaApnY/0.jpg)](https://youtu.be/4O_lxBaApnY)
 
 
 [Vídeo: Movimiento de personajes](https://youtu.be/4O_lxBaApnY)
 
-3.1 Movimientos absolutos
+### Ejemplo: movámonos alrededor del escenario
+
+Vamos a mover nuestro personaje formando un rectángulo alrededor de toda la pantalla.
 
 Usa si quieres el [fondo de coordenadas](./images/CoordenadasScratch_sinGato.png)
 
+
+
+3.1 Movimientos absolutos
+
+En este primer ejemplo utilizaremos bloques con movimientos absolutos.
+
+Para encontrar los valores adecuados de las coordenadas vamos moviendo con el ratón nuestro personaje.
+
+El programa queda muy sencillo:
+
 ![Programar Movimientos Absolutos](./images/MovimientosAbsolutos.png)
+
+[Programa: Movimientos Absolutos](https://scratch.mit.edu/projects/394209879/)
+
 
 [![Vídeo: Movimientos absolutos del personajes por el escenario](https://img.youtube.com/vi/dEVWnlP5EGk/0.jpg)](https://youtu.be/dEVWnlP5EGk)
 
 
 [Vídeo: Movimientos absolutos del personajes por el escenario](https://youtu.be/dEVWnlP5EGk)
 
-[Programar Movimientos Absolutos](https://scratch.mit.edu/projects/394209879/)
 
 3.2 movimientos relativos
 
+Vamos a hacer ahora el mismo recorrido pero usando movimientos relativos. Iremos girando y moviéndonos un cierto número de pasos.
+
+Hemos intercalado unas esperas entre los movimientos para poder apreciarlo más fácilmente.
+
 ![Programa Movimientos Relativos](./images/ProgramaMoimientosRelativos.png)
 
-[Programa Movimientos Relativos](https://scratch.mit.edu/projects/394215273/)
+[Programa: Movimientos Relativos](https://scratch.mit.edu/projects/394215273/)
+
+[![Vídeo: Movimientos relativos](https://img.youtube.com/vi/qC9IGAoevLw/0.jpg)](https://youtu.be/qC9IGAoevLw)
+
+[Vídeo: Movimientos relativos](https://youtu.be/qC9IGAoevLw)
 
 3.3 Bucles repetición
 
-Ventaja de los 
+Si en lugar de movernos con forma de rectángulo nos movemos haciendo un cuadrado, veremos que los movimientos son muy repetitivos.
 
-Conceptos: 
-*  **bucle repetir**
+Es algo muy frecuente tener que repetir un grupo de bloques varias veces. Por eso existen en la paleta de control los bloques "Repetir". 
 
+Vemos que muchos de estos bloques tiene forma de "C". El hueco central es donde pondremos todos aquellos bloques que queremos repetir.
 
-Sentencias de control: repetir N veces
+Uno de los más utilizados es el bloque "Repetir N veces", que será el adecuado para nuestro caso usando 4 repeticiones
+
+![Bloque Repetir N veces](./images/BucleRepetir.png)
+
+El programa queda así de sencillo:
 
 ![Programa Dibujando Cuadrados](./images/DibujandoCuadrados.png)
 
-[Programa Dibujando Cuadrados](https://scratch.mit.edu/projects/394066829/)
+[Programa: Dibujando Cuadrados](https://scratch.mit.edu/projects/394066829/)
+
+[![Vídeo: Bucle repetición](https://img.youtube.com/vi/_QsXbvNzuzE/0.jpg)](https://youtu.be/_QsXbvNzuzE)
+
+
+[Vídeo: Bucle repetición](https://youtu.be/_QsXbvNzuzE)
 
 3.4 Pintando cuadrados
 
