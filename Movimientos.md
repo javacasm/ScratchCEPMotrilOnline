@@ -1,26 +1,38 @@
 ## Movimientos de personajes
 
+Vamos a aprender a mover nuestros personajes por el escenario.
+Veremos que podemos hacer con movimientos absolutos (usando las coordenadas x,y) y también con movimientos relativos (dando n pasos desde la posición actual).
+
+También veremos que podemos hacer que nuestro personaje apunte a distintas direcciones.
+
+Veremos distintos ejemplos de ello
+
 ### Coordenadas
 
 ![Coordenadas Scratch](./images/CoordenadasScratch.png)
 
-X entre -240 y 240
+Las coordenadas del escenario de Scratch son las siguientes:
 
-Y entre -180 y 180
-
-(0,0) en el centro
+* X entre -240 y 240
+* Y entre -180 y 180
+* (0,0) es el centro
 
 ### Movimientos
 
+Vamos a ver las distintas formas de mover nuestro personaje.
+
 #### Movimientos absolutos
+
+Decimos que el movimiento es absoluto porque se indican las coordanas x, y que tendrá el personaje.
 
 ![Movimientos absolutos](./images/MovmientosAbsolutos.png)
 
-Ir a (x,y) es instántaneo, como un teletransporte
-
-Deslizar se va moviendo en el tiempo que le hemos indicado.
+* Ir a (x,y) es instántaneo, como un teletransporte.
+* Deslizar va moviendo poco a poco desde la posición inicial hasta la coordenada indicada en el tiempo que le hemos dicho.
 
 #### Direcciones/Orientación (en grados)
+
+Además de movernos podemos hacer que el personaje apunte en una dirección dada.
 
 ![Direcciones Scratch](./images/DireccionesScratch.png)
 
@@ -28,22 +40,29 @@ Deslizar se va moviendo en el tiempo que le hemos indicado.
 
 #### Movimiento relativos
 
-![Movimientos Relativos](./images/MovimientosRelativos.png)
+Los movimientos relativos se hacen a partir de la posición actual, y se indica cuantos grados gira a partir de la orientación actual o cuantos pasos avanza en la dirección en la que está actualmente
 
+![Movimientos Relativos](./images/MovimientosRelativos.png)
 
 #### Tipos de rotaciones
 
+Existen diferentes tipos de rotaciones, unas más indicadas para cada tipo de disfraz
+
+El tipo de rotación **giro** rota el disfraz actual de nuestro personaje los grados indicados:
+
 ![Rotacion tipo Giro](./images/RotacionGiro.png)
+
+El tipo de rotación **horizontal** solo tiene en cuenta el signo de los grados indicados, haciendo que el disfraz "mire" hacia la izquierda cuando el signo es negativo y para la derecha cuando es positivo:
 
 ![Rotación tipo Horizontal](./images/RotacionHorizontal.png)
 
+Si no queremos que el disfraz se modifique con las rotaciones usaremos **Sin rotación**.
 
 ![Sin Rotación](./images/SinGiro.png)
 
 Podemos fijar este tipo de rotación con este bloque
 
 ![FijarTipoRotacion](./images/FijarTipoRotacion.png)
-
 
 ¡¡Cuidado!! ¡Los giros no afectan igual a todos los personajes!
 
@@ -52,11 +71,8 @@ Podemos fijar este tipo de rotación con este bloque
 ![Giro a -75º](./images/Giro_75.png)
 
 
-
-
-3.0 Movimientos
-
 ### Ejemplo: movámonos alrededor del escenario
+
 Vamos a mover nuestro personaje formando un rectángulo alrededor de toda la pantalla.
 Utilizaremos bloques con movimientos absolutos.
 Utilizamos un fondo para ayudarnos con las coordenadas.
