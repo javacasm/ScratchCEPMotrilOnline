@@ -1,6 +1,6 @@
 ## Conversaciones y narrando Historias
 
-Vamos a aprender a darle un aspecto más realista a nuestro programas haciendo que el personaje se integre.
+Vamos a aprender a darle un aspecto más realista a nuestro programas haciendo que el personaje se integre en el escenario
 
 Vamos a seguir trabajando con recursos, 
 * Imágenes
@@ -15,10 +15,10 @@ Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a
 
 ## Movimientos menos geométricos y en un escenario
 
-Vamos a aprender a integrar un pesonaje por un escenario movíendolo, cambiando su tamaño, girándolo y haciendo que nos hable y produzca sonidos
+Vamos a aprender a integrar un personaje por un escenario moviéndolo, cambiando su tamaño, girándolo y haciendo que nos hable y produzca sonidos.
 
-Aprendemos ...:
-* Ocultar al personaje con el bloque **Esconder**
+Aprenderemos:
+* Mostrar/Ocultar al personaje con el bloque **Esconder**
 * A reproducir sonidos y como podemos grabarlos
 * Qué es un evento y el más utilizado: la bandera verde
 * A movernos de modo relativo con **Mover X pasos**
@@ -37,6 +37,11 @@ Aprendemos ...:
 [Proyecto](https://scratch.mit.edu/projects/348617555/)
 
 ### Conversaciones e historias
+
+#### Ejemplos
+
+* Momentos históricos
+* Fragmentos de películas/series: Harry Potter, La casa de papel
 
 
 Añadir personajes/objetos
@@ -80,8 +85,60 @@ Usamos la extensión **Texto a Vox** con distintas voces
 ## Mensajes 
 
 
+### Ejemplo Colón
 
+Fuentes: 
 
+https://es.wikipedia.org/wiki/Capitulaciones_de_Santa_Fe
+
+https://historia.nationalgeographic.com.es/a/cristobal-colon-y-capitulaciones-santa-fe_14075
+
+Decorado: castillo y escaleras
+
+Personajes:
+* Narradora: Singer
+* Colón: buscar imagen
+* Teléfono: [buscar imagen](https://www.google.com/search?q=red%20buttons%20phone&tbm=isch&hl=es&hl=es&tbs=ic%3Atrans%2Csur%3Afc&client=ubuntu&hs=BEY&ved=0CAIQpwVqFwoTCMiO7-LdsOkCFQAAAAAdAAAAABAC&biw=1905&bih=896#imgrc=ZoLNh72xMVUm4M&imgdii=Sv01PKTpVbePnM)
+* Reyes Católicos: [buscar imagen](https://www.google.com/search?q=reyes+catolicos+&tbm=isch&ved=2ahUKEwjGtYus4LDpAhUQ4BoKHRlYCjoQ2-cCegQIABAA&oq=reyes+catolicos+&gs_lcp=CgNpbWcQAzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADIECAAQQzICCAAyAggAUIBZWIBZYONcaABwAHgAgAFViAFVkgEBMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=QNy7XsaVDZDAa5mwqdAD&bih=896&biw=1905&client=ubuntu&hs=4os&tbs=sur%3Afc&hl=es#imgrc=2bb1iEcSJJROuM)
+
+Podemos quitar el fondo de una imagen usando la web https://www.remove.bg/
+
+Buscamos una música para el final [Biblioteca youtube](https://www.youtube.com/audiolibrary/music?ar=1589372029059&nv=1)
+
+Sonido de teléfono
+
+Narradora: Hola, estamos en España en 1492.
+
+Narradora: Los Reyes Católicos acaban de conquistar Granada.
+
+Narradora: Colón era un reputado marino.
+
+Colón baja las escaleras pensando:
+
+Colón: He leído que la Tierra es redonda
+Colón: Si navego en la otra dirección...
+Colón: Puede haber un camino más corto hacía las Indias
+
+Narradora: Colón pensó cómo podía financiar su viaje
+
+Colón: Iré a Santa Fe en Granada, para hablar con los Reyes Católicos
+
+Fondo con Reyes Católicos
+
+Colón: Majestades...
+
+Fondo Carabelas
+
+Suena el teléfono
+
+Colón se acerca 
+
+Colón: ¿Dígame?
+
+Teléfono: Sr Colón....
+Teléfono: Sólo llamo para felicitarle
+
+Suena la música final
 
 ### Tarea X
 
