@@ -116,7 +116,9 @@ Sonido de teléfono
 Colón baja las escaleras pensando:
 
 **Colón**: He leído que la Tierra es redonda
+
 **Colón**: Si navego en la otra dirección...
+
 **Colón**: Puede haber un camino más corto hacía las Indias
 
 **Narradora**: Colón pensó cómo podía financiar su viaje
@@ -135,7 +137,8 @@ Colón se acerca
 
 **Colón**: ¿Dígame?
 
-**Teléfono**: Sr Colón....
+**Teléfono**: Sr Colón...
+
 **Teléfono**: Sólo llamo para felicitarle
 
 Suena la música final
