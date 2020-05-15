@@ -162,6 +162,13 @@ Aprendemos ...:
 * A seleccionar color y groso del lápiz
 * A modificar el color del lápiz
 
+
+[![Vídeo: Pintando Cuadrados](https://img.youtube.com/vi/VppOn52tlpQ/0.jpg)](https://youtu.be/VppOn52tlpQ)
+
+
+[Vídeo: Pintando Cuadrados](https://youtu.be/VppOn52tlpQ)
+
+
 3.5 Pintando poligonos
 
 Conceptos: 
@@ -182,12 +189,22 @@ Calculamos el ángulo que tenemos que girar que será 360/NumeroLados.
 
 Vemos la potencia para trabajar la geometría
 
+[![Vídeo: Pintando polígonos](https://img.youtube.com/vi/xgVTnHNKFyo/0.jpg)](https://youtu.be/xgVTnHNKFyo)
+
+
 
 ###  3.6 La mochila
 
 Usar **mochila**
 
+Vamos a aprender a usar la mochila, que nos permite compartir grupos de bloques entre diferentes proyectos.
 
+A mi juicio, es una de las mayores ventajas del uso de la versión online.
+
+
+[![Vídeo: Uso de la mochila](https://img.youtube.com/vi/T8OXsgJQRbI/0.jpg)](https://youtu.be/T8OXsgJQRbI)
+
+[Vídeo: Uso de la mochila](https://youtu.be/T8OXsgJQRbI)
 
 
 
@@ -207,6 +224,12 @@ recuperar objetos borrado
 
 ![Programa Spirograph](./images/SpirographV2.png)
 [Programa Spirograph](https://scratch.mit.edu/projects/394219217)
+
+
+[![Vídeo: dibujando estrellas complejas](https://img.youtube.com/vi/tzjHbXfAJFA/0.jpg)](https://youtu.be/tzjHbXfAJFA)
+
+
+[Vídeo: dibujando estrellas complejas](https://youtu.be/tzjHbXfAJFA)
 
 
 
