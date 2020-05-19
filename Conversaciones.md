@@ -1,4 +1,4 @@
-## Conversaciones y narrando Historias
+## Conversaciones. Narrando Historias
 
 Vamos a aprender a darle un aspecto más realista a nuestro programas haciendo que el personaje se integre en el escenario
 
@@ -69,7 +69,6 @@ Vamos a usar todas las herramientas que tenemos y algunos trucos
 Vamos a aprender a integrar un personaje por un escenario moviéndolo, cambiando su tamaño, girándolo y haciendo que nos hable y produzca sonidos.
 
 Aprenderemos:
-
 * A adaptar la posición y el tamaño del personaje dentro del escenario
 * A mover el personaje dentro del escenario
 * Repetir acciones con los bucles de control
@@ -79,10 +78,25 @@ Aprenderemos:
 * A añadir pequeños "guiños" en el movimiento
 * A duplicar un disfraz y modificarlo 
 
+### Reutilizando un proyecto
+
+Vamos a mejorar nuestro primero programa en el que Gato decía "Hola" y hacía "Miau" para dotarlo de movimiento y animación. Haremos que camine a lo ancho del escenario intentando que tenga una animación realista.
+
+Para ello:
+* Entramos en el programa que hicimos.
+* Creamos una copia para así dejar intacto el original.
+* Colocamos a Gato a la izquierda del escenario.
+* Ajustamos la coordenada **y**  para que Gatito se integre bien con el fondo.
+* Le damos un tamaño adecuado al escenario utilizado.
+* Añadimos los bloques "Fijar Tamaño" e "Ir a" tras el evento "Al Pulsar Bandera Verde."
+* Probamos a moverlo con deslizar, pero vemos que el movimiento es poco realista.
+* Para introducir la animación entre los disfraces de Gato vamos a introducir un bucle **"Repetir"**, y pequeños pasos a la vez que cambiamos de disfraz.
+* Vemos que hay que introducir pequeñas esperas entre los distintos disfraces para que se vea bien la animación.
+* Añadiremos un pequeño "Guiño" a midad del camino para hacerlo más divertido.
+* Probamos y ajustamos varias veces el movimiento.
 
 ![Programa: Gato Callejero Animado](./images/GatoCallejeroAnimado.png)
-
-* Añadimos un fondo al escenario y ajustamos la coordenada **y**  para que Gatito se integre bien con el fondo
+(Para no hacerlo muy largo no se muestra la 2ª parte del movimiento)
 
 [Proyecto](https://scratch.mit.edu/projects/395279635/)
 
@@ -94,21 +108,90 @@ Aprenderemos:
 
 ### Creamos nuestros bloques
 
-Vamos a crear bloques que serán distintos gestos
+Tras terminar la animación de Gato, vemos que hay una gran parte del programa que se repite. Es cómodo duplicar (o copiar/pegar) pero ocupa mucho y sobre todo, si tenemos que cambiar algo, hay que hacerlo en varias partes y se complica el programa.
+
+Por eso, dentro de Scratch existe la opción de crear nuestros propios bloques. Así, podemos crear un bloque que nos otra cosa que un "atajo" para usar muchos otros bloques. 
+
+(Si habéis programa o trabajado con macros/lenguajes veréis que ésto es la definición de función o procedimiento o subrutina)
+
+Los bloques que creemos que se guardarán en la paleta **"Mis Bloques"**
+
+![Paleta Mis Bloques](./images/PaletaMisBloques.png)
+
+Ahí tendremos nuestros bloques:
+
+![Mis Bloques](./images/BloquesMisBloques.png)
+
+Que podremos utilizar dentro de nuestro programa.
+
+Para crear un bloque pulsaremos en el botón **"Crear un bloque"** dentro de la paleta "Mis bloques" y aparecerá una pantalla donde daremos nombre a nuesro bloque. Puedes usar espacios, mayúculas, acentos en el nombre y te recomiendo que le des un nombre descriptivo y claro. 
+
+(Personalmente, como suelo programar con código y ahí los espacios suelen dar problemas uso las distintas palabras unidas, con la primera letra de cada una mayúscula para facilitar la lectura, pero es cuestión de costumbre)
+
+![Pantalla de creación de Bloque](./images/PantallaDefinicionBloque.png)
+
+En este momento nos vamos a olvidar de las opciones de "Añadir entrada" que veremos un poco más adelante.
+
+Al pulsar "Aceptar" aparecerá un bloque especial llamado **"Definir"** que será donde nosotros añadamos todos los bloques que se ejecutarán al usar nuestro bloque.
+
+![DefinicionMiBloque](./images/DefinicionMiBloque.png)
+
+En el ejemplo de "PasoDeGatito" estos serán los bloques que lo formen.
+
+![DefinicionBloquePasito](./images/DefinicionBloquePasito.png)
 
 
-[Proyecto: Creación de bloques](https://scratch.mit.edu/projects/395284849/)
 
+Ahora ya podemos sustituir todos los bloques que se necesitan para dar un paso por el bloque "PasoDeGatito", quedando nuestro programa mucho más claro  sencillo.
+
+![Bucle con "PasosDeGatito"](./images/BuclePasosGatito.png)
+
+Vamos a crear bloques que serán distintos gestos. Del mismo modo podemos hacer el bloque **GuiñoOjo**
+
+El proyecto queda así:
 
 ![GatoCallejeroAnimadoBloques](./images/GatoCallejeroAnimadoBloques.png)
 
+[Proyecto: Creación de bloques](https://scratch.mit.edu/projects/395284849/)
+
+**Resumiendo**:
+* **Creamos** un nuevo bloque.
+* **Definimos** los bloques que lo forman.
+* **Usamos** nuestro propio bloque donde necesitemos.
 
 ### Bloques con Argumentos
 
-https://scratch.mit.edu/projects/395289179/
+Aprovechando que hemos visto las ventajas de crear nuestro bloques, vamos a hacer más reutilizable el ejemplo de cómo dibujar un polígono que guardamos en la mochila.
 
+Para ello vamos a recuperarlo de la mochila y crear un nuevo bloque. 
 
-![Bloque Dibuja Polígono](./images/BloqueDibujaPoligono.png)
+Pero para dibujar un polígono sí que necesitamos decir cuántos lados va a tener o cuál va a ser la longitud de cada uno.
+
+Ahora cuando creemos el bloque vamos a usar la opción de **"Añadir una entrada"** de tipo **número** para añadir "Cuantos Lados" y otra llamada "Longitud" también de tipo **número**. Estas entradas (también llamadas argumentos o parámetros) nos permitirán que cuando usemos este bloque digamos el número de lados y la longitud de estos.
+
+![Creación de Bloque con Entradas/Argumentos](./images/CreacionBloqueArgumentos.png)
+
+(Más adelante veremos los otros tipos de entradas)
+
+En la definición del bloque pondremos los bloques que usábamos para dibujar el polígono, sustituyendo el valor que dábamos a la variable "NumeroLados" por la entrada "Cuantos Lados" y el valor de longitud por la entrada "Longitud". Para ello las arrastramos en los lugares donde se usa su valor:
+
+![Definición del Bloque Polígono](./images/DefinicionBloquePoligono.png)
+
+Realmente tanto "Cuantos Lados" como "Longitud" son variables que se usan dentro del bloque (no las podemos usar fuera de la definición de este bloque) y no sería necesaria la variable "NumeroLados" que podíamos sustituir por la otra.
+
+Cuando lo vayamos a usar veremos que nuestro bloque tiene 2 "huecos" donde tendremos que poner el número de lados y la longitud de éstos.
+
+![BloquePolígono](./images/BloquePolígono.png)
+
+No podemos usar este bloque sin indicar los valores de las entradas/argumentos que necesita para que funcione.
+
+Por lo que para usarlo, tendremos que incluir el nuevo bloque y los dos valores de las entradas numéricas.
+
+El proyecto completo queda así:
+
+![Proyecto: Dibuja Polígono](./images/BloqueDibujaPoligono.png)
+
+[Poryecto](https://scratch.mit.edu/projects/395289179/)
 
 ### Conversaciones e historias
 
@@ -200,8 +283,6 @@ Los mensajes los reciben todos los personajes (y el fondo) de nuestro programa. 
 Tras este bloque incluiremos todos los bloques/acciones que queremos que se realicen al recibirlo.
 
 ### Conversación
-
-
 
 Usando esta técnica, una conversación se hará cuando determinados mensajes se vayan enviando y recibiendo sucesivamente por los distintos personajes/participantes.
 
