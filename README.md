@@ -61,6 +61,10 @@
 
 * [Trabajando con recursos](./Recursos.md)
 
+## Sesión 5: Movimientos y Dibujos geométricos
+
+* [Movimiendo los personajes. Aplicación: Geometría](./Movimientos.md)
+
 ## [Referencias/Ampliación](./Referencias.md)
 
 ## [OpenSource](./opensource.md)
