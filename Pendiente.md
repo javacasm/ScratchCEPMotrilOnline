@@ -1,8 +1,5 @@
 # Materiales pendientes de revisión
 
-## Sesión 5: Movimientos
-[Movimiendo los personajes. Aplicación: Geometría](./Movimientos.md)
-
 ## Sesión 6: Conversaciones e historias
 
 [Conversaciones/Historias](./Conversaciones.md)
