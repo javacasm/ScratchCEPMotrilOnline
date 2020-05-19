@@ -276,14 +276,25 @@ Vemos la potencia para trabajar la geometría con Scratch.
 [![Vídeo: Pintando polígonos](https://img.youtube.com/vi/xgVTnHNKFyo/0.jpg)](https://youtu.be/xgVTnHNKFyo)
 
 
-###  3.6 La mochila
+### La mochila de Scratch 3.0
 
-Usar **mochila**
+Una de las novedades más interesantes de Scratch 3.0 y que más me inclinan por usar la versión online es la posibilidad de compartir partes de programas entre ellos. 
 
-Vamos a aprender a usar la mochila, que nos permite compartir grupos de bloques entre diferentes proyectos.
+Para hacerlo podemos utilizar la **mochila**, un panel que aparece en la parte más baja de la web cuando entramos en la página de Scratch 3.0 utilizando nuestra cuenta.
 
-A mi juicio, es una de las mayores ventajas del uso de la versión online.
+![MochilaCerrada](./images/MochilaCerrada.png)
 
+Si hacemos clic sobre ella se abrirá y nos mostrará una espacio donde podemos guardar bloques o recortes de programa que nos puede interesar compartir entre proyectos o que pensamos que nos pueden ser útiles más adelante.
+
+![MochilaAbierta](./images/MochilaAbierta.png)
+
+Para guardar un grupo de bloque sólo tenemos que arrastralos sobre la **mochila** abierta.
+
+Para recuperarlos abrimos el panel de la **mochila** y arrastramos el grupo de bloques sobre nuestro programa.
+
+Lamentablemente a día de hoy no se puede dar un nombre a los bloques con lo que si tenemos varios no es fácil distinguir cuál es cuál.
+
+Vamos a aprender a usar la mochila, que nos permite compartir grupos de bloques entre diferentes proyectos, a mi juicio, es una de las mayores ventajas del uso de la versión online.
 
 [![Vídeo: Uso de la mochila](https://img.youtube.com/vi/T8OXsgJQRbI/0.jpg)](https://youtu.be/T8OXsgJQRbI)
 
@@ -291,19 +302,26 @@ A mi juicio, es una de las mayores ventajas del uso de la versión online.
 
 
 
-3.7 Spirograph
+### Dibujos complejos estilo Spirograph
 
-Cómo descargar un programar
-copiar bloques entre objetos
-recuperar objetos borrado
-Bucles anidados
+[Spirograph](https://es.wikipedia.org/wiki/Espir%C3%B3grafo) es un juguete para hacer dibujos complejos a bolígrafo. La idea es hacer muchas figuras simimilares pero rotadas unos pocos grados una de otra:
 
-Usamos la mochila para recuperar unos bloques de código que creamos en otro proyecto y que nos permitían dibujar polígonos
-Añadimos un giro y un bucle que repite todo el proceso
-Guardamos en nuestro disco duro el programa
-Vemos cómo copiar los bloques de un objeto a otro
+![Ejemplo de dibujo con Spirograph](./images/Spiirograph.jpg)
 
-recuperar objetos borrado
+Aprovechando que sabemos dibujar polígonos, vamos a hacer muchos de ellos rotando unos grados entre ellos.
+
+Para ello vamos a añadir un bucle que haba que se repitan todos los bloques que dibujan el polígono y entre uno y otro rotemos unos grados.
+
+Vamos aprender algunas cosas:
+* Cómo descargar un programa
+* Recuperar objetos borrado
+* Usaremos Bucles anidados.
+* Usaremos la mochila para recuperar unos bloques de código que creamos en otro proyecto y que nos permitían dibujar polígonos.
+* Añadimos un giro y un bucle que repite todo el proceso.
+* Guardamos en nuestro disco duro el programa
+* Vemos cómo copiar los bloques de un objeto a otro
+
+El programa quedará finalmente así:
 
 ![Programa Spirograph](./images/SpirographV2.png)
 [Programa Spirograph](https://scratch.mit.edu/projects/394219217)
@@ -314,6 +332,11 @@ recuperar objetos borrado
 
 [Vídeo: dibujando estrellas complejas](https://youtu.be/tzjHbXfAJFA)
 
+
+#### Mejoras/ideas
+
+* Podemos usar otro tipo de polígono para hacer la repetición
+* ¿y si no volvemos al punto (0,0) en cada iteración
 
 
 ### Tareaa 4.1: Dibujar una estrella
