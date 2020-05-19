@@ -1,4 +1,4 @@
-## Movimientos de personajes
+## Movimiento de personajes. Dibujos Geométricos.
 
 Vamos a aprender a mover nuestros personajes por el escenario.
 
