@@ -234,7 +234,7 @@ El número de repeticiones siempre será igual al que usamos para calcular el á
 
 Tenemos ya claro lo que tenemos que hacer para un polígono genérico. Esta forma de pensar abstracta es lo que se conoce como **Algoritmo**: el listado de los distintos pasos que tenemos que hacer para completar una tarea de forma abstracta.
 
-Vamos a trabajar un poco en abstacto, algebráicamente, suponiendo que el número de lados es NumeroLados y para ello vamos a crear una **Variable**: una cajita con un nombre, donde podemos guardar un valor. De esta manera podremos definir todo en el proceso en función de **NumeroLados** sin tener que especificar un valor concreto.
+Vamos a trabajar un poco en abstracto, algebráicamente, suponiendo que el número de lados es NumeroLados y para ello vamos a crear una **Variable**: una cajita con un nombre, donde podemos guardar un valor. De esta manera podremos definir todo en el proceso en función de **NumeroLados** sin tener que especificar un valor concreto.
 
 Vamos a la paleta **Variables** pulsamos "Crear una variable":
 
@@ -258,19 +258,19 @@ El bucle quedará ahora así:
 
 ![Bucle usando variable NumeroLados](./images/BucleVariable.png)
 
-Donde hemos dado un valor a la variable NumeroLados y utilizamos su valor en el cálculo, para lo que habremos arrastarado el bloque redondeado "NumeroLados" en los correspondientes huecos.
+Donde hemos dado un valor a la variable NumeroLados y utilizamos su valor en el cálculo, para lo que habremos arrastrado el bloque redondeado "NumeroLados" en los correspondientes huecos.
 
 Vemos que estamos calculamos el ángulo que tenemos que girar que será 360/NumeroLados.
 
-Para terminar vamos a añadir un **Comentario**: Una indicación que incluímos en nuestro programar como información extrar para quien lo vea. Los comentarios no son instrucciones para el ordenador, son aclaraciones para las personas que vean el programa.
+Para terminar vamos a añadir un **Comentario**: Una indicación que incluímos en nuestro programar como información extra para quien lo vea. Los comentarios no son instrucciones para el ordenador, son aclaraciones para las personas que vean el programa.
 
 Hemos aprendido a calcular usando los operadores algebráicos.
 
 El programa completo queda así:
 
-![Programa Pintado Poligónos](./images/PintadoPoligonos.png)
+![Programa Pintado Polígonos](./images/PintadoPoligonos.png)
 
-[Programa Pintado Poligónos](https://scratch.mit.edu/projects/39420307)
+[Programa Pintado Polígonos](https://scratch.mit.edu/projects/39420307)
 
 Vemos la potencia para trabajar la geometría con Scratch.
 
@@ -307,7 +307,7 @@ Vamos a aprender a usar la mochila, que nos permite compartir grupos de bloques 
 
 ### Dibujos complejos estilo Spirograph
 
-[Spirograph](https://es.wikipedia.org/wiki/Espir%C3%B3grafo) es un juguete para hacer dibujos complejos a bolígrafo. La idea es hacer muchas figuras simimilares pero rotadas unos pocos grados una de otra:
+[Spirograph](https://es.wikipedia.org/wiki/Espir%C3%B3grafo) es un juguete para hacer dibujos complejos a bolígrafo. La idea es hacer muchas figuras similares pero rotadas unos pocos grados una de otra:
 
 ![Ejemplo de dibujo con Spirograph](./images/Spiirograph.jpg)
 
@@ -327,6 +327,7 @@ Vamos aprender algunas cosas:
 El programa quedará finalmente así:
 
 ![Programa Spirograph](./images/SpirographV2.png)
+
 [Programa Spirograph](https://scratch.mit.edu/projects/394219217)
 
 
@@ -338,8 +339,8 @@ El programa quedará finalmente así:
 
 #### Mejoras/ideas
 
-* Podemos usar otro tipo de polígono para hacer la repetición
-* ¿y si no volvemos al punto (0,0) en cada iteración
+* Podemos usar otro tipo de polígono para hacer la repetición.
+* ¿y si no volvemos al punto (0,0) en cada iteración.
 
 
 ### Tareaa 4.1: Dibujar una estrella
