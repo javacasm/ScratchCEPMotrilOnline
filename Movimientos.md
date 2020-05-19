@@ -15,7 +15,7 @@ Empezamos por ver el sistema de coordenadas que utiliza Scratch:
 Las coordenadas del escenario de Scratch son las siguientes:
 
 * La coordenada horizontal **X** entre -240 y 240
-* La coordenada vertial **Y** entre -180 y 180
+* La coordenada vertical **Y** entre -180 y 180
 * Estando el punto **(0,0)** es el centro de la pantalla.
 
 ### Movimientos
@@ -24,11 +24,11 @@ Vamos a ver las distintas formas de mover nuestro personaje.
 
 #### Movimientos absolutos
 
-Decimos que el movimiento es absoluto cuando se indican las coordenadas **x** e **y** que tendrá el personaje. Si damos distintas
+Decimos que el movimiento es absoluto cuando se indican las coordenadas **X** e **Y** que tendrá el personaje. 
 
 ![Movimientos absolutos](./images/MovmientosAbsolutos.png)
 
-* Ir a (x,y) es instántaneo, como un "teletransporte".
+* Ir a (x,y) es instantaneo, como un "teletransporte".
 * Deslizar va moviendo poco a poco desde la posición inicial hasta la coordenada indicada en el tiempo que le hemos dicho.
 
 Si damos varias órdenes de movimiento, estas se realizarán de manera consecutiva. Si son varias "Ir a" al hacerse tan rápido, quizás solo veamos la última posición.
@@ -81,7 +81,7 @@ También podemos fijar este tipo de rotación con este bloque:
 
 ![Giro a -75º](./images/Giro_75.png)
 
-Hay disfraces diseñados para poder moverse en cualquier dirección otros pensados para verlos lateralmente. Busca los distintos disfraces de Gato en la biblioteca de personajes y verás las distitnas opciones.
+Hay disfraces diseñados para poder moverse en cualquier dirección otros pensados para verlos lateralmente. Busca los distintos disfraces de Gato en la biblioteca de personajes y verás las distintas opciones.
 
 [![Vídeo: Movimiento de personajes](https://img.youtube.com/vi/4O_lxBaApnY/0.jpg)](https://youtu.be/4O_lxBaApnY)
 
@@ -104,7 +104,7 @@ Vamos a elegir un personaje que podamos girar en cualquier dirección, porque su
 
 Para encontrar los valores adecuados de las coordenadas  movemos nuestro personaje con el ratón por el escenarios, tomando nota de las coordenadas **X** e **Y** que aparecen debajo del Escenario.
 
-Para movernos de una posición a otra usaremos "Deslizar ..." y así podremos ver el movmiento. 
+Para movernos de una posición a otra usaremos "Deslizar ..." y así podremos ver el movimiento. 
 
 Tras cada movimiento giramos el personaje para que parezca que se mueve en esa dirección.
 
@@ -212,7 +212,7 @@ Para ello haremos una copia del programa que dibuja cuadrados para trabajar sobr
 
 Lo vamos a revisar para pensar qué habría que cambiar si queremos dibujar un hexágono...
 
-Vemos que cláramente tendríamos que cambiar el número de repeticiones, que será el número de lados de nuestro polígono y el ángulo que giramos.
+Vemos que claramente tendríamos que cambiar el número de repeticiones, que será el número de lados de nuestro polígono y el ángulo que giramos.
 
 Si repasamos algo de geometría veremos que el giro también depende del número de lados y que es 360º dividido entre el número de lados
 
@@ -248,7 +248,7 @@ Ahora nos aparecen varios bloques:
 
 ![Dar Valor a NumeroLados](./images/DarValorNumeroLados.png)
 
-* **NumeroLados**: nos permite usar el valor de la variable y que será el que emplemos en los cálculos. Este bloque tiene forma redondeada, como los huecos donde tenemos que poner los valores de las cosas. Es un bloque de tipo **Valor**.
+* **NumeroLados**: nos permite usar el valor de la variable y que será el que empleemos en los cálculos. Este bloque tiene forma redondeada, como los huecos donde tenemos que poner los valores de las cosas. Es un bloque de tipo **Valor**.
 
 ![Valor de NumeroLados](./images/ValorNumeroLados.png)
 
@@ -276,6 +276,8 @@ Vemos la potencia para trabajar la geometría con Scratch.
 
 [![Vídeo: Pintando polígonos](https://img.youtube.com/vi/xgVTnHNKFyo/0.jpg)](https://youtu.be/xgVTnHNKFyo)
 
+
+[Vídeo: Pintando polígonos](https://youtu.be/xgVTnHNKFyo)
 
 ### La mochila de Scratch 3.0
 
