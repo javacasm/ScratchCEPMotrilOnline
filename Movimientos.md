@@ -1,9 +1,10 @@
 ## Movimientos de personajes
 
 Vamos a aprender a mover nuestros personajes por el escenario.
-Veremos que podemos hacerlo de diferentes forma,  con movimientos absolutos (usando las coordenadas x,y) y también con movimientos relativos (dando **N** pasos desde la posición actual en la dirección en la que apunta el personaje).
 
-También veremos que podemos hacer que nuestro personaje gire, apuntando en distintas direcciones.
+Veremos que podemos hacerlo de diferentes formas: con **movimientos absolutos**, usando las coordenadas (x,y) y también con **movimientos relativos**, dando **N** pasos desde la posición actual en la dirección en la que apunta el personaje.
+
+También veremos cómo hacer para que nuestro personaje gire, apuntando en distintas direcciones.
 
 ### Coordenadas
 
