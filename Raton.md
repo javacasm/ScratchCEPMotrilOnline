@@ -58,4 +58,6 @@ Cada herramienta manda un mensaje y hace que Gato cambie
 [Proyecto](https://scratch.mit.edu/projects/397315506/)
 
 
+Vamos a ampliarlo añadiendo un "botón" borrar, algunos colores más y algún grosor nuevo.
+
 [Solución](https://scratch.mit.edu/projects/397334049/)
