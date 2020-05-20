@@ -1,18 +1,39 @@
 ## Interacción con teclado
 
 
-Ejemplo X: coronavirus estelar
+Eventos
 
-moviento teclas
+### Movimientos relativos
+
+![MovmientosRelativosCursor](./images/MovmientosRelativosCursor.png)
+
+[Proyecto](https://scratch.mit.edu/projects/397285215/)
+
+### Movimientos absolutos
+
+![MovimientosTeclasAbsolutos](./images/MovimientosTeclasAbsolutos.png)
+
+[Proyecto](https://scratch.mit.edu/projects/397287255/)
 
 
-Creamos personaje desde imagen transparente
 
-Fondo desde imagen
-Redimensionamos fondo
+### Movimientos relativos angulares
 
-Eventos con teclas
+[Proyecto](https://scratch.mit.edu/projects/397289607/)
 
 
-Puntuacion
-Choque de objetos
+###  Limitación del movimiento. Sentencias condicionales
+
+![PosicionXPosicionY](./images/PosicionXPosicionY.png)
+
+![MovimientosAbsolutosLimitados](./images/MovimientosAbsolutosLimitados.png)
+
+
+![CondicionalSi](./images/CondicionalSi.png)
+
+![OperadoresMayorMenor](./images/OperadoresMayorMenor.png)
+
+[Proyecto](https://scratch.mit.edu/projects/397292446)
+
+![TeclaPresionada](./images/TeclaPresionada.png)
+
