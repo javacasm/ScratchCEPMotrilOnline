@@ -51,16 +51,49 @@ Pedir información al usuario con **Preguntar** y usar el de **Respuesta**
 
 Ejemplo: Adaptar el del poligono para que pida el número de lados
 
+https://scratch.mit.edu/projects/397274159/
+
+![PreguntaPoligono](./images/PreguntaPoligono.png)
+
 Ejemplo: Adaptar la ruta por Andalucía para preguntar el nombre
 
+https://scratch.mit.edu/projects/397275339/
+
+Por supuesto que podíamos añadir ahora la pregunta de nombre al programa de los polígonos...
 
 ## [Teclas](./Teclado.md)
 
-![TeclaPresionada](./images/TeclaPresionada.png)
+
+
+## Interacción entre objetos
+
+![InteraccionEntreObjetos](./images/InteraccionEntreObjetos.png)
+
+Detectar:
+* choques
+* superposiones
+* detectar los bordes
+
+
+Ejemplo X: coronavirus estelar
+
+Creamos personaje desde imagen transparente
+
+Fondo desde imagen
+Redimensionamos fondo
+
+
+
+
+Puntuacion
+Choque de objetos
+
+
+
 
 ## [Ratón](./Raton.md)
 
-![InteraccionRaton](./images/InteraccionRaton.png)
+
 
 ## [Sonido](./Sonido.md)
 
@@ -86,14 +119,7 @@ Trabajar los idiomas
 ![BloquesVideo](./images/BloquesVideo.png)
 
 
-## Interacción entre objetos
 
-![InteraccionEntreObjetos](./images/InteraccionEntreObjetos.png)
-
-Detectar:
-* choques
-* superposiones
-* detectar los bordes
 
 
 ## MakeyMakey
