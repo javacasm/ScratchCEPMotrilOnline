@@ -97,18 +97,6 @@ Choque de objetos
 
 ## [Sonido](./Sonido.md)
 
-![VolumenSonido](./images/VolumenSonido.png)
-
-![ExtensionMusica](./images/ExtensionMusica.png)
-
-
-![BloquesMusica](./images/BloquesMusica.png)
-
-![ExtensionTextoAVox](./images/ExtensionTextoAVox.png)
-
-![](./images/BloquesTextoAVoz.png)
-
-Trabajar los idiomas
 
 ## [Vídeo](./Video.md)
 
