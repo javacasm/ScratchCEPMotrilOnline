@@ -7,7 +7,9 @@ Para secundaria o más allá
 
 [Búsqueda de objetos en espiral](youtube.com/watch?v=uIOuDJPx8BU&list=PLzqyAKVt4MgOV6brvY33MkhIFqxtatr81&index=12
 
-[Inteligencia artificial y machine learning]
+[Inteligencia artificial y machine learning](https://programamos.es/aprende-machine-learning-con-learningml/)
+
+[Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/worksheets)
 
 [Simulador Epidemia by Mitchael Resnick](https://scratch.mit.edu/projects/376750743/)
 
@@ -21,6 +23,10 @@ https://scratch.mit.edu/projects/392811906/
 ## Clones
 
 
+Ejemplo: RevientaBurbujas
+
+Click sobre una burbuja hace pop
+
 [Pompitas](https://scratch.mit.edu/projects/394798516/)
 
-[Colocar Ladrillos](https://scratch.mit.edu/projects/164028072/)
+[Colocar Ladrillos](https://scratch.mit.edu/projects/164028072)
