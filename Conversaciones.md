@@ -294,6 +294,11 @@ Para conseguir que la sincronización sea perfecta tendremos que probar bastante
 
 [Proyecto](https://scratch.mit.edu/projects/395313539/)
 
+[![Vídeo: Ejemplo de sincronización por tiempo entre personajes: Gato-Rana](https://img.youtube.com/vi/XfA7yp_PAQw/0.jpg)](https://youtu.be/XfA7yp_PAQw)
+
+[Vídeo: Ejemplo de sincronización por tiempo entre personajes: Gato-Rana](https://youtu.be/XfA7yp_PAQw)
+
+
 ## Mensajes 
 
 También podemos usar **mensajes** que no son otra cosa que eventos que personalizados que podemos crear nosotros.
