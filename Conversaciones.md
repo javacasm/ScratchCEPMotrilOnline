@@ -261,12 +261,36 @@ Es una especie de coreografía
 ![Sincronizacion por tiempo](./images/SincronizacionTiempo.png)
 
 
-Cuantos más pasos tengra nuestra historia más tiempos a calcular y ajustar.
+Cuantos más pasos tenga nuestra historia más tiempos a calcular y ajustar.
 
 ![Bloques sincronizados en el tiempo](./images/BloquesSincronizacionTiempos.png)
 
+[![Vídeo: Sincronización entre personajes por tiempo en Scratch](https://img.youtube.com/vi/QBXIXJLXhMA/0.jpg)](https://youtu.be/QBXIXJLXhMA)
 
-También podemos sincronizar el programa del fondo.
+[Vídeo: Sincronización entre personajes por tiempo en Scratch](https://youtu.be/QBXIXJLXhMA)
+
+
+### Ejemplo de sincronización por tiempo: Conversación Gato-Rana
+
+Añadimos distintos bloques a cada personaje para que tenga lugar la conversación.
+Vamos sumando los tiempos para que todo ocurra de manera sincronizada.s
+
+![SincroTiemposRana](./images/SincroTiemposRana.png)
+
+![SincroTiemposGato](./images/SincroTiemposGato.png)
+
+
+Vamos a incluir el escenario como un personaje más, añadiendo un sencillo programa que espere el tiempo adecuado para cambiarse. 
+
+A partir del fondo actual, lo duplicamos, y añadimos un texto "The End"  para mostrar que nuestra conversación termina. Seleccionamos un tipo de letra, un color, tamaño y posición para texto.
+
+Podemos seleccionar cualquier color del texto usando el "CuentaGotas" de la "Herramienta de selección de color".
+
+![SincroTiemposFondo](./images/SincroTiemposFondo.png)
+
+Para hacer que los mensajes de los personajes no se solapen haremos que pasada un tiempo vayan desapareciendo con el bloque "Decir ... durante un tiempo" sin indicarle ningún texto.
+
+Para conseguir que la sincronización sea perfecta tendremos que probar bastantes veces e ir ajustando los diferentes tiempos.
 
 [Proyecto](https://scratch.mit.edu/projects/395313539/)
 
