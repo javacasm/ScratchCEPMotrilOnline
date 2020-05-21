@@ -1,49 +1,44 @@
 ## Conversaciones. Narrando Historias
 
-Vamos a aprender a darle un aspecto más realista a nuestro programas haciendo que el personaje se integre en el escenario
+En esta sesión vamos a hablar, a narrar, a contar historias, a presenciar conversaciones entre nuestros personajes.
 
-Vamos a seguir trabajando con recursos, 
+Vamos a aprender a darle un aspecto más realista a nuestro programas haciendo que el personaje se integre en el escenario.
+
+Vamos a seguir trabajando con recursos:
 * Imágenes
 * Sonidos
 * Textos
 * Narraciones
 
-Pero esta vez formarán parte de una historia que queremos contar
+Pero esta vez formarán parte de una historia que queremos contar.
 
 Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a sus licencias .
 
 **¿Qué contamos?**
-* Narraciones
-* Fragmentos de la Historia
-* Explicaciones de conceptos narradas
-* Escenas de libros
-* Series
-* Películas
+* Narraciones.
+* Fragmentos de la Historia.
+* Explicaciones de conceptos narradas.
+* Escenas de libros.
+* Series.
+* Películas.
 
 **¿Quién lo cuenta?**
-* Personajes históricos
-* Científic@s
-* Escritor@s
-* Protagonistas de libros
-* Protagonistas de series o películas
-* Superhéroes
+* Personajes históricos.
+* Científic@s.
+* Escritor@s.
+* Protagonistas de libros.
+* Protagonistas de series o películas.
+* Superhéroes.
 
-Se trata de contar buenas historias pero modernizando las herramientas
+Se trata de contar buenas historias pero modernizando las herramientas:
 
-**Hamlet:** Ser, o no ser, ésa es la cuestión...
+> **Hamlet:** Ser, o no ser, ésa es la cuestión...
+**Ofelia:** ¿Cómo os habéis sentido, señor, en todos estos días?
+**Hamlet:** Muchas gracias. Bien.
+**Ofelia:** Conservo en mi poder algunas expresiones vuestras, que deseo restituiros mucho tiempo ha, y os pido que ahora las toméis.
+**Hamlet:** No, yo nunca te di nada.
 
-**Ofelia:**
-¿Cómo os habéis sentido, señor, en todos estos días?
-
-**Hamlet:**
-Muchas gracias. Bien.
-
-**Ofelia:**
-Conservo en mi poder algunas expresiones vuestras, que deseo restituiros mucho tiempo ha, y os pido que ahora las toméis.
-
-**Hamlet:**
-No, yo nunca te di nada.
-
+¿y si lo adaptamos a estos tiempos?
 
 ![Hamlet@Whatsap](./images/HamletWhatsap.png)
 
@@ -51,36 +46,41 @@ No, yo nunca te di nada.
 
 Vamos a usar todas las herramientas que tenemos y algunos trucos
 
-* Elegir el personaje
-    * Adaptar el tamaño y la posición al escenario
-* Movimientos
-    * Moviéndose por el escenario
+* Elegir el personaje: tenemos una variedad enorme en las librerías y podemos además crear nuevos.
+    * Adaptar su tamaño y posición al escenario.
+* Movimientos.
+    * Moviéndose por el escenario.
     * Pero dentro del escenario: caminos, escaleras, ...
-* Usando distintos disfraces
-* Sonidos adecuados
-* Música de fondo
-* Interacción
-* Truco: Ajustar tamaño con la perspectiva
+* Usando distintos disfraces.
+* Sonidos adecuados.
+* Música de fondo.
+* Interacción.
+* Truco: Ajustar tamaño con la perspectiva.
 
 ![Truco de perspectiva](./images/TrucoPerspectiva.png)
+
+[![Vídeo: Conversacion e historias con Scratch](https://img.youtube.com/vi/odpeEe3whkE/0.jpg)](https://youtu.be/odpeEe3whkE)
+
+[Vídeo: Conversacion e historias con Scratch](https://youtu.be/odpeEe3whkE)
+
 
 ## Movimientos menos geométricos y en un escenario
 
 Vamos a aprender a integrar un personaje por un escenario moviéndolo, cambiando su tamaño, girándolo y haciendo que nos hable y produzca sonidos.
 
 Aprenderemos:
-* A adaptar la posición y el tamaño del personaje dentro del escenario
-* A mover el personaje dentro del escenario
-* Repetir acciones con los bucles de control
-* A introducir esperas 
-* A animar un objeto cambiando de disfraz con **Siguiente disfraz**
-* A animar el personaje seleccionando distintos disfraces
-* A añadir pequeños "guiños" en el movimiento
-* A duplicar un disfraz y modificarlo 
+* A adaptar la posición y el tamaño del personaje dentro del escenario.
+* A mover el personaje dentro del escenario.
+* Repetir acciones con los bucles de control.
+* A introducir esperas.
+* A animar un objeto cambiando de disfraz con **Siguiente disfraz**.
+* A animar el personaje seleccionando distintos disfraces.
+* A añadir pequeños "guiños" en el movimiento.
+* A duplicar un disfraz y modificarlo.
 
 ### Reutilizando un proyecto
 
-Vamos a mejorar nuestro primero programa en el que Gato decía "Hola" y hacía "Miau" para dotarlo de movimiento y animación. Haremos que camine a lo ancho del escenario intentando que tenga una animación realista.
+Vamos a mejorar nuestro primer programa en el que Gato decía "Hola" y hacía "Miau" para dotarlo de movimiento y animación. Haremos que camine a lo ancho del escenario intentando que tenga una animación realista.
 
 Para ello:
 * Entramos en el programa que hicimos.
@@ -159,7 +159,27 @@ El proyecto queda así:
 * **Definimos** los bloques que lo forman.
 * **Usamos** nuestro propio bloque donde necesitemos.
 
-### Bloques con Argumentos
+[![Vídeo: Creando nuestro propios bloques en Scratch](https://img.youtube.com/vi/B4cgAY9lT98/0.jpg)](https://youtu.be/B4cgAY9lT98)
+
+[Vídeo: Creando nuestro propios bloques en Scratch](https://youtu.be/B4cgAY9lT98)
+
+
+### Uso de bloques. Reutilización.
+
+Una vez que tenemos creados nuestros programas podemos reutilizar muchas partes de los mismos, haciendo así mucho más eficiente nuestro trabajo.
+
+En este caso vamos a ver como podemos reutilizar disfraces, que exportaremos desde la pestaña "Disdraces", pulsando sobre cada uno de ellos con el botón derecho sobre la opción Exportar. Así se descargará y guardará cada una de las imágenes en nuestro ordenador.
+
+Desde el proyecto donde queramos usarlo sólo tendremos que usar la opción de importar de disfraces para recuperarlos en nuestro proyecto actual.
+
+De forma similar, guardando los bloques que hemos creado en la mochila podremos recuperarlos también en otros proyectos.
+
+[![Vídeo:  Uso de nuestro bloques. Reutilización](https://img.youtube.com/vi/WvigBag8CDY/0.jpg)](https://youtu.be/WvigBag8CDY)
+
+[Vídeo:  Uso de nuestro bloques. Reutilización](https://youtu.be/WvigBag8CDY)
+
+
+### Creando bloques propios con argumentos
 
 Aprovechando que hemos visto las ventajas de crear nuestro bloques, vamos a hacer más reutilizable el ejemplo de cómo dibujar un polígono que guardamos en la mochila.
 
@@ -191,53 +211,44 @@ El proyecto completo queda así:
 
 ![Proyecto: Dibuja Polígono](./images/BloqueDibujaPoligono.png)
 
-[Poryecto](https://scratch.mit.edu/projects/395289179/)
+[Proyecto](https://scratch.mit.edu/projects/395289179/)
+
+
+[![Vídeo: Creando bloques propios con argumentos](https://img.youtube.com/vi/GLU7nc_mZpk/0.jpg)](https://youtu.be/GLU7nc_mZpk)
+
+
+[Vídeo: Creando bloques propios con argumentos](https://youtu.be/GLU7nc_mZpk)
+
 
 ### Conversaciones e historias
 
-#### Ejemplos
+Vamos a empezar a trabajar la creación de historias, con una sencilla e intrascendente conversación entre 2 personajes: Gato y Rana, que se encontrarán junto a un sendero en un bosque y se saludarán.
 
-* Momentos históricos
-* Fragmentos de películas/series: Harry Potter, La casa de papel
+### Movimientos de los personajes en el escenario
 
+* Añadimos los personajes que van a participar.
+* Seleccionamos el fondo donde ocurrirá la conversación.
 
-Añadir personajes/objetos
-* Disfraces
-Añadir audios
-* Editarlos
-Fondos: Añadir imágenes
-* Editarlas
+Comenzaremos integrando a los personajes en el escenario, para ello, incluiremos toda esta configuración inicial tras su evento "Al hacer clic en Bandera" respectivo (recordar que cada personaje tiene su propio programa)
+* Les daremos el tamaño adecuado.
+* Los colocaremos en sus posiciones.
+* Si alguno de ellos no aparece inicialmente lo ocultaremos con el bloque **"Esconder"**
+* Haremos los movimientos con **"Deslizar"** para darles tiempo
+* Recuperamos disfraces que hemos creado en otros proyectos
+* Haremos cambios entre los distintos disfraces de los personajes
+* Vamos cambiando el tamaño para hacer más realista el efecto de la perspectiva del fondo.
 
-Cambio de apariencia: 
-* Disfraces
-* Cambio tamaño
+Nos queda ver cómo sincronizar los movimientos de los distintos personajes. Veremos que hay varias formas de hacerlo
 
+[![Vídeo: Movimientos de los personajes en el escenario](https://img.youtube.com/vi/1YyyDZ9H7Q8/0.jpg)](https://youtu.be/1YyyDZ9H7Q8)
 
+[Vídeo: Movimientos de los personajes en el escenario](https://youtu.be/1YyyDZ9H7Q8)
 
-Varios personajes
+## Sincronización entre personajes
 
-Varias voces 
-Extensiones: Text2Speech
+Vamos a ver dos formas distintas de sincronizar los movimientos de los personajes durante nuestro programa: por tiempo y por mensajes
 
-
-Cambiamos tamaño de personajes
-
-Modificaciones sencillas disfraces
-
-Diálogo entre personajes
-
-Sincronización con **mensajes**
-
-Ejemplo 3: Conversacion entre personajes
-
-eventos
-
-Usamos la extensión **Texto a Vox** con distintas voces
-
-¿Cómo vamos a sincronizarlo?
-
-
-## Sincronización por tiempo
+### Sincronización por tiempo
 
 Los personajes esperan un (tiempo que tenemos que calcular) hasta que les toca hablar.
 
