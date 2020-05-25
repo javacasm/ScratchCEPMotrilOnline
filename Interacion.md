@@ -63,40 +63,11 @@ Por supuesto que podíamos añadir ahora la pregunta de nombre al programa de lo
 
 ## [Teclas](./Teclado.md)
 
-
-
-## Interacción entre objetos
-
-![InteraccionEntreObjetos](./images/InteraccionEntreObjetos.png)
-
-Detectar:
-* choques
-* superposiones
-* detectar los bordes
-
-
-Ejemplo X: coronavirus estelar
-
-Creamos personaje desde imagen transparente
-
-Fondo desde imagen
-Redimensionamos fondo
-
-
-
-
-Puntuacion
-Choque de objetos
-
-
-
-
 ## [Ratón](./Raton.md)
 
-
+## [Colisiones](./Colisiones.md)
 
 ## [Sonido](./Sonido.md)
-
 
 ## [Vídeo](./Video.md)
 
