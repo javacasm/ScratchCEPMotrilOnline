@@ -1,7 +1,8 @@
-## Interacción con teclado
+ ## Interacción con teclado
 
+Vamos ver cómo podemos controlar el movimiento de nuestros personajes con las teclas.
 
-Eventos
+En este primer ejemplo usaremos **"Eventos"** asociados **"Al presionar tecla ..."**
 
 ### Movimientos relativos
 
@@ -14,6 +15,11 @@ Eventos
 ![MovimientosTeclasAbsolutos](./images/MovimientosTeclasAbsolutos.png)
 
 [Proyecto](https://scratch.mit.edu/projects/397287255/)
+
+
+[![Vídeo: Movimiento de personaje usando las teclas del cursor](https://img.youtube.com/vi/xgbzayW91hc/0.jpg)](https://youtu.be/xgbzayW91hc)
+
+[Vídeo: Movimiento de personaje usando las teclas del cursor](https://youtu.be/xgbzayW91hc)
 
 
 
