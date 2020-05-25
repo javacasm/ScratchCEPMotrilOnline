@@ -32,11 +32,11 @@ Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a
 
 Se trata de contar buenas historias pero modernizando las herramientas:
 
-> **Hamlet:** Ser, o no ser, ésa es la cuestión...
-> **Ofelia:** ¿Cómo os habéis sentido, señor, en todos estos días?
-> **Hamlet:** Muchas gracias. Bien.
-> **Ofelia:** Conservo en mi poder algunas expresiones vuestras, que deseo restituiros mucho tiempo ha, y os pido que ahora las toméis.
-> **Hamlet:** No, yo nunca te di nada.
+**Hamlet:** Ser, o no ser, ésa es la cuestión...
+**Ofelia:** ¿Cómo os habéis sentido, señor, en todos estos días?
+**Hamlet:** Muchas gracias. Bien.
+**Ofelia:** Conservo en mi poder algunas expresiones vuestras, que deseo restituiros mucho tiempo ha, y os pido que ahora las toméis.
+**Hamlet:** No, yo nunca te di nada.
 
 ¿y si lo adaptamos a estos tiempos?
 
