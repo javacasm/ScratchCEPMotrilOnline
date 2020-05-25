@@ -1,9 +1,5 @@
 # Materiales pendientes de revisión
 
-## Sesión 6: Conversaciones e historias
-
-[Conversaciones/Historias](./Conversaciones.md)
-
 ## Sesión 7: Interacción
 
 [Interacción](./Interacion.md)
