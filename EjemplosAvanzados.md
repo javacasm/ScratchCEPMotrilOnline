@@ -19,6 +19,16 @@ Para secundaria o más allá
 
 https://scratch.mit.edu/projects/392811906/
 
+## Pacman
+
+https://scratch.mit.edu/projects/390606679/
+
+
+Truco:
+* solo se mueve si el fondo es negro
+* usa 2 objetos para el comecocos: 1 para lo normal y otro cuando se lo comen. Se puede hacer un "mover a: objeto"
+
+Algoritmo de los fantasmas https://www.101computing.net/pacman-ghost-algorithm/
 
 ## Clones
 
@@ -38,3 +48,4 @@ Click sobre una burbuja hace pop
 Ejemplos: Escarabajo dispara a coronavirus
 
 Usamos unas variables x, y y dirección globales para que el disparo sepa de donde salir y a donde ir, mantedrá la dirección hasta que toque el borde donde desaparecerá.
+Se puede hacer un "mover a: objeto"
