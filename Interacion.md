@@ -37,29 +37,40 @@ Entre los personajes
     * Ratón
     * Vídeo
 
+Para hacer esta interacción utilizaremos los **Eventos** que ya hemos utilizado antes (y alguno nuevo):
 
-Paleta: Sensores
+![Tipos de eventos](./images/TiposEventos.png)
+
+
+Los bloques de la paleta "**Sensores**"
+
 ![Paleta Sensores](./images/PaletaSensores.png)
 
-### Preguntar
+Además de algunas extensiones que nos van a permitir:
 
-Pedir información al usuario con **Preguntar** y usar el de **Respuesta**
+* Detectar los movimientos usando una cámara web "**Sensor de Vídeo**".
 
-![NombreUsuario](./images/NombreUsuario.png)
+![ExtensionVídeo](./images/ExtensionVídeo.png)
 
-![PreguntarResponder](./images/PreguntarResponder.png)
+* Crear "**Música**" con la extensión del mismo nombre.
 
-Ejemplo: Adaptar el del poligono para que pida el número de lados
+![ExtensionMusica.png](./images/ExtensionMusica.png)
 
-https://scratch.mit.edu/projects/397274159/
+* Escuchar textos hablados con la extensión "**Texto a Voz**", veremos que podemos usarla para trabajar los idiomas.
 
-![PreguntaPoligono](./images/PreguntaPoligono.png)
+![ExtensionTextoAVox.png](./images/ExtensionTextoAVox.png)
 
-Ejemplo: Adaptar la ruta por Andalucía para preguntar el nombre
+Como ejemplo de interacción con Hardware veremos la conocida placa Makey-Makey que nos va a permitir sacar nuestros proyectos del ordenador, es decir poder usarlos sin tener que usar teclado o ratón.
 
-https://scratch.mit.edu/projects/397275339/
+![makey_makey_front.jpg](./images/makey_makey_front.jpg)
 
-Por supuesto que podíamos añadir ahora la pregunta de nombre al programa de los polígonos...
+[![Vídeo: Interacción en Scratch 3.0](https://img.youtube.com/vi/V_joIGGFx-k/0.jpg)](https://youtu.be/V_joIGGFx-k)
+
+
+[Vídeo: Interacción en Scratch 3.0](https://youtu.be/V_joIGGFx-k)
+
+
+## [Preguntas/Respuestas](./Preguntas.md)
 
 ## [Teclas](./Teclado.md)
 
