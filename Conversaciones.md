@@ -12,7 +12,7 @@ Vamos a seguir trabajando con recursos:
 
 Pero esta vez formarán parte de una historia que queremos contar.
 
-Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a sus licencias .
+Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a sus licencias.
 
 **¿Qué contamos?**
 * Narraciones.
@@ -33,10 +33,10 @@ Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a
 Se trata de contar buenas historias pero modernizando las herramientas:
 
 > **Hamlet:** Ser, o no ser, ésa es la cuestión...
-**Ofelia:** ¿Cómo os habéis sentido, señor, en todos estos días?
-**Hamlet:** Muchas gracias. Bien.
-**Ofelia:** Conservo en mi poder algunas expresiones vuestras, que deseo restituiros mucho tiempo ha, y os pido que ahora las toméis.
-**Hamlet:** No, yo nunca te di nada.
+> **Ofelia:** ¿Cómo os habéis sentido, señor, en todos estos días?
+> **Hamlet:** Muchas gracias. Bien.
+> **Ofelia:** Conservo en mi poder algunas expresiones vuestras, que deseo restituiros mucho tiempo ha, y os pido que ahora las toméis.
+> **Hamlet:** No, yo nunca te di nada.
 
 ¿y si lo adaptamos a estos tiempos?
 
@@ -59,9 +59,9 @@ Vamos a usar todas las herramientas que tenemos y algunos trucos
 
 ![Truco de perspectiva](./images/TrucoPerspectiva.png)
 
-[![Vídeo: Conversacion e historias con Scratch](https://img.youtube.com/vi/odpeEe3whkE/0.jpg)](https://youtu.be/odpeEe3whkE)
+[![Vídeo: Conversación e historias con Scratch](https://img.youtube.com/vi/odpeEe3whkE/0.jpg)](https://youtu.be/odpeEe3whkE)
 
-[Vídeo: Conversacion e historias con Scratch](https://youtu.be/odpeEe3whkE)
+[Vídeo: Conversación e historias con Scratch](https://youtu.be/odpeEe3whkE)
 
 
 ## Movimientos menos geométricos y en un escenario
