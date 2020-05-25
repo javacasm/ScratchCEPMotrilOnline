@@ -30,3 +30,11 @@ Click sobre una burbuja hace pop
 [Pompitas](https://scratch.mit.edu/projects/394798516/)
 
 [Colocar Ladrillos](https://scratch.mit.edu/projects/164028072)
+
+## Disparos
+
+
+
+Ejemplos: Escarabajo dispara a coronavirus
+
+Usamos unas variables x, y y dirección globales para que el disparo sepa de donde salir y a donde ir, mantedrá la dirección hasta que toque el borde donde desaparecerá.
