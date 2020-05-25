@@ -32,6 +32,7 @@ Conviene recordar que debemos citar las fuentes con el reconocimiento oportuno a
 
 Se trata de contar buenas historias pero modernizando las herramientas:
 
+
 **Hamlet:** Ser, o no ser, ésa es la cuestión...
 
 **Ofelia:** ¿Cómo os habéis sentido, señor, en todos estos días?
@@ -48,7 +49,7 @@ Se trata de contar buenas historias pero modernizando las herramientas:
 
 ### Movimientos, sonidos, animaciones, texto...
 
-Vamos a usar todas las herramientas que tenemos y algunos trucos
+Vamos a usar todas las herramientas que tenemos y algunos trucos.
 
 * Elegir el personaje: tenemos una variedad enorme en las librerías y podemos además crear nuevos.
     * Adaptar su tamaño y posición al escenario.
@@ -100,6 +101,7 @@ Para ello:
 * Probamos y ajustamos varias veces el movimiento.
 
 ![Programa: Gato Callejero Animado](./images/GatoCallejeroAnimado.png)
+
 (Para no hacerlo muy largo no se muestra la 2ª parte del movimiento)
 
 [Proyecto](https://scratch.mit.edu/projects/395279635/)
@@ -110,7 +112,9 @@ Para ello:
 
 
 
-### Creamos nuestros bloques
+### Creamos nuestros propios bloques
+
+Vamos a aprender a crear nuestros propios que nos harán más sencillo el crear programas complejos.
 
 Tras terminar la animación de Gato, vemos que hay una gran parte del programa que se repite. Es cómodo duplicar (o copiar/pegar) pero ocupa mucho y sobre todo, si tenemos que cambiar algo, hay que hacerlo en varias partes y se complica el programa.
 
@@ -128,7 +132,7 @@ Ahí tendremos nuestros bloques:
 
 Que podremos utilizar dentro de nuestro programa.
 
-Para crear un bloque pulsaremos en el botón **"Crear un bloque"** dentro de la paleta "Mis bloques" y aparecerá una pantalla donde daremos nombre a nuesro bloque. Puedes usar espacios, mayúculas, acentos en el nombre y te recomiendo que le des un nombre descriptivo y claro. 
+Para crear un bloque pulsaremos en el botón **"Crear un bloque"** dentro de la paleta "Mis bloques" y aparecerá una pantalla donde daremos nombre a nuestro bloque. Puedes usar espacios, mayúsculas, acentos en el nombre y te recomiendo que le des un nombre descriptivo y claro. 
 
 (Personalmente, como suelo programar con código y ahí los espacios suelen dar problemas uso las distintas palabras unidas, con la primera letra de cada una mayúscula para facilitar la lectura, pero es cuestión de costumbre)
 
@@ -140,7 +144,7 @@ Al pulsar "Aceptar" aparecerá un bloque especial llamado **"Definir"** que ser�
 
 ![DefinicionMiBloque](./images/DefinicionMiBloque.png)
 
-En el ejemplo de "PasoDeGatito" estos serán los bloques que lo formen.
+En el ejemplo de "**PasoDeGatito**" estos serán los bloques que lo formen.
 
 ![DefinicionBloquePasito](./images/DefinicionBloquePasito.png)
 
@@ -150,7 +154,7 @@ Ahora ya podemos sustituir todos los bloques que se necesitan para dar un paso p
 
 ![Bucle con "PasosDeGatito"](./images/BuclePasosGatito.png)
 
-Vamos a crear bloques que serán distintos gestos. Del mismo modo podemos hacer el bloque **GuiñoOjo**
+Vamos a crear bloques que serán distintos gestos. Del mismo modo podemos hacer el bloque "**GuiñoOjo**"
 
 El proyecto queda así:
 
@@ -172,7 +176,7 @@ El proyecto queda así:
 
 Una vez que tenemos creados nuestros programas podemos reutilizar muchas partes de los mismos, haciendo así mucho más eficiente nuestro trabajo.
 
-En este caso vamos a ver como podemos reutilizar disfraces, que exportaremos desde la pestaña "Disdraces", pulsando sobre cada uno de ellos con el botón derecho sobre la opción Exportar. Así se descargará y guardará cada una de las imágenes en nuestro ordenador.
+En este caso vamos a ver como podemos reutilizar disfraces, que exportaremos desde la pestaña "Disfraces", pulsando sobre cada uno de ellos con el botón derecho sobre la opción Exportar. Así se descargará y guardará cada una de las imágenes en nuestro ordenador.
 
 Desde el proyecto donde queramos usarlo sólo tendremos que usar la opción de importar de disfraces para recuperarlos en nuestro proyecto actual.
 
@@ -224,7 +228,7 @@ El proyecto completo queda así:
 [Vídeo: Creando bloques propios con argumentos](https://youtu.be/GLU7nc_mZpk)
 
 
-### Conversaciones e historias
+### Ejemplo sencillo de conversació o historia
 
 Vamos a empezar a trabajar la creación de historias, con una sencilla e intrascendente conversación entre 2 personajes: Gato y Rana, que se encontrarán junto a un sendero en un bosque y se saludarán.
 
@@ -380,15 +384,18 @@ Hemos añadido una pequeña programación al Escenario/fondo
 [Proyecto](https://scratch.mit.edu/projects/395314257)
 
 
-[![Vídeo: Ejemplo sencillo de sincronización entre presonajes usando mensajes](https://img.youtube.com/vi/ce3LPBiMFVQ/0.jpg)](https://youtu.be/ce3LPBiMFVQ)
+[![Vídeo: Ejemplo sencillo de sincronización entre personajes usando mensajes](https://img.youtube.com/vi/ce3LPBiMFVQ/0.jpg)](https://youtu.be/ce3LPBiMFVQ)
 
 
-[Vídeo: Ejemplo sencillo de sincronización entre presonajes usando mensajes](https://youtu.be/ce3LPBiMFVQ)
+[Vídeo: Ejemplo sencillo de sincronización entre personajes usando mensajes](https://youtu.be/ce3LPBiMFVQ)
 
 
 #### Mejoras:
 * Añadir distintas músicas de fondo, para los distintos momentos
 * Mejorar la conversación
+
+
+## Tarea 6: Usando lo aprendido en esta sesión crea un programa que nos cuente una historia/conversación entre varios personajes.
 
 
 ### Ejemplo Colón
@@ -449,12 +456,6 @@ Colón se acerca
 
 Suena la música final
 
-### Tarea X
-
-
-Crear un diálogo/historia entre personajes apropiado a tu contexto
-
-Ejemplo: [diálogos](https://scratch.mit.edu/projects/373453276/)
 
 ## Ideas
 
