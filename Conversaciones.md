@@ -301,7 +301,7 @@ Para conseguir que la sincronización sea perfecta tendremos que probar bastante
 
 ## Mensajes 
 
-También podemos usar **mensajes** que no son otra cosa que eventos que personalizados que podemos crear nosotros.
+Vamos a ver otra manera de sincronizar a los personajes. Para ello usaremos **Mensajes**, que no son otra cosa que eventos personalizados que podemos crear nosotros.
 
 Además de los eventos que tenemos, asociados a la bandera verde, las teclas, el ratón,...
 
@@ -340,8 +340,13 @@ Podemos usar esta característica para hacer que muchos personajes reaccionen a 
 
 ![MensajeHolaATodos](./images/MensajeHolaATodos.png)
 
+[![Vídeo: Sincronización entre personajes usando mensajes](https://img.youtube.com/vi/DNjDcjSwqMk/0.jpg)](https://youtu.be/DNjDcjSwqMk)
 
-### Ejemplo conversación sencilla
+
+[Vídeo: Sincronización entre personajes usando mensajes](https://youtu.be/DNjDcjSwqMk)
+
+
+### Ejemplo sencillo de sincronización usando mensajes
 
 Vamos a hacer una sencilla conversación entre Gato y Rana. El esquema sería algo así:
 
@@ -369,6 +374,13 @@ Hemos añadido una pequeña programación al Escenario/fondo
 ![MensajesGatoRana_Fondo](./images/MensajesGatoRana_Fondo.png)
 
 [Proyecto](https://scratch.mit.edu/projects/395314257)
+
+
+[![Vídeo: Ejemplo sencillo de sincronización entre presonajes usando mensajes](https://img.youtube.com/vi/ce3LPBiMFVQ/0.jpg)](https://youtu.be/ce3LPBiMFVQ)
+
+
+[Vídeo: Ejemplo sencillo de sincronización entre presonajes usando mensajes](https://youtu.be/ce3LPBiMFVQ)
+
 
 #### Mejoras:
 * Añadir distintas músicas de fondo, para los distintos momentos
