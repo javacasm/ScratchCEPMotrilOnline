@@ -59,11 +59,15 @@
 
 ### Sesión 4: Trabajando con recursos
 
-* [Trabajando con recursos](./Recursos.md)
+[Trabajando con recursos](./Recursos.md)
 
 ## Sesión 5: Movimientos y Dibujos geométricos
 
-* [Movimiendo los personajes. Aplicación: Geometría](./Movimientos.md)
+[Movimiendo los personajes. Aplicación: Geometría](./Movimientos.md)
+
+## Sesión 6: Conversaciones e historias
+
+[Conversaciones/Historias](./Conversaciones.md)
 
 ## [Referencias/Ampliación](./Referencias.md)
 
