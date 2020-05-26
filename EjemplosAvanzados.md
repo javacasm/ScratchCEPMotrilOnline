@@ -49,3 +49,33 @@ Ejemplos: Escarabajo dispara a coronavirus
 
 Usamos unas variables x, y y dirección globales para que el disparo sepa de donde salir y a donde ir, mantedrá la dirección hasta que toque el borde donde desaparecerá.
 Se puede hacer un "mover a: objeto"
+
+## Colisiones más detalladas
+
+
+
+![InteraccionEntreObjetos](./images/InteraccionEntreObjetos.png)
+
+
+## Dibujando con el ratón
+
+Editor gráfico
+
+Mensajes de cambios de colores y de tipos de línea
+
+![InteraccionRaton](./images/InteraccionRaton.png)
+
+Si estamos en la zona de dibujar, compiamos la coordenada del raton al personaje
+
+Usamos la extensión
+
+Cada herramienta manda un mensaje y hace que Gato cambie
+
+![EditorGrafico](./images/EditorGrafico.png)
+
+[Proyecto](https://scratch.mit.edu/projects/397315506/)
+
+
+Vamos a ampliarlo añadiendo un "botón" borrar, algunos colores más y algún grosor nuevo.
+
+[Solución](https://scratch.mit.edu/projects/397334049/)
