@@ -1,25 +1,5 @@
 ## Interacción entre objetos
 
-![InteraccionEntreObjetos](./images/InteraccionEntreObjetos.png)
-
-Detectar:
-* choques
-* superposiones
-* detectar los bordes
-
-
-Ejemplo X: coronavirus estelar
-
-Creamos personaje desde imagen transparente
-
-Fondo desde imagen
-Redimensionamos fondo
-
-
-
-
-Puntuacion
-Choque de objetos
 
 
 ### Escarabajo caza a coronavirus
@@ -49,3 +29,6 @@ Podíamos detectar también la colisión desde el otro personaje y el funcionami
 
 [Proyecto](https://scratch.mit.edu/projects/398091853/)
 
+[![Vídeo: Colisiones entre objetos](https://img.youtube.com/vi/5Nj3QNhqB94/0.jpg)](https://youtu.be/5Nj3QNhqB94)
+
+[Vídeo: Colisiones entre objetos](https://youtu.be/5Nj3QNhqB94)
