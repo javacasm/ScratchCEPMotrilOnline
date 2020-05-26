@@ -64,6 +64,10 @@ Usamos una make-makey para que el usuario encuentre las correspondencias. Un sen
 ![](../images/Proyecto3b.jpg)
 ![](../images/Proyecto3.jpg)
 
+Usamos
+
+![TeclaPresionada](./images/TeclaPresionada.png)
+
 ![](../images/Quizz-blocks.png)
 
 [Proyecto](https://scratch.mit.edu/projects/341130424/)
