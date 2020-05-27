@@ -59,6 +59,12 @@ El programa queda así:
 [Programa](https://scratch.mit.edu/projects/397456360)
 
 
+[![Vídeo: Semáforo Sonoro utilizando eventos](https://img.youtube.com/vi/bKPWYZGbvaA/0.jpg)](https://youtu.be/bKPWYZGbvaA)
+
+
+[Vídeo: Semáforo Sonoro utilizando eventos](https://youtu.be/bKPWYZGbvaA)
+
+
 #### Mejoras/Ideas
 
 * Usar imágenes de ellos mismos.
