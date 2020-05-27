@@ -1,32 +1,63 @@
+## Trabajando con el micrófono
 
+Desde Scratch 3.0 podemos trabajar con cualquier micrófono que tengamos conectado al ordenadore. Podemos usarlo como ya hemos visto para grabar audios, y también para medir el volumen de ruido que tenemos alrededor.
 
-### Trabajando con el micrófono
-
+Para ello usamos el bloque "Volumen del sonido", que está en la paleta de Sensores.
 
 ![VolumenSonido](./images/VolumenSonido.png)
 
-Ejemplo: Semáforo sonoro
+Como vemos, tiene forma de Variable/Valor y nos da una medida de la intensidad del sonido, con lo que se mostrará su valor en pantalla si marcamos el tic.
 
-Vamos a hacer todo el programa en el escenario, sin usar personajes
+### Ejemplo: Semáforo sonoro
 
+Vamos a hacer un semáfono sonoro, que mostrará 3 niveles de ruido: Bajo, Medio y Alto, indicándolo en pantalla con 3 díscos de colores Verde, Amarillo y Rojo.
+
+Podemos usarlo en clase para regular el nivel de ruido, ajustando los niveles podemos adecuarlo a cada tarea.
+
+* En esta caso vamos a hacer todo el programa en el escenario, sin usar personajes, para demostrar que es posible hacerlo así.
+* Tras el evento de "Bandera Verde" un bucle "Por siempre" se encarga de hacer que se repita la medida del sonido.
+* Usamos varias sentencias condicionales **"Si/si no"** para establecer el nivel de sonido:
 ![Si-Sino](./images/Si-Sino.png)
+* De entrada establecemos unos niveles de corte de 30 y 50: Rojo por encima de 50, Amarillo entre 30 y 50 y Verde por debajo de 30. Habrá que ajustar estos niveles según el ruido ambiente que tengamos y la sensibilidad de nuestro micrófono.
+* Vamos a incluir 2 sentencias **"Si/si no"** y de manera anidada (una dentro de la otra), para saber en cual de los 3 niveles estamos:
+    * Primero comparamos el máximo 50, si se cumple estamos en nivel Rojo.
+    * El la parte "si no" de este bloque condicional volvemos a comparar el valor con 30. 
+        * Si se cumple estamos en zona Amarilla
+        * Si no, estamo en nivel Verde.
+* Creamos fondos sencillos, formado por un círculo relleno de color.
+* Los duplicamos fácilmente y cambiamos el color (usando la herramienta de selección).
+* Si los cambios de nivel se producen demasiado rápido podemos añadir unas esperas.
 
-
-Fondo sencillo formado por un círculo relleno de color, fácilmente duplicamos y cambiamos el color (usando la herramienta de selección)
+El programa queda así:
 
 ![SemaforoSonoro](./images/SemaforoSonoro.png)
 
 [Programa](https://scratch.mit.edu/projects/397450004/)
 
 
-También podemos trabajar los cambios en el volumen de sonido con eventos
+[![Vídeo: Semáforo Sonoro con Scratch](https://img.youtube.com/vi/mLu6ZtLsHWE/0.jpg)](https://youtu.be/mLu6ZtLsHWE)
+
+
+[Vídeo: Semáforo Sonoro con Scratch](https://youtu.be/mLu6ZtLsHWE)
+
+
+### Ejemplo: Semáforo sonoro con eventos
+
+También podemos trabajar los cambios en el volumen de sonido con eventos, usando el siguiente evento:
 
 ![Evento Volumen Sonido](./images/EventoVolumen.png)
+
+Aprovechamos los mismos fondos creado, o bien creando una copia del programa anterior o exportándolos y recuperándolos desde el nuevo programa.
+
+Hacemos 3 eventos, uno por cada nivel y para asegurar que se mantienen añadimos un elmento "Esperar hasta que ..." con un operador que compara el nivel medido con el valor.
+
+El programa queda así:
 
 ![SemaforoSonoroEventos](./images/SemaforoSonoroEventos.png)
 
 
 [Programa](https://scratch.mit.edu/projects/397456360)
+
 
 #### Mejoras/Ideas
 
