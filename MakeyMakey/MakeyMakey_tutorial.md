@@ -1,5 +1,16 @@
 # [Makey Makey](http://www.makeymakey.com/)
 
+
+
+## MakeyMakey
+
+![Extensión MakeyMakey](./images/ExtensionMakeyMakey.png)
+
+
+Como ejemplo de interacción con Hardware veremos la conocida placa Makey-Makey que nos va a permitir sacar nuestros proyectos del ordenador, es decir poder usarlos sin tener que usar teclado o ratón.
+
+![makey_makey_front.jpg](./images/makey_makey_front.jpg)
+
 ![bananaPiano](../images/bananaPiano.jpg)
 
 Surgió de un proyecto de KickStarted
