@@ -187,14 +187,34 @@ El resultado es este programa
 
 ## Traducción
 
-Extensión Traducción (necesita conexión)
+Vamos a usar la extensión **"Traducción"** (que necesita conexión a internet para funcionar) para aprender a indentificar cómo se llaman los objetos en diferentes idiomas.
 
-![ExtensionTraduccion](./images/ExtensionTraduccion.png)
+![ExtensionTraduccion.png](./images/ExtensionTraduccion.png)
 
-![BloquesTraduccion](./images/BloquesTraduccion.png)
+La extensión tiene bloques que nos permiten traducir un texto a otro idioma.
 
-Usamos mensajes para comunicar los diferentes objetos entre si
+![BloquesTraduccion.png](./images/BloquesTraduccion.png)
+
+Para oir en voz alta el resultado de la traducción también empleamos la extensión "Texto a Voz".
+
+![Traductor](./images/TraductorPantalla.png)
+
+
+En nuestro programa tendremos diferentes objetos en pantalla y varios idiomas. Al hacer click sobre ellos se oirán en el idioma seleccionado
+
+Como siempre que tenemos varios objetos, usamos mensajes para comunicar los diferentes objetos entre si. Cada idioma envía un mensaje que hace que Abby lea en voz alta la traducción del objeto seleccionado.
+
+Al pulsar sobre cada objeto se envia un mensaje, que hace que Abby guarde en la variable "Palabra" el nombre del objeto.
+
+Al pulsar sobre el idioma se traduce la palabra al idioma correspondiente y se lee en esta idioma.
 
 ![Traductor](./images/Traductor.png)
 
+
+
+
 [Programa](https://scratch.mit.edu/projects/397480564)
+
+[![Vídeo: Traduciendo palabras entre diferentes idiomas con Scratch](https://img.youtube.com/vi/k2NLnWiamo4/0.jpg)](https://youtu.be/k2NLnWiamo4)
+
+[Vídeo: Traduciendo palabras entre diferentes idiomas con Scratch](https://youtu.be/k2NLnWiamo4)
