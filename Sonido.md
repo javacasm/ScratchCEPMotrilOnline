@@ -69,12 +69,25 @@ El programa queda así:
 
 ### Música en serio
 
+Ya hemos visto que podemos reproducir sonidos y música, grabada o desde fciheros. Vamos a hacer ahora un programa que toca fielmente una partitura.
+
+Para ello vamos a utilizar la extensión **"Música"**
+
 ![ExtensionMusica](./images/ExtensionMusica.png)
+
+Que nos proporciona bloques para seleccionar distintos instrumentos, reproducir notas concretas, tocar percusiones, ajustar el tempo, etc...
 
 ![BloquesMusica](./images/BloquesMusica.png)
 
-Con una partitura como la de "Cumpleaños feliz"
+A partir de una partitura como la de "Cumpleaños feliz"
 ![](./images/HappyBirthDay.png)
+
+Podemos hacer un programa que la reproduzca, por 2 instrumentos distintos.
+* Seleccionamos un fondo teatral adecuado.
+* Añadimos 2 objetos que correspondan con los instrumentos elegidos.
+* Cada instrumento reproducirá la melodía tras el evento de "Al hacer clic en el objeto"
+* Fijamos el instrumento adecuado
+* Añadimos las correspondientes notas con su duración
 
 Al hacer clic en el instrumento suena
 
@@ -82,6 +95,12 @@ Al hacer clic en el instrumento suena
 
 [Proyecto](https://scratch.mit.edu/projects/397459108/)
 
+[![Vídeo: Cumpleaños Feliz nota a nota. Música con Scratch](https://img.youtube.com/vi/MGgHTgvm1y4/0.jpg)](https://youtu.be/MGgHTgvm1y4)
+
+[Vídeo: Cumpleaños Feliz nota a nota. Música con Scratch](https://youtu.be/MGgHTgvm1y4)
+
+
+## Reproductor con seguimiento de partituras
 
 Vamos a darlo un valor más didáctico, mostrando la nota que está sonando
 
@@ -103,28 +122,68 @@ Usamos el efecto "Desvanecer"
 
 ![CambiarTempo](./images/CambiarTempo.png)
 
-### Narrando...
+### Narrando...   
+
+Ya hemos utilizado la extensión "Texto a Voz" anteriormente, para hacer que los personajes nos narren historias.
 
 ![ExtensionTextoAVox](./images/ExtensionTextoAVox.png)
 
+Ahora vamos a utilizar sus bloques para trabajar los idiomas:
+
 ![](./images/BloquesTextoAVoz.png)
 
-Trabajar los idiomas
+Cambiando el idioma o el tipo de voz, vamos a poder trabajar el oido escuchando diferentes acentos.
 
 
-### Directions
+### Ejemplo: Directions
 
-Vemos como importar imágenes desde la librería de disfraces dentro de los disfraces de nuestro personaje
+Nuestro programa va a pronunciar en Inglés la dirección en la que apunta cada una de las teclas del cursor que hemos pulsado.
+
+Para ello:
+* Añadimos eventos de pulsación de cada tecla del cursor.
+* En el evento "Bandera Verde" seleccionamos el idioma y la voz que usaremos.
+* Vemos como importar imágenes desde la librería de disfraces dentro de los disfraces de nuestro personaje, que ya tiene los bloques del programa
 
 ![Directions](./images/Directions.png)
 
 [Programa](https://scratch.mit.edu/projects/397474673/)
 
+[![Vídeo:  Directions: Escuchando qué son los objetos en otro idioma](https://img.youtube.com/vi/vklQf9VQpS8/0.jpg)](https://youtu.be/vklQf9VQpS8)
+
+
+[Vídeo:  Directions: Escuchando qué son los objetos en otro idioma](https://youtu.be/vklQf9VQpS8)
+
+
+### Ideas/Mejoras
+
+* Un programa que muestre personajes que digan su nombre al pulsarlos.
+
+
 ### Contador
+
+Aprovechando que la extensión "Texto a Voz" es capaz de leer los números vamos a hacer un sencillo programa que cuente en voz alta desde 1 hasta 10.
+
+Para ello:
+* Cargamos la extensión "Texto a Voz"
+* Tras el evento "Bandera Verde", seleccionamos el idioma y el tipo de voz a usar
+* Hacemos un bucle "Repetir 10 veces"
+* Creamos una variable "Contador"
+* Fuera del bucle le damos el valor 1
+* Dentro del bucle 
+    * Hacemos que se diga su valor con el bloque "Decir"
+    * Cambiamos el valor de la variable en 1
+
+El resultado es este programa
 
 ![Contador](./images/Contador.png)
 
 [Programa](https://scratch.mit.edu/projects/397477702/)
+
+[![Vídeo: Contando en otros idiomas con Scratch](https://img.youtube.com/vi/k5e1yORqtOA/0.jpg)](https://youtu.be/k5e1yORqtOA)
+
+
+[Vídeo: Contando en otros idiomas con Scratch](https://youtu.be/k5e1yORqtOA)
+
 
 ## Traducción
 
