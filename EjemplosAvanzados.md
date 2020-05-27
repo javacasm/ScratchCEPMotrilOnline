@@ -57,6 +57,8 @@ Se puede hacer un "mover a: objeto"
 ![InteraccionEntreObjetos](./images/InteraccionEntreObjetos.png)
 
 
+Colisiones usando colores: el siguelineas
+
 ## Dibujando con el ratón
 
 Editor gráfico
@@ -79,3 +81,11 @@ Cada herramienta manda un mensaje y hace que Gato cambie
 Vamos a ampliarlo añadiendo un "botón" borrar, algunos colores más y algún grosor nuevo.
 
 [Solución](https://scratch.mit.edu/projects/397334049/)
+
+## Vídeo
+
+También podemos trabajar la detección de colores usando lo que ve la cámara.
+
+Usar dirección y movimiento
+
+Usar detección del movimiento en todo el escenario
