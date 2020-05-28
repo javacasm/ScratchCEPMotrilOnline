@@ -1,6 +1,6 @@
  ## Interacción con teclado
 
-Vamos ver cómo podemos controlar el movimiento de nuestros personajes con las teclas.
+Vamos ver cómo podemos controlar el movimiento de nuestros personajes con el teclado.
 
 En estos ejemplos usaremos **"Eventos"** asociados al teclado como **"Al presionar tecla ..."**
 
