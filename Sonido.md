@@ -1,6 +1,6 @@
 ## Trabajando con el micrófono
 
-Desde Scratch 3.0 podemos trabajar con cualquier micrófono que tengamos conectado al ordenadore. Podemos usarlo como ya hemos visto para grabar audios, y también para medir el volumen de ruido que tenemos alrededor.
+Desde Scratch 3.0 podemos trabajar con cualquier micrófono que tengamos conectado al ordenador. Podemos usarlo como ya hemos visto para grabar audios, y también para medir el volumen de ruido que tenemos alrededor.
 
 Para ello usamos el bloque "Volumen del sonido", que está en la paleta de Sensores.
 
@@ -10,7 +10,7 @@ Como vemos, tiene forma de Variable/Valor y nos da una medida de la intensidad d
 
 ### Ejemplo: Semáforo sonoro
 
-Vamos a hacer un semáfono sonoro, que mostrará 3 niveles de ruido: Bajo, Medio y Alto, indicándolo en pantalla con 3 díscos de colores Verde, Amarillo y Rojo.
+Vamos a hacer un semáforo sonoro, que mostrará 3 niveles de ruido: Bajo, Medio y Alto, indicándolo en pantalla con 3 discos de colores Verde, Amarillo y Rojo.
 
 Podemos usarlo en clase para regular el nivel de ruido, ajustando los niveles podemos adecuarlo a cada tarea.
 
@@ -23,7 +23,7 @@ Podemos usarlo en clase para regular el nivel de ruido, ajustando los niveles po
     * Primero comparamos el máximo 50, si se cumple estamos en nivel Rojo.
     * El la parte "si no" de este bloque condicional volvemos a comparar el valor con 30. 
         * Si se cumple estamos en zona Amarilla
-        * Si no, estamo en nivel Verde.
+        * Si no, estamos en nivel Verde.
 * Creamos fondos sencillos, formado por un círculo relleno de color.
 * Los duplicamos fácilmente y cambiamos el color (usando la herramienta de selección).
 * Si los cambios de nivel se producen demasiado rápido podemos añadir unas esperas.
@@ -49,7 +49,7 @@ También podemos trabajar los cambios en el volumen de sonido con eventos, usand
 
 Aprovechamos los mismos fondos creado, o bien creando una copia del programa anterior o exportándolos y recuperándolos desde el nuevo programa.
 
-Hacemos 3 eventos, uno por cada nivel y para asegurar que se mantienen añadimos un elmento "Esperar hasta que ..." con un operador que compara el nivel medido con el valor.
+Hacemos 3 eventos, uno por cada nivel y para asegurar que se mantienen añadimos un elemento "Esperar hasta que ..." con un operador que compara el nivel medido con el valor.
 
 El programa queda así:
 
@@ -75,7 +75,7 @@ El programa queda así:
 
 ### Música en serio
 
-Ya hemos visto que podemos reproducir sonidos y música, grabada o desde fciheros. Vamos a hacer ahora un programa que toca fielmente una partitura.
+Ya hemos visto que podemos reproducir sonidos y música, grabada o desde ficheros. Vamos a hacer ahora un programa que toca fielmente una partitura.
 
 Para ello vamos a utilizar la extensión **"Música"**
 
@@ -106,27 +106,7 @@ Al hacer clic en el instrumento suena
 [Vídeo: Cumpleaños Feliz nota a nota. Música con Scratch](https://youtu.be/MGgHTgvm1y4)
 
 
-## Reproductor con seguimiento de partituras
 
-Vamos a darlo un valor más didáctico, mostrando la nota que está sonando
-
-Añadimos un fondo con la partitura y vamos a crear un objeto Cursor que nos vaya marcando la nota que está sonando
-
-Cada instrumento enviará un mensaje para cambiar el instrumento que suene.
-
-Usamos el efecto "Desvanecer"
-
-![CumpleañosFeliz-Siguenotas](./images/CumpleañosFeliz-Siguenotas.png)
-
-[Proyecto](https://scratch.mit.edu/projects/397468964)
-
-### Mejoras/Ideas
-
-* Añade distintas melodías.
-* Incluir más intrumentos.
-* Controla la velocidad de reproducción.
-
-![CambiarTempo](./images/CambiarTempo.png)
 
 ### Narrando...   
 
@@ -138,7 +118,7 @@ Ahora vamos a utilizar sus bloques para trabajar los idiomas:
 
 ![](./images/BloquesTextoAVoz.png)
 
-Cambiando el idioma o el tipo de voz, vamos a poder trabajar el oido escuchando diferentes acentos.
+Cambiando el idioma o el tipo de voz, vamos a poder trabajar el oído escuchando diferentes acentos.
 
 
 ### Ejemplo: Directions
@@ -193,7 +173,7 @@ El resultado es este programa
 
 ## Traducción
 
-Vamos a usar la extensión **"Traducción"** (que necesita conexión a internet para funcionar) para aprender a indentificar cómo se llaman los objetos en diferentes idiomas.
+Vamos a usar la extensión **"Traducción"** (que necesita conexión a Internet para funcionar) para aprender a identificar cómo se llaman los objetos en diferentes idiomas.
 
 ![ExtensionTraduccion.png](./images/ExtensionTraduccion.png)
 
@@ -201,16 +181,16 @@ La extensión tiene bloques que nos permiten traducir un texto a otro idioma.
 
 ![BloquesTraduccion.png](./images/BloquesTraduccion.png)
 
-Para oir en voz alta el resultado de la traducción también empleamos la extensión "Texto a Voz".
+Para oír en voz alta el resultado de la traducción también empleamos la extensión "Texto a Voz".
 
 ![Traductor](./images/TraductorPantalla.png)
 
 
-En nuestro programa tendremos diferentes objetos en pantalla y varios idiomas. Al hacer click sobre ellos se oirán en el idioma seleccionado
+En nuestro programa tendremos diferentes objetos en pantalla y varios idiomas. Al hacer clic sobre ellos se oirán en el idioma seleccionado
 
 Como siempre que tenemos varios objetos, usamos mensajes para comunicar los diferentes objetos entre si. Cada idioma envía un mensaje que hace que Abby lea en voz alta la traducción del objeto seleccionado.
 
-Al pulsar sobre cada objeto se envia un mensaje, que hace que Abby guarde en la variable "Palabra" el nombre del objeto.
+Al pulsar sobre cada objeto se envía un mensaje, que hace que Abby guarde en la variable "Palabra" el nombre del objeto.
 
 Al pulsar sobre el idioma se traduce la palabra al idioma correspondiente y se lee en esta idioma.
 
