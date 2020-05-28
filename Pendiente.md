@@ -1,11 +1,6 @@
 # Materiales pendientes de revisión
 
-## Sesión 7: Interacción
-
-[Interacción](./Interacion.md)
-
 ## Sesión 8: MakeyMakey
-
 
 Ejemplo: Preguntas y respuestas
 
