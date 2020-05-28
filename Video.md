@@ -1,6 +1,6 @@
 ## Interacción con Vídeo
 
-Vamos a trabajar ahora la interación con Scratch usando  vídeo, que nos va a permitir mezclar nuestros personajes con la realidad que nos rodea al más puro estilo de la Realidad Aumentada
+Vamos a trabajar ahora la interacción con Scratch usando  vídeo, que nos va a permitir mezclar nuestros personajes con la realidad que nos rodea al más puro estilo de la Realidad Aumentada
 
 ![RealidadAumentada.png](./images/RealidadAumentada.png)
 
@@ -26,7 +26,7 @@ También podemos trabajar la detección de colores usando lo que ve la cámara.
 
 ## Ejemplo: Molestando a Gato usando el sensor de Vídeo
 
-Vamos a hacer un proyecto sencillo, en el que Gato maulle cuando detecte vía vídeo que lo tocamos.
+Vamos a hacer un proyecto sencillo, en el que Gato maúlle cuando detecte vía vídeo que lo tocamos.
 
 * Usamos eventos de pulsación de teclas para encender y apagar el vídeo.
 * Después del evento "Bandera Verde" activamos el vídeo 
@@ -34,7 +34,7 @@ Vamos a hacer un proyecto sencillo, en el que Gato maulle cuando detecte vía v�
 * Dado que tenemos que medir todo el tiempo usamos un bucle "Para siempre".
 * Una sentencia condicional para ver si hay movimiento
     * Usamos un operador lógico comparación para ver si hay movimiento sobre Gato mayor de un valor dado (20).
-    * Si es así Gato maulla.
+    * Si es así Gato maúlla.
 
 ![MolestandoAGatoVideo](./images/MolestandoAGatoVideo.png)
 
@@ -59,9 +59,9 @@ El cambio es muy sencillo y el programa queda así:
 [Vídeo: Molestando a Gato usando el sensor de vídeo de Scratch](https://youtu.be/9THbOj7Fhns)
 
 
-### VideoPercusión
+### Ejemplo: VideoPercusión
 
-Vamos a usar ahora el senso de vídeo para hacer sonar instrumentos de percusión.
+Vamos a usar ahora el sensor de vídeo para hacer sonar instrumentos de percusión.
 
 Colocamos los objetos distribuidos por el fondo:
 ![VideoPercusiónObjetos](./images/VideoPercusiónObjetos.png)
@@ -85,7 +85,7 @@ Podemos mejorarlo usando más instrumentos y la extensión "Música".
 [VideoPercusión: usando el sensor de vídeo para tocar instrumentos de percusión en Scratch](https://youtu.be/CH9YgQCocF4)
 
 
-### Medidor de Ejercicio
+### Ejemplo: Medidor de Ejercicio
 
 Vamos a darle un nuevo uso al programar anterior: Si añadimos una variable que cuente nuestros movimientos podemos tener un programar "Medidor de Ejercicio"
 
@@ -110,11 +110,11 @@ Podemos evitar el efecto espejo de la cámara con el bloque "Invertir cámara"
 
 Podemos hacer que al llegar a cierto número de movimientos se cambie el fondo o nos aplauda para animarnos.
 
-### VídeoCursor
+### Ejemplo: VídeoCursor
 
 Vamos a controlar ahora el movimiento de un personaje con el vídeo. Para ello añadiremos varios personajes que actuarán como si fueran las teclas del cursor. Cuando nos movamos sobre ellas nuestro personaje se moverá por la pantalla
 
-Al detectar movimiento cada uno de los objetos que actuan como cursor enviarán un mensaje indicando el tipo de movimiento que tiene que hacer Gato
+Al detectar movimiento cada uno de los objetos que actúan como cursor enviarán un mensaje indicando el tipo de movimiento que tiene que hacer Gato
 
 ![VideoCursorGato](./images/VideoCursorGato.png)
 
