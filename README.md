@@ -69,6 +69,10 @@
 
 [Conversaciones/Historias](./Conversaciones.md)
 
+## Sesión 7: Interacción
+
+[Interacción](./Interacion.md)
+
 ## [Referencias/Ampliación](./Referencias.md)
 
 ## [OpenSource](./opensource.md)
