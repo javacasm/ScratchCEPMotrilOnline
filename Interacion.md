@@ -65,7 +65,7 @@ En la siguiente sesión veremos cómo trabajar la interacción con Hardware, usa
 
 ## [Preguntas/Respuestas](./Preguntas.md)
 
-## [Teclas](./Teclado.md)
+## [Teclado](./Teclado.md)
 
 ## [Ratón](./Raton.md)
 
