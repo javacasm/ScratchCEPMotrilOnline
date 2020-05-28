@@ -16,13 +16,13 @@ El cambio es sencillo:
 
 [Programa](https://scratch.mit.edu/projects/397274159/)
 
-#### Ejemplo: Ruta por Andalucia
+#### Ejemplo: Ruta por Andalucía
 
 Vamos a adaptar el programa de la ruta por Andalucía para preguntar que nos pregunte nuestro nombre y cada vez que nos cuente algo, se dirija a nosotros por el nombre.
 
 ![BloquesRecorridoInteraccion](./images/BloquesRecorridoInteraccion.png)
 
-[Programa]s(https://scratch.mit.edu/projects/397275339/)
+[Programa](https://scratch.mit.edu/projects/397275339/)
 
 
 [![Vídeo: Haciendo preguntas al usuario](https://img.youtube.com/vi/hkNtiibH9tw/0.jpg)](https://youtu.be/hkNtiibH9tw)
