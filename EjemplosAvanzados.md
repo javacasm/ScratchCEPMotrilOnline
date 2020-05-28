@@ -89,3 +89,25 @@ También podemos trabajar la detección de colores usando lo que ve la cámara.
 Usar dirección y movimiento
 
 Usar detección del movimiento en todo el escenario
+
+## Reproductor con seguimiento de partituras
+
+Vamos a darlo un valor más didáctico, mostrando la nota que está sonando
+
+Añadimos un fondo con la partitura y vamos a crear un objeto Cursor que nos vaya marcando la nota que está sonando
+
+Cada instrumento enviará un mensaje para cambiar el instrumento que suene.
+
+Usamos el efecto "Desvanecer"
+
+![CumpleañosFeliz-Siguenotas](./images/CumpleañosFeliz-Siguenotas.png)
+
+[Proyecto](https://scratch.mit.edu/projects/397468964)
+
+### Mejoras/Ideas
+
+* Añade distintas melodías.
+* Incluir más intrumentos.
+* Controla la velocidad de reproducción.
+
+![CambiarTempo](./images/CambiarTempo.png)
