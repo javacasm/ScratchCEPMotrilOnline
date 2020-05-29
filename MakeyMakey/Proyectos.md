@@ -56,6 +56,19 @@ Son 4 las fases para construir un Robot
 * Responsabilizarlos
 
 
+
+
+batería
+
+instrumentos
+
+Ejemplo de Quiz 1 pregunta
+
+Ejemplo Unir preguntas y respuestas
+
+
+
+
 ## Quiz I: Pregunta y respuestas
 
 
