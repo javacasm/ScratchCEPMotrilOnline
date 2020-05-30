@@ -23,7 +23,7 @@
 
 [Piano más grande](https://www.instructables.com/id/Educational-Makey-Makey-Piano/)
 
-![](https://content.instructables.com/FXV/C0RD/K76EGJEB/FXVC0RDK76EGJEB.LARGE.jpg?auto=webp&frame=1&width=336&height=1024&fit=bounds)
+![](https://content.instructables.com/FXV/C0RD/K76EGJEB/FXVC0RDK76EGJEB.LARGE.jpg?auto=webp&frame=1&width=336&height=1024&fit=bounds    )
 
 [Macro Piano](https://makeymakey.com/blogs/how-to-instructions/oversized-and-portable-floor-piano)
 
