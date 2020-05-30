@@ -1,7 +1,6 @@
 # BBC-microbit
 
-![microbit front](http://microbit.org/images/microbit-front.png)
-![microbit back](http://microbit.org/images/microbit-back.png)
+![microbit front](./images/microbit-front-back.jpg)
 
 [Fundación microbit](http://microbit.org/es/)
 
@@ -12,7 +11,7 @@
 ### [Hardware](http://microbit.org/es/hardware/)
 
 
-![hardware](http://microbit.org/images/microbit-hardware.png)
+![hardware](./images/4cfb4a0c22aa25164ba6f5f9cb4ae2d53cbf35ba-2577x1068.png)
 ![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/microbit_pinout_v10.png)
 
 ![pinout2](https://microbit.org/images/microbit-pins.jpg)
