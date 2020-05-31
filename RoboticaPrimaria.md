@@ -1,23 +1,27 @@
-## Otros ejemplos de robótica en Primaria
+## Ejemplos de robótica en Primaria
 
 Introducción a la robotica
 
-## Beebot/Escornabot
+## Beebot
 
 Robot sencillos de usar pensados para primaria
 
-![](./images/escornabot.png)
-
+El más utilizado pienso que es la famosa "Abejita" Beebot
 
 ![](./images/bee-bot-robot-educativo-preescolar1-1.jpg)
 
-## Tableros
+![](./images/uso-robot-beebot.png)
 
-La parte educativa va en los tableros
+La parte educativa va en los **tableros**/**tapetes**
 
 ![](./images/alfabeto.png)
 
 ![](./images/mates1º.jpg)
+
+
+## Escornabot
+
+![](./images/escornabot.png)
 
 [Escornabot](https://escornabot.com/web/es) es la versión OpenSource, además desarrollada por profes...
 
