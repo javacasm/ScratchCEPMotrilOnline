@@ -56,9 +56,9 @@
 [Montaje complejo](https://twitter.com/mandeepR41/status/1191764116131598336)
 
 ![](../images/MontajePuerta0.png)
-![](../images/montajePuerta1.png)
-![](../images/montajePuerta2.png)
-![](../images/montajePuerta3.png)
+![](../images/MontajePuerta1.png)
+![](../images/MontajePuerta2.png)
+![](../images/MontajePuerta3.png)
 
 ## Ideas
 
