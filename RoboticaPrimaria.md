@@ -14,9 +14,9 @@ El más utilizado pienso que es la famosa "Abejita" Beebot
 
 La parte educativa va en los **tableros**/**tapetes**
 
-![](./images/alfabeto.png)
+![](./images/alfombrilla-alfabeto-para-bee-botr-y-blue-bot-520x520.jpeg)
 
-![](./images/mates1º.jpg)
+
 
 
 ## Escornabot
@@ -27,19 +27,40 @@ La parte educativa va en los **tableros**/**tapetes**
 
 Los de 5º-6º de primaria pueden montarlo y programarlo
 
+![](./images/alfabeto.png)
 
+![](./images/mates1º.jpg)
 
 ## [Micro:bit](./Microbit.md)
 
 ![hardware](./images/4cfb4a0c22aa25164ba6f5f9cb4ae2d53cbf35ba-2577x1068.png)
 
-* Programable con Scratch
-* No necesita drivers
-* 18eu
-
+* Incluye:
+    * Muchos sensores
+    * Bluetooth/Radio
+* Programable con
+    * Scratch lo que permite integrarlo en nuestros programas
 ![](./images/Screen-Shot-2018-08-10-at-6.43.56-PM.png)
+    * Bloques/Javascript
+    ![](./images/Incio_bloques.png)
+    * Python
+* No necesita drivers
+* 18€
+* Incluye simulador
+* Se puede usar como MakeyMakey
+
+
+
 
 ## [MakeBlock](./mBlock.md)
+
+* Programable con:
+    * Scratch 3.0, lo que permite integrarlo en nuestros programas
+    * mBlock
+    * Arduino
+* Robusto
+* Trabajamos la mecánica
+* Iniciación a la electrónica y Arduino
 
 ![](./images/makeblock-mbot-pink-stem-educational-programmable-robot-bluetooth-version.jpg)
 
@@ -47,7 +68,15 @@ Los de 5º-6º de primaria pueden montarlo y programarlo
 
 ## [Echidna](./echidna.md)
 
-Desarrollado por profes
+![](./images/EschidnaShield-esquema.png)
+
+* Incluye muchos sensores
+* Desarrollado por profes
+* Programable con:
+    * Scratch 3.0, lo que permite integrarlo en nuestros programas
+    * mBlock
+    * Arduino
+* Iniciación a la electrónica y Arduino
 
 ![riego](./images/Riego.png)
 
