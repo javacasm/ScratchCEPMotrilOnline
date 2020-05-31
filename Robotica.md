@@ -43,3 +43,4 @@ Definición de robot: "Máquina **automática** **programable** capaz de realiza
 
 
 [6.0 Iniciación a la Robótica](https://docs.google.com/presentation/d/1B3eqx0K1gJYXXKqUbPve61isTMXq5ZVaaiyskVPWq_c/edit?usp=sharing)
+
