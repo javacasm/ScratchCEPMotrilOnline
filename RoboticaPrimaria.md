@@ -1,22 +1,36 @@
 ## Ejemplos de robótica en Primaria
 
-Introducción a la robotica
+### ¿Por qué usar la robótica en primaria?
+
+* Interacción. 
+* Conexión con el mundo físico. 
+* Introducción a la robótica.
+* Introducción a la programación.
+* Introducción a la electrónica.
+
+Nosotros usaremos Makey-Makey.
+
+![](./images/MakeyMakey.jpg)
+
+Pero vamos a ver otras alternativas.
 
 ## Beebot
 
-Robot sencillos de usar pensados para primaria
+Robot sencillo de usar pensados para primaria.
 
-El más utilizado pienso que es la famosa "Abejita" Beebot
+El más utilizado es la famosa "Abejita" Beebot
 
 ![](./images/bee-bot-robot-educativo-preescolar1-1.jpg)
 
+Programamos una sucesión de movimiento pulsando los botones de las fechas.
+
 ![](./images/uso-robot-beebot.png)
 
-La parte educativa va en los **tableros**/**tapetes**
+La parte educativa está en los **tableros**/**tapetes**
+
+En el de la imagen podemos hacer que el robot se mueva deletreando palabras, o vaya a los cuadros de un mismo color.
 
 ![](./images/alfombrilla-alfabeto-para-bee-botr-y-blue-bot-520x520.jpeg)
-
-
 
 
 ## Escornabot
@@ -25,7 +39,7 @@ La parte educativa va en los **tableros**/**tapetes**
 
 [Escornabot](https://escornabot.com/web/es) es la versión OpenSource, además desarrollada por profes...
 
-Los de 5º-6º de primaria pueden montarlo y programarlo
+El alumnado de 5º-6º de primaria puede montarlo y programarlo, los de primaria lo usan.
 
 ![](./images/alfabeto.png)
 
@@ -38,7 +52,7 @@ Los de 5º-6º de primaria pueden montarlo y programarlo
 * Incluye:
     * Muchos sensores
     * Bluetooth/Radio
-* Programable con
+* Programable con:
     * Scratch lo que permite integrarlo en nuestros programas
 ![](./images/Screen-Shot-2018-08-10-at-6.43.56-PM.png)
     * Bloques/Javascript
@@ -48,11 +62,12 @@ Los de 5º-6º de primaria pueden montarlo y programarlo
 * 18€
 * Incluye simulador
 * Se puede usar como MakeyMakey
-
-
+* Podemos usarlo en diferentes etapas con diferentes niveles de complejidad.
 
 
 ## [MakeBlock](./mBlock.md)
+
+![](./images/makeblock-mbot-pink-stem-educational-programmable-robot-bluetooth-version.jpg)
 
 * Programable con:
     * Scratch 3.0, lo que permite integrarlo en nuestros programas
@@ -62,7 +77,7 @@ Los de 5º-6º de primaria pueden montarlo y programarlo
 * Trabajamos la mecánica
 * Iniciación a la electrónica y Arduino
 
-![](./images/makeblock-mbot-pink-stem-educational-programmable-robot-bluetooth-version.jpg)
+
 
 ![Hello LED!](./images/HelloLed!.png)
 
@@ -82,6 +97,8 @@ Los de 5º-6º de primaria pueden montarlo y programarlo
 
 ![](./images/SensorHumedadArduino.png)
 
+## Otros robots educativos:
+
 ## [Ozobot](https://ozobot.com/)
 
 ![](./images/ozobot.jpg)
@@ -99,3 +116,5 @@ Los de 5º-6º de primaria pueden montarlo y programarlo
 ## Lego Ev3
 
 ![](./images/explore-ev3-5e8545c306360c0574ca76ca7c12c48d.jpg)
+
+[Presentación: Robótica en Primaria](https://docs.google.com/presentation/d/1o0JGiDu6wkU9-KzoVodnO4xihsjJHjj88dO6EMfBfF4/edit?usp=sharing)
