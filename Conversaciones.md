@@ -228,7 +228,29 @@ El proyecto completo queda así:
 [Vídeo: Creando bloques propios con argumentos](https://youtu.be/GLU7nc_mZpk)
 
 
-### Ejemplo sencillo de conversació o historia
+### Ejemplo de bloque con argumento de Texto: Decir en Alto
+
+Creamos un bloque que nos facilita los programas en los que se muestra un texto en pantalla a la vez que se lee en voz alta (con la extensión Texto a Voz).
+
+![Bloque DecirAlto](./images/MiBloqueDecirAlto.png)
+
+En el que hacemos que nuestro personaje muestre el texto en pantalla y a la vez lo lea en voz alta.  Esto es algo que hacemos con mucha frecuencia, con lo que el bloque nos va a facilitar la tarea. 
+
+Además nuestro programa queda más compacto y claro.
+
+Hablamos también de la limitación que hay en la longitud del texto que se puede reproducir hablando.
+
+Aprovechamos para guardar el bloque en nuestra mochila, pues seguro que nos va a servir más adelante.
+
+[Proyecto](https://scratch.mit.edu/projects/400870616/)
+
+[![Vídeo: Ejemplo de bloque definido por el usuario con argumento de tipo Texto DecirAlto](https://img.youtube.com/vi/HQec681Tx88/0.jpg)](https://youtu.be/HQec681Tx88)
+
+
+[Vídeo: Ejemplo de bloque definido por el usuario con argumento de tipo Texto DecirAlto](https://youtu.be/HQec681Tx88)
+
+
+### Ejemplo sencillo de conversación o historia
 
 Vamos a empezar a trabajar la creación de historias, con una sencilla e intrascendente conversación entre 2 personajes: Gato y Rana, que se encontrarán junto a un sendero en un bosque y se saludarán.
 

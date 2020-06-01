@@ -111,3 +111,7 @@ Usamos el efecto "Desvanecer"
 * Controla la velocidad de reproducción.
 
 ![CambiarTempo](./images/CambiarTempo.png)
+
+## Makey-Makey
+
+Encender luces y motoress

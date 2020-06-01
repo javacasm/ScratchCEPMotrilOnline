@@ -1,4 +1,4 @@
-## Ejemplos de robótica en Primaria
+## Ejemplos de robótica en  educación Infantil y Primaria
 
 ### ¿Por qué usar la robótica en primaria?
 
@@ -118,3 +118,9 @@ El alumnado de 5º-6º de primaria puede montarlo y programarlo, los de primaria
 ![](./images/explore-ev3-5e8545c306360c0574ca76ca7c12c48d.jpg)
 
 [Presentación: Robótica en Primaria](https://docs.google.com/presentation/d/1o0JGiDu6wkU9-KzoVodnO4xihsjJHjj88dO6EMfBfF4/edit?usp=sharing)
+
+[![Vídeo: Ejemplos de robótica en  educación Infantil y Primaria](https://img.youtube.com/vi/CH79S9pZKxo/0.jpg)](https://youtu.be/CH79S9pZKxo)
+
+
+
+[Vídeo: Ejemplos de robótica en  educación Infantil y Primaria](https://youtu.be/CH79S9pZKxo)

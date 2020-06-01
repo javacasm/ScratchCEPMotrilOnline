@@ -11,7 +11,7 @@ La placa nos permite:
 
 * Interacción con Hardware.
 * Sacar nuestros proyectos del ordenador
-* Poder usarlos sin teclado,  ratón o monitor
+* Poder usarlos sin teclado,  ratón o monitor  
 * Simula un teclado y ratón
 
 Con esto vemos que será fácl convertir unas pocas frutas en un piano, uno de los clásicos proyectos.
@@ -48,7 +48,7 @@ O combinado con sonidos grabados o imágnes, una forma sencilla de aprender la e
 
 O para identificar los nombres con los colores
 
-![MM-Colores.jpg](../images/MM-Colores.jpg)
+![MM-Colores.jpg](../images/Kahoot.jpg)
 
 O montar un EscapeRoom o animar tu Halloween
 
@@ -95,6 +95,11 @@ Es compatible con Arduino, basada en el modelo Arduino Leonardo. Más detalles e
 * Aliexpress  -  9€
 
 Obviamente a medida que bajamos en precio también lo hace la calidad y la duración...
+
+[![Vídeo: ¿Qué es Makey-Makey?](https://img.youtube.com/vi/g_C3AI79kUA/0.jpg)](https://youtu.be/g_C3AI79kUA)
+
+[Vídeo: ¿Qué es Makey-Makey?](https://youtu.be/g_C3AI79kUA)
+
 
 ## ¿Cómo se usa?
 
@@ -181,4 +186,9 @@ Al tocar el cable negro y el de color Gato maúlla
 ![4](https://cdn.sparkfun.com/r/600-600/assets/7/f/e/6/3/52e95334ce395fe8108b456d.jpg)
 
 [Presentación: ¿Qué es MakeyMakey?](https://docs.google.com/presentation/d/1VPMIUyigIx8NufRw1sIC-4nzrLnbFGXjXMV_So_jYVo/edit?usp=sharing)
+
+[![Vídeo: ¿Cómo usar Makey-Makey? ](https://img.youtube.com/vi/yEZgaEV5FMM/0.jpg)](https://youtu.be/yEZgaEV5FMM)
+
+
+[Vídeo: ¿Cómo usar Makey-Makey?](https://youtu.be/yEZgaEV5FMM)
 

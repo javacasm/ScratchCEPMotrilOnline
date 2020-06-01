@@ -35,7 +35,7 @@ Se puede hablar de:
 * Robot de limpieza: 2 ruedas/motores, sensores de choque, de paredes, detectores de suelo, motor del aspirador ¿Saben buscar su casita?
 * Robot de cocina: diferenciar de las "herramientas eléctricas de cocina". Motor/batidora, báscula, calentador,...
 * Parking automático: barreras, cámaras lectoras de matrícula, sensores de ocupación, pantallas, cajeros, sensores de humos, ventilación...
-* ¿Un coche es un robot? ¿y uno que conduce él solo? (Ejemplos de Tesla)
+* ¿Un coche es un robot? ¿y uno que conduce él solo? (Ejemplo: coches Tesla)
 
 ![](./images/robot.jpg)
 
@@ -44,3 +44,7 @@ Definición de robot: "Máquina **automática** **programable** capaz de realiza
 
 [6.0 Iniciación a la Robótica](https://docs.google.com/presentation/d/1B3eqx0K1gJYXXKqUbPve61isTMXq5ZVaaiyskVPWq_c/edit?usp=sharing)
 
+[![Dinámica: Introducción a la Robótica](https://img.youtube.com/vi/TnLVyZMdjYM/0.jpg)](https://youtu.be/TnLVyZMdjYM)
+
+
+[Dinámica: Introducción a la Robótica](https://youtu.be/TnLVyZMdjYM)
