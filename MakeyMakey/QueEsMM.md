@@ -170,6 +170,17 @@ Al tocar el cable negro y el de color Gato maúlla
 
 ![](../images/MM-3Prueba.png)
 
+## Trucos para el cable de tierra
+
+Recuerda que siempre hay que hacer contacto con el cable de tierra. Para ello podemos usar algunos trucos:
+
+![MM-TrucoAnillo](../images/MM-TrucoAnillo.jpg)
+
+* Podemos usar cualquier anillo o pulsera o reloj siempre que sea metálico para que haga contacto con nuestro cuerpo. Cuidado que las pinzas cocodrilo se pueden comer tu pulserita de plata.
+* Sujetar la pinza a una pulsera o reloj aunque no sean metálicos pero que hagan buen contacto con nuestra piel.
+* Hacer una pulsera de papel de aluminio.
+* Envolver con aluminio algún componente que cojamos con la mano.
+
 ## Añade componentes
 
 ¿Qué podemos conectar?
