@@ -115,3 +115,16 @@ Usamos el efecto "Desvanecer"
 ## Makey-Makey
 
 Encender luces y motoress
+
+## Truco para animar mientras se desliza
+
+![TrucoCambiarDisfrazMientrasCamina](./images/TrucoCambiarDisfrazMientrasCamina.png)
+
+El truco es tener 2 bloques de código asociados al mismo evento (la bandera verde) que se ejecutan a la vez y usar una variable  que permite sincronizarlos.
+
+No lo veo muy sencillo y por eso lo hice de la otra forma, a mi juego más fácil de entender. Pero a estas alturas del curso creo que ya es hora de desvelar mi secreto.
+
+
+
+
+[Programa](https://scratch.mit.edu/projects/401193071/)
