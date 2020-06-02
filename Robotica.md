@@ -1,10 +1,13 @@
-# Robótica en educación 
+# Robótica en educación: MakeyMakey 
 
 En esta sesión vamos a aplicar todo lo aprendido en una introducción a la robótica.
 
 Hablaremos cómo introducirla en educación, de equipos y kits que podemos usar para trabajarla.
 
-Pero sobre todo hablaremos de una herramienta fundamental como es MakeyMakey que nos permite sacar nuestros programas de la pantalla del ordenador y trabajar en el mundo físico
+Pero sobre todo hablaremos de una herramienta fundamental como es MakeyMakey que nos permite sacar nuestros programas de la pantalla del ordenador y trabajar en el mundo físico.
+
+![MM-diseño](./images/MM-diseño.jpg)
+
 
 * [Introducción a la robotica](./RoboticaIntroduccion.md)
 * [Robótica en educación Infantil, Primaria y más allá](./RoboticaPrimaria.md)
