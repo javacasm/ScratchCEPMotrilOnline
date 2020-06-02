@@ -21,4 +21,4 @@ Pero sobre todo hablaremos de una herramienta fundamental como es MakeyMakey que
     * [¿Qué fruta es?](./MakeyMakey/Frutas.md#ejemplo-qu%C3%A9-fruta-soy)
 * Preguntas y respuestas
     * [Pregunta y respuestas](./MakeyMakey/quiz.md)
-    * [Quiz I (flores)](./MakeyMakey/quiz.md)
+    * [Varias preguntas y varias respuestas](./MakeyMakey/quiz.md#varias-preguntas-y--varias-respuestas-emparejando)
