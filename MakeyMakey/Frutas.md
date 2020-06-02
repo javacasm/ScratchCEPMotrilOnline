@@ -6,11 +6,11 @@ Vamos a hacer un clásico: conectar frutas a MakeyMakey. Haremos un par de versi
 
 Vamos a hacer que nuestro programa diga en voz alta el nombre de una fruta cuando la toquemos. 
 
-Vamos a hacer un programa que no necesite pantalla: sólo las frutas conectadas a MakeyMakey y un altavoz para oir sus nombre en un idioma dado.
+Vamos a hacer un programa que no necesite pantalla: sólo las frutas conectadas a MakeyMakey y un altavoz para oír sus nombre en un idioma dado.
 
 Para ello usaremos la extensión "MakeyMakey" y la de "Texto a Voz"
 
-Tras cada evento asociado a las teclas del cursor, selecionaremos el idioma que vamos a usar y diremos su nombre.
+Tras cada evento asociado a las teclas del cursor, seleccionaremos el idioma que vamos a usar y diremos su nombre.
 
 El programa es muy sencillo:
 
@@ -32,11 +32,8 @@ Al pulsar la tecla espacio el juego empezará y nos dirá el nombre de una fruta
 El orden de las frutas será aleatorio.
 
 Usaremos el sensor de teclado
-
 ![BloqueEsperarHasta](../images/BloqueEsperarHasta.png)
-
-la condición hasta que se pulse cualqier tecla
-
+la condición hasta que se pulse cualquier tecla
 ![BloqueTeclaCualqueira](../images/BloqueTeclaCualqueira.png)
 
 Tras pulsarse cualquier tecla, comprobaremos si es la correcta. Si es así decimos "It's OK" y en cualquier caso pasamos a otra fruta. 

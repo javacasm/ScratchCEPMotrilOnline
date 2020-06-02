@@ -1,4 +1,4 @@
-## Ejemplos de robótica en  educación Infantil y Primaria
+## Ejemplos de robótica en educación Infantil, Primaria y más allá
 
 ### ¿Por qué usar la robótica en primaria?
 
@@ -37,7 +37,9 @@ En el de la imagen podemos hacer que el robot se mueva deletreando palabras, o v
 
 ![](./images/escornabot.png)
 
-[Escornabot](https://escornabot.com/web/es) es la versión OpenSource, además desarrollada por profes...
+[Escornabot](https://escornabot.com/web/es) es la versión OpenSource, además desarrollada por profes... de los robot de tipo "Abejita"
+
+El objetivo es que los chavales lo usen y a la vez aprendan que pueden construirlo, los componentes de un robot y conozcan la filosofía de compartir conocimiento de forma libre (Open Source)
 
 El alumnado de 5º-6º de primaria puede montarlo y programarlo, los de primaria lo usan.
 
@@ -46,6 +48,8 @@ El alumnado de 5º-6º de primaria puede montarlo y programarlo, los de primaria
 ![](./images/mates1º.jpg)
 
 ## [Micro:bit](./Microbit.md)
+
+Es una placa desarrollada por la Fundación BBC y pensada para que todos los escolares británicos aprendan programación, electrónica y robótica.
 
 ![hardware](./images/4cfb4a0c22aa25164ba6f5f9cb4ae2d53cbf35ba-2577x1068.png)
 

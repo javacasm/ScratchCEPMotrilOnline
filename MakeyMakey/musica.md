@@ -36,7 +36,7 @@ Una ampliación sencilla será añadir un pedal (hacemos contacto con 2 láminas
 
 Para montar un piano hemos usado una imagen de teclado que hemos impreso.
 
-Dado que son muc
+Dado que son muchas teclas tendremos que usar además de los conectores de las flechas, los del lateral que nos simulan las teclas W, A, S, D, F y G
 
 ![](../images/piano-307653_960_720.webp)
 
@@ -70,7 +70,7 @@ La extensión Makey-Makey, además de los eventos de pulsación de teclas tiene 
 
 ![BloqueMMSecuenciaTeclas](../images/BloqueMMSecuenciaTeclas.png)
 
-¿Para qué podemos usar este bloque? Para detectar deteminadas secuencias (muchos videojuegos los usan para movimientos complejos) o como una clave secreta que sólo el usuario sabe (la última secuencia de ↑  ↑  ↓  ↓  ←  →  ← → era un código que un empresa de videojuegos usaba para activar un modo especial de juego, a modo de Huevo de Pascua)
+¿Para qué podemos usar este bloque? Para detectar determinadas secuencias (muchos videojuegos los usan para movimientos complejos) o como una clave secreta que sólo el usuario sabe (la última secuencia de ↑  ↑  ↓  ↓  ←  →  ← → era un código que un empresa de videojuegos usaba para activar un modo especial de juego, a modo de Huevo de Pascua)
 
 El programa queda así:
 
@@ -96,7 +96,7 @@ Son muchísimos los montajes que podemos encontrar en internet de instrumentos, 
 
 ![imag](https://cdn.shopify.com/s/files/1/0162/8612/files/2046_stepthree2_large.png?v=1558554579)
 
-[Tecla de 2 capas o Salta-salta](https://makeymakey.com/blogs/how-to-instructions/makey-makey-run-and-jump-game-pad) Hacemos un sandwitch con 2 cartones forrados de papel de aluminio y con un separador de cartón en medio. Al pisarlo hacen contacto. Es laborioso de hacer pero muy duradero. En la imagen se ve que están usando los hilos de los cables de red.
+[Tecla de 2 capas o Salta-salta](https://makeymakey.com/blogs/how-to-instructions/makey-makey-run-and-jump-game-pad) Hacemos un sandwich con 2 cartones forrados de papel de aluminio y con un separador de cartón en medio. Al pisarlo hacen contacto. Es laborioso de hacer pero muy duradero. En la imagen se ve que están usando los hilos de los cables de red.
 
 ![img](https://cdn.shopify.com/s/files/1/0162/8612/files/283_StepSix_large.png?v=1558473420)
 
@@ -113,7 +113,7 @@ Son muchísimos los montajes que podemos encontrar en internet de instrumentos, 
 
 ![](https://cdn.shopify.com/s/files/1/0162/8612/articles/musical_water_main-01_1400x.png?v=1563223957)
 
-[Silla-piano](https://makeymakey.com/blogs/how-to-instructions/piano-chair). Sin duda el instrumento más orginal para no tener que moverte del asiento.
+[Silla-piano](https://makeymakey.com/blogs/how-to-instructions/piano-chair). Sin duda el instrumento más original para no tener que moverte del asiento.
 
 ![](https://cdn.shopify.com/s/files/1/0162/8612/files/2094_StepOne1_large.png?v=1558624704)
 

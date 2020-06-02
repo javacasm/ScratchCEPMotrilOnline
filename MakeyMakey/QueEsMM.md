@@ -14,7 +14,7 @@ La placa nos permite:
 * Poder usarlos sin teclado,  ratón o monitor  
 * Simula un teclado y ratón
 
-Con esto vemos que será fácl convertir unas pocas frutas en un piano, uno de los clásicos proyectos.
+Con esto vemos que será fácil convertir unas pocas frutas en un piano, uno de los clásicos proyectos.
 
 ![bananaPiano](../images/bananaPiano.jpg)
 
@@ -42,7 +42,7 @@ O sobre sintagmas
 
 ![MM-Sintagmas.jpg](../images/MM-Sintagmas.jpg)
 
-O combinado con sonidos grabados o imágnes, una forma sencilla de aprender la emociones
+O combinado con sonidos grabados o imágenes, una forma sencilla de aprender la emociones
 
 ![MM-emociones.jpg](../images/MM-Emociones.jpg)
 
@@ -107,16 +107,17 @@ Tenemos que cerrar  un circuito eléctrico: entre Tierra (Earth o Ground) y otro
 
 ![howitworks](../images/makey-makey-how-it-works.jpg)
 
-Como se ve en la imagen, los cables y la persona cierran el circuito entre Tierra y el contacto de la fecha Arriba
+Como se ve en la imagen, los cables y la persona cierran el circuito entre Tierra y el contacto de la fecha Arriba.
 
-Para hacer buen contacto tenemos que tocar la parte met'alica
+Para hacer buen contacto tenemos que tocar la parte metálica:
+
 ![](../images/TocarLoMetalico.png)
 
 Podemos cerrar el circuito con el dedo:
 
 ![](../images/CerrarCircuitoDedo.png)
 
-O con un cable
+O con un cable:
 
 ![](../images/CerrarCircuitoCable.png)
 
@@ -129,8 +130,8 @@ O con un cable
 
 Usando los conectores laterales (con los cables finos) podemos conectar hasta 18 cables:
 * W, A, S, D, F, G
-* Ratón: ↑ ↓ ← → botón Izq y Drcha
-* Teclado: ↑ ↓ ← → Espacio, botón Izq
+* Ratón: movimientos ↑ ↓ ← → botón Izq y Drcha
+* Teclado: teclas de flechas ↑ ↓ ← → Espacio, botón Izq
 
 ## Drivers
 
@@ -146,6 +147,8 @@ No debería pasar, pero ... Si no se detecta como teclado, tendremos que instala
 
 ## Primeras pruebas
 
+Vamos a comenzar a hacer pruebas, empezando por las más básicas:
+
 ### Prueba 1ª
 
 * Conecta USB ->  Luz roja
@@ -154,7 +157,7 @@ No debería pasar, pero ... Si no se detecta como teclado, tendremos que instala
 
 ### Prueba 2ª
 
-Con este sencillo progrma https://scratch.mit.edu/projects/400292949/
+Con este sencillo [programa](https://scratch.mit.edu/projects/400292949/)
 
 ![](../images/MM-1prueba.png) 
 
