@@ -19,6 +19,6 @@ Pero sobre todo hablaremos de una herramienta fundamental como es MakeyMakey que
 * MakeyMakey y las frutas
     * [Frutas habladas y su conexion con MakeyMakey](./MakeyMakey/Frutas.md)
     * [¿Qué fruta es?](./MakeyMakey/Frutas.md#ejemplo-qu%C3%A9-fruta-soy)
-* [Quiz I (Preguntas Andalucia)](./MakeyMakey/quiz.md)
-* [Quiz I (flores)](./MakeyMakey/quiz.md)
-* [Quiz II](./MakeyMakey/QuizII.md)
+* Preguntas y respuestas
+    * [Pregunta y respuestas](./MakeyMakey/quiz.md)
+    * [Quiz I (flores)](./MakeyMakey/quiz.md)
