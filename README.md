@@ -73,6 +73,10 @@
 
 [Interacción](./Interacion.md)
 
+## Sesión 8: Robótica en educación: MakeyMakey 
+
+[Robótica en educación: MakeyMakey](./Robotica.md)
+
 ## [Referencias/Ampliación](./Referencias.md)
 
 ## [OpenSource](./opensource.md)
