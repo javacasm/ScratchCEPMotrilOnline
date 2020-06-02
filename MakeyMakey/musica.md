@@ -21,7 +21,15 @@ Hemos usado una imagen de batería que hemos impreso y hemos usado encuadernador
 
 ![MontajeBateria](../images/MontajeBateria.png)
 
-Hemos envuelto la baqueta (un bolígrafo) en papel de aluminio, al que hemos conectado la pinza negra de Tierra.
+Hemos envuelto la baqueta (un bolígrafo) en papel de aluminio, al que hemos conectado la pinza negra de Tierra. De esta forma al tenerlo sujeto con la mano estoy haciendo contacto y también puedo tocar con la otra mano.
+
+Una ampliación sencilla será añadir un pedal (hacemos contacto con 2 láminas de aluminio o con el pie).
+
+[![Vídeo: Tocando la batería con MakeyMakey y Scratch](https://img.youtube.com/vi/WHG7o5EjoTY/0.jpg)](https://youtu.be/WHG7o5EjoTY)
+
+
+[Vídeo: Tocando la batería con MakeyMakey y Scratch](https://youtu.be/WHG7o5EjoTY)
+
 
 
 ## Piano
@@ -74,3 +82,42 @@ El programa queda así:
 
 
 [Vídeo: Piano clásico y psicodélico con Scratch y MakeyMakey](https://youtu.be/5UY0iAJ3UWY)
+
+## Otros montajes
+
+Son muchísimos los montajes que podemos encontrar en internet de instrumentos, os enlazo aquí unos cuantos:
+
+
+[Piano más grande, con teclas móviles](https://www.instructables.com/id/Educational-Makey-Makey-Piano/). Ha ganado varios premios y hasta lo tocó un conocido pianista.
+
+![](https://content.instructables.com/FXV/C0RD/K76EGJEB/FXVC0RDK76EGJEB.LARGE.jpg?auto=webp&frame=1&width=336&height=1024&fit=bounds    )
+
+[Macro Piano](https://makeymakey.com/blogs/how-to-instructions/oversized-and-portable-floor-piano) pensado para tocarlo con los pies descalzos: hacemos contacto entre las teclas y las líneas perpendiculares. Muy vistoso pero el uso con los pies lo hace poco duradero.
+
+![imag](https://cdn.shopify.com/s/files/1/0162/8612/files/2046_stepthree2_large.png?v=1558554579)
+
+[Tecla de 2 capas o Salta-salta](https://makeymakey.com/blogs/how-to-instructions/makey-makey-run-and-jump-game-pad) Hacemos un sandwitch con 2 cartones forrados de papel de aluminio y con un separador de cartón en medio. Al pisarlo hacen contacto. Es laborioso de hacer pero muy duradero. En la imagen se ve que están usando los hilos de los cables de red.
+
+![img](https://cdn.shopify.com/s/files/1/0162/8612/files/283_StepSix_large.png?v=1558473420)
+
+[Piano pintado](https://www.instructables.com/id/Graphite-Piano-Keyboard-with-MaKey-MaKey-and-Scrat/)
+
+![imag](https://cdn.instructables.com/F70/3UKZ/I6NI55CA/F703UKZI6NI55CA.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds)
+
+[Instrumento musical pintado](https://makeymakey.com/blogs/how-to-instructions/lesson-four-draw-a-playable-instrument)
+
+![](https://cdn.shopify.com/s/files/1/0162/8612/files/Image_from_iOS_3_1024x1024.jpg?v=1567643521)
+
+
+[Música con agua](https://makeymakey.com/blogs/how-to-instructions/musical-water-with-soundplant) Una versión con vasos de agua del piano.
+
+![](https://cdn.shopify.com/s/files/1/0162/8612/articles/musical_water_main-01_1400x.png?v=1563223957)
+
+[Silla-piano](https://makeymakey.com/blogs/how-to-instructions/piano-chair). Sin duda el instrumento más orginal para no tener que moverte del asiento.
+
+![](https://cdn.shopify.com/s/files/1/0162/8612/files/2094_StepOne1_large.png?v=1558624704)
+
+
+[Guitarra musical](https://makeymakey.com/blogs/how-to-instructions/creating-a-guitar-in-scratch-or-soundplant) Se han usado imanes para hacer el contacto en los trastes. El cable de tierra está en la zona de las cuerdas y al tocarlo hacemos contacto.
+
+![imag](https://cdn.shopify.com/s/files/1/0162/8612/files/1484-StepFive_large.png?v=1558551537)
