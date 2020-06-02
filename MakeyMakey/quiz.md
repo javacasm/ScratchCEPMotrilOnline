@@ -6,7 +6,7 @@ Otro gran uso muy interesante de MakeyMakey es el crear teclados específicos pa
 Los podemos usar para seleccionar la respuesta a un pregunta.
 
 
-# 1 Pregunta con varias respuestas
+# Pregunta con varias respuestas
 
 Vamos a empezar haciendo ejemplos en los que tenemos una pregunta y varias respuestas posibles.
 
@@ -32,6 +32,12 @@ Utilizamos mensajes para pasar de una pregunta a otra.
 Es muy sencillo añadir una nueva pregunta sin más que duplicar el bloque de una provincia, crear un nuevo mensaje y cambiar la tecla de la respuesta correcta.
 
 [Proyecto](https://scratch.mit.edu/projects/367536515/)
+
+
+[![Vídeo: Pregunta con varias respuestas. Mapa de Andalucía](https://img.youtube.com/vi/TAlhmtgIDn8/0.jpg)](https://youtu.be/TAlhmtgIDn8)
+
+
+[Vídeo: Pregunta con varias respuestas. Mapa de Andalucía](https://youtu.be/TAlhmtgIDn8)
 
 ## Teclados a medida
 
