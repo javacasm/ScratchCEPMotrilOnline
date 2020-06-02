@@ -83,9 +83,13 @@ Asociado al evento de clic sobre el objeto hacemos que se cambie el fondo, dando
 
 [Proyecto](https://scratch.mit.edu/projects/350351898/)
 
-## Ejemplo: Sintagmas. Varias preguntas y  varias respuestas
+## Varias preguntas y  varias respuestas. Emparejando
 
 Vamos hacer ahora un ejemplo en el que tenemos varias preguntas y sus respuestas todas juntas. Es un juego de emparejar las preguntas y las respuestas.
+
+
+## Ejemplo: Sintagmas
+
 
 Lo utilizaremos para probar los conocimientos de sintagmas, usando este montaje que una Maestra elaboró para otra edición de este curso:
 
