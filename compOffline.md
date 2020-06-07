@@ -129,6 +129,12 @@ Es un libro de 200 y muchas páginas donde tenéis todo lo que sería esta forma
 
 También os recomiendo [otra página de programamos.es](http://programamos.es/hack/unplugged/) donde nos explican algunas actividades como por ejemplo sería este Cody-Roby para entenderlo en todo detalle.
 
+[![Vídeo: Pensamiento computacional desconectado](https://img.youtube.com/vi/zE_8EhmpoYE/0.jpg)](https://youtu.be/zE_8EhmpoYE)
+
+
+[Vídeo: Pensamiento computacional desconectado](https://youtu.be/zE_8EhmpoYE)
+
+
 ## Referencias
 
 [¿Se puede desarrollar el pensamiento computacional sin ordenador? Evidencia científica](https://intef.es/Noticias/se-puede-desarrollar-el-pensamiento-computacional-sin-ordenador-evidencia-cientifica/)
