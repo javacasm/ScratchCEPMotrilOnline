@@ -77,6 +77,10 @@
 
 [Robótica en educación: MakeyMakey](./Robotica.md)
 
+## Sesión 9: Pensamiento computacional desconectado
+
+[Pensamiento computacional desconectado](./compOffline.md)
+
 ## [Referencias/Ampliación](./Referencias.md)
 
 ## [OpenSource](./opensource.md)
