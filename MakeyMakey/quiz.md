@@ -18,7 +18,7 @@ Podemos tener varias preguntas sucesivas, pero necesitamos saber en cual estamos
 
 Vamos a adaptar el programa del recorrido por Andalucía que hicimos a un formato de preguntas y respuestas.
 
-Para ello usaremos un mapa que hemos impreso y al quehemos colocado encuadernadores donde conectamos los botones de la MakeyMakey:
+Para ello usaremos un mapa que hemos impreso y al que hemos colocado encuadernadores donde conectamos los botones de la MakeyMakey:
 
 ![MM-mapaAndaluciaEncuadernadores](../images/MM-mapaAndaluciaEncuadernadores.jpg)
 
