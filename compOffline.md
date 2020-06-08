@@ -33,7 +33,7 @@ Hay una carta que te permite avanzar y otra que te obliga a girar a la izquierda
 
 La forma de funcionar es muy sencilla pues repartimos unas cartas impresas previamente o es una mano no lo antes suele sersi veis las cartas recordara lo que hablábamos del cole de la forma de jugar de Code.org y veis que se parece bastante y se aparte sencillas aparte muy clásica de movimiento en el que es todo muy simple definido una regla definimos un tablero imaginario y jugamos un poco .
 
-Imágenes tomadas de la excelente página [programamos.es](https://programamos.es) donede podemos encontrar [más detalles sobre Cody-Roby](http://programamos.es/hack/unplugged/).
+Imágenes tomadas de la excelente página [programamos.es](https://programamos.es) donde podemos encontrar [más detalles sobre Cody-Roby](http://programamos.es/hack/unplugged/).
 
 Esta dinámica la podemos encontrar en muchísimos más juegos. 
 
@@ -99,9 +99,9 @@ Hay lecciones más cortas de no más de 3 páginas y otras más largas, como por
 
 ## ¿Qué es el pensamiento computacional?
 
-Para entenderlo bien yo recomiendo, el lugar de escucharme a mí que tengo bastante poca experiencia en esta parte más teória, que leáis [esta página](https://csunplugged.org/es/computational-thinking/) donde tenéis ejemplos bastantes interesantes:
+Para entenderlo bien yo recomiendo, el lugar de escucharme a mí que tengo bastante poca experiencia en esta parte más teoria, que leáis [esta página](https://csunplugged.org/es/computational-thinking/) donde tenéis ejemplos bastantes interesantes:
 * Donde podéis trabajarlo
-* Dispositivos d
+* Dispositivos
 * Cómo pasamos de la realidad al funcionamiento que tienen los distintos equipos
 * ¿Qué es un programa? con el típico de la receta de la tarta
 * Cómo se hace la instrucción 
