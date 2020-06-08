@@ -31,24 +31,24 @@
 
 ### Sesión 0: Presentación
 
-* [Presentación del curso](./Presentacion.md)
+[Presentación del curso](./Presentacion.md)
 
 ### Sesión 1: Sesión 1: Programación y robótica en la educación
 
 [Programación en la educación](./ProgramacionEnEducacion.md)
 
 
-#### Recursos
+#### Recursos:
 
-[Evidencias científicas de los beneficios de aprender a programar desde infantilURL](http://programamos.es/evidencias-cientificas-de-los-beneficios-de-aprender-a-programar-desde-infantil/)
+* [Evidencias científicas de los beneficios de aprender a programar desde infantilURL](http://programamos.es/evidencias-cientificas-de-los-beneficios-de-aprender-a-programar-desde-infantil/)
 
-[Proyecto Alhambra Mágica](https://alhambramagica.blogspot.com/)
+* [Proyecto Alhambra Mágica](https://alhambramagica.blogspot.com/)
 
 ### Sesión 2: Herramientas para aprender a programar usando bloques
 
-* [Entornos y aplicaciones para aprender a programar utilizando bloques](./HerramientasProgramacionBloques.md)
+[Entornos y aplicaciones para aprender a programar utilizando bloques](./HerramientasProgramacionBloques.md)
 
-#### Recursos
+#### Recursos:
 
 [Code.org](https://code.org)
 
@@ -86,7 +86,6 @@
 
 ## Sesión final: Despedida
 
-
-
+[Despedida](./Despedida.md)
 
 
