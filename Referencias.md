@@ -1,27 +1,20 @@
-# Recursos
+# Recursos para seguir aprendiendo
 
 
-[Code](code.org)
+Para empezar: [Code.org](code.org)
 
-[Novedades Scratch 3.0](https://medium.com/scratchteam-blog/introducing-scratch-3-0-expanding-the-creative-possibilities-of-coding-ad4cd9eda9ef)
 
-[Novedades Scratch 3.0](https://www.makeblock.com/official-blog/224782.html)
+## MOOCs sobre Scratch, robótica y programación
 
-[Novedades Scratch 3.0](https://programamos.es/bienvenido-scratch-3-0/)
-
-[Actividades Scratch 2.0](http://download.makeblock.com/Scratch2.0TheAdventuresofMike.pdf)
-
-## MOOCs
-
-[Scratch en UOC](https://mooc.scratch.uoc.edu)
+Curso de [Scratch en UOC](https://mooc.scratch.uoc.edu)
 
 [MOOCBot educaLAB Cómo introducir la programación y la robótica en todas las materias ](http://mooc.educalab.es/courses/INTEF/INTEF159/2015_ED1/info)
 
-[Programación II](http://www.scolartic.com/es/web//programacion-ii.-creando-codigo-fuente)
+Para aprender programación más avanzada: [Programación II](http://www.scolartic.com/es/web//programacion-ii.-creando-codigo-fuente)
 
 
 
-## [5 Razones](http://blog.todoelectronica.com/2015/10/5-motivos-por-los-aficionar-los-ninos-y-tan-ninos-la-programacion-la-robotica/)
+[5 Razones para aficionar a los niños y no tan niños a la programación y la robótica](http://blog.todoelectronica.com/2015/10/5-motivos-por-los-aficionar-los-ninos-y-tan-ninos-la-programacion-la-robotica/)
 
 * Es muy fácil empezar desde 0
 * Es divertido y engancha
@@ -32,20 +25,14 @@
 
 ## Referencias
 
-[Programamos](http://programamos.es)
+[Programamos:](http://programamos.es) Enorme cantidad de [recursos](https://programamos.es/recursos/) para docentes, organizados por edades, productos, tecnologías,... En la situación actual han creado una página excelente llamada [Hack la cuarentena](https://programamos.es/hack/) con actividades y cursos para hacer en casa
 
 [EducaLab](http://educalab.es/home)
 
 
-[cursos](http://paunin.blogspot.com.es/2015/11/quieres-aprender-scratch.html)
-
-[Curso UOC](https://mooc.scratch.uoc.edu/courses/course-v1:UOCx+UOC002+015_T1/info)
-
-[Curso Scratch](http://www.desarrollandojuntos.com/tecnologia-educativa/scratch/)
+[Otro curso Scratch](http://www.desarrollandojuntos.com/tecnologia-educativa/scratch/)
 
 [Educación 3.0](http://www.educaciontrespuntocero.com/recursos/el-proyecto-scratch-de-los-viernes-i-moviendo-el-gato/29934.html)
-
-[Ejemplos club de robotica de Granada](http://clubroboticagranada.esy.es/recursos/)
 
 
 ## Eventos
