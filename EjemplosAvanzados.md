@@ -124,7 +124,24 @@ El truco es tener 2 bloques de código asociados al mismo evento (la bandera ver
 
 No lo veo muy sencillo y por eso lo hice de la otra forma, a mi juego más fácil de entender. Pero a estas alturas del curso creo que ya es hora de desvelar mi secreto.
 
-
-
-
 [Programa](https://scratch.mit.edu/projects/401193071/)
+
+## Pasapalabra avanzado
+
+Lista de preguntas y Lista de respuestas
+
+Todas las letras son duplicados de la A con otros disfraces:
+1. Pendiente de respuesta
+1. Han dicho "pasapalabra"
+1. Error
+
+Variable local para el estado
+
+ó 
+
+1 único objeto con 26 disfraces y con transformaciones de color
+Listas: 
+* preguntas 
+* respuestas
+* estado
+
