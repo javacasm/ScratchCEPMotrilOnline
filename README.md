@@ -87,5 +87,3 @@
 ## Sesión final: Despedida
 
 [Despedida](./Despedida.md)
-
-
