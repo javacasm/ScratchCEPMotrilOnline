@@ -29,6 +29,7 @@ Para aprender programación más avanzada: [Programación II](http://www.scolart
 
 [EducaLab](http://educalab.es/home)
 
+[Programo Ergo Sum](https://www.programoergosum.es/) es una asociación que ha generado a lo largo de los años mucho material sobre [Scratch](https://www.programoergosum.es/tutoriales/tags/scratch) y sobre [robótica educativa en general](https://www.programoergosum.es/tutoriales/tags/robotica-educativa)
 
 [Otro curso Scratch](http://www.desarrollandojuntos.com/tecnologia-educativa/scratch/)
 

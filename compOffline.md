@@ -141,3 +141,5 @@ También os recomiendo [otra página de programamos.es](http://programamos.es/ha
 
 
 [Reconocimiento de imágenes desenchufado](http://code.intef.es/crea-tu-actividad-desenchufada-para-reconocimiento-de-imagenes-utilizando-la-inteligencia-artificial/)
+
+[Recursos unplugged de Programo Ergo Sum](https://www.programoergosum.es/tutoriales/tags/unplugged/)
