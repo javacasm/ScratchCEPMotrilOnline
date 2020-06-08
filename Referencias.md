@@ -48,3 +48,7 @@ Para aprender programación más avanzada: [Programación II](http://www.scolart
 ## Open Source
 
 Muchas de estas iniciativas son posibles gracias al movimiento [Open Source](./OpenSource.md)
+
+Todo este material se comparte con licencia CC by SA por @JAVacasm
+
+![Licencia CC](./images/Licencia_CC.png)
