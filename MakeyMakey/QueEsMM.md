@@ -206,3 +206,26 @@ Recuerda que siempre hay que hacer contacto con el cable de tierra. Para ello po
 
 [Vídeo: ¿Cómo usar Makey-Makey?](https://youtu.be/yEZgaEV5FMM)
 
+## MakeyMakey con tabletas
+
+### Tabletas y móviles Android
+
+Puesto que MakeyMakey simula un teclado y ratón, podemos conectarlo y utilizarlo sin más que encontrando el cable adecuado para nuestra trableta/móvil.
+
+Este cable se llama OTG, y debe tener un conector hembra USB tipo B (conde conectamos el MakeyMakey) y un conector micro de tipo macho que conectaremos a nuestro móvil. 
+
+Puede ser simulares a estos
+
+![GC_2511-OTG](../images/GC_2511-OTG.png)
+
+![USB OTG Type C](../images/USB_OTG_Type_C.jpg)
+
+
+
+### iPAd
+
+Para conectar MakeyMakey a un iPAd necesitaremos un adaptador.
+En la [página de makeymakey.com](https://makeymakey.com/blogs/blog/connect-a-makey-makey-to-your-ipad-to-build-a-mouse-or-trackpad-code-your-key-presses) nos indican algunos modelos que han probado y funcionan
+
+![USB adapter for iPad](https://images-na.ssl-images-amazon.com/images/I/31gWU7Pmz6L._AC_SL1024_.jpg)
+
