@@ -210,7 +210,7 @@ Recuerda que siempre hay que hacer contacto con el cable de tierra. Para ello po
 
 ### Tabletas y móviles Android
 
-Puesto que MakeyMakey simula un teclado y ratón, podemos conectarlo y utilizarlo sin más que encontrando el cable adecuado para nuestra trableta/móvil.
+Puesto que MakeyMakey simula un teclado y ratón, podemos conectarlo y utilizarlo sin más que encontrando el cable adecuado para nuestra tableta/móvil.
 
 Este cable se llama OTG, y debe tener un conector hembra USB tipo B (conde conectamos el MakeyMakey) y un conector micro de tipo macho que conectaremos a nuestro móvil. 
 
