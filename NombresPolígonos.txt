@@ -1,0 +1,10 @@
+Triángulo
+Cuadrado
+Pentágono
+Hexágono
+Heptágono
+Octógono
+Eneágono
+Decágono
+Undecágono
+Dodecágono

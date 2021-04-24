@@ -122,6 +122,7 @@ Utilizamos la extensión Text to Speech para oir los resultados en diferentes id
 Usamos una make-makey para que el usuario encuentre las correspondencias. Un sencillo programa tiene las respuestas correctas. Cada una de las preguntas/respuestas están conectadas a makey-makey y el usuario conectado a tierra tiene que tocar las parejas
 
 ![](../images/Proyecto3b.jpg)
+
 ![](../images/Proyecto3.jpg)
 
 Usamos

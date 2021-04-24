@@ -1,6 +1,9 @@
 Para secundaria o más allá
 
-[Siguelíneas](https://www.youtube.com/watch?v=kHzqFQ0EMos&list=PLzqyAKVt4MgOV6brvY33MkhIFqxtatr81&index=9)
+Explicar como grabarse con un croma (y el progama para quitar el fondo) y hacer un personaje animado con nuestras fotos
+
+
+[siguelíneas](https://www.youtube.com/watch?v=khzqfq0emos&list=plzqyakvt4mgov6brvy33mkhifqxtatr81&index=9)
 
 
 [Resolver laberintos]
